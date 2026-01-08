@@ -1,0 +1,22 @@
+async function obtenerPreguntasConocimientos() {
+  const URL = 'https://raw.githubusercontent.com/tuusuario/preguntas-esfm/main/conocimientos_generales.json';
+  
+  try {
+    const response = await fetch(URL);
+    const data = await response.json();
+    
+    // Mezclar y seleccionar 2 preguntas de cada área
+    const seleccionadas = [];
+    
+    data.areas.forEach(area => {
+      const mezcladas = [...area.preguntas].sort(() => Math.random() - 0.5);
+      seleccionadas.push(...mezcladas.slice(0, 2)); // 2 de cada área
+    });
+    
+    return seleccionadas.sort(() => Math.random() - 0.5); // Mezclar todo
+    
+  } catch (error) {
+    console.error('Error cargando conocimientos:', error);
+    return []; // Fallback
+  }
+}
