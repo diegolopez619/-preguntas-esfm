@@ -1,0 +1,2322 @@
+﻿[
+  {
+    "id": 1,
+    "pregunta": "Observa la siguiente serie numérica: 2, 5, 9, 14, 20, ¿cuál es el número que sigue?",
+    "opciones": ["A) 25", "B) 26", "C) 27", "D) 28"],
+    "respuesta_correcta": "C"
+  },
+  {
+    "id": 2,
+    "pregunta": "En una fila de baldosas, cada una tiene el doble de puntos que la anterior. Si la primera baldosa tiene 3 puntos, ¿cuántos puntos tendrá la quinta baldosa?",
+    "opciones": ["A) 24", "B) 32", "C) 40", "D) 48"],
+    "respuesta_correcta": "D"
+  },
+  {
+    "id": 3,
+    "pregunta": "Observa la siguiente serie de números: 2, 4, 8, 16, __. ¿Cuál número completa correctamente la secuencia?",
+    "opciones": ["A) 24", "B) 32", "C) 36", "D) 64"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 4,
+    "pregunta": "Observa la siguiente sucesión numérica: 3, 6, 12, 24, __. ¿Cuál es el número que continúa la serie?",
+    "opciones": ["A) 36", "B) 40", "C) 42", "D) 48"],
+    "respuesta_correcta": "D"
+  },
+  {
+    "id": 5,
+    "pregunta": "La siguiente serie muestra la evolución de la población en una aldea: 2, 4, 8, 16, … ¿Cuál es el número que sigue en la secuencia?",
+    "opciones": ["A) 24", "B) 32", "C) 36", "D) 48"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 6,
+    "pregunta": "Observa la siguiente serie de letras: A, C, F, J, O, … ¿Cuál es la letra que sigue en la secuencia?",
+    "opciones": ["A) T", "B) U", "C) V", "D) S"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 7,
+    "pregunta": "En una campaña de entrega de caramelos, la cantidad que se reparten cada día se duplica respecto al día anterior: Día 1 → 3 caramelos, Día 2 → 6 caramelos, Día 3 → 12 caramelos, Día 4 → 24 caramelos. ¿Cuántos caramelos se repartirán el Día 5?",
+    "opciones": ["A) 36", "B) 42", "C) 48", "D) 56"],
+    "respuesta_correcta": "C"
+  },
+  {
+    "id": 8,
+    "pregunta": "En una escuela se organizan filas de sillas para una presentación. La primera fila tiene 5 sillas, y cada fila sucesiva tiene 2 sillas más que la fila anterior. ¿Cuántas sillas habrá en la quinta fila?",
+    "opciones": ["A) 11", "B) 12", "C) 13", "D) 14"],
+    "respuesta_correcta": "C"
+  },
+  {
+    "id": 9,
+    "pregunta": "Observa la siguiente serie numérica: 2, 5, 8, 11, … ¿Cuál es el número que sigue en la secuencia?",
+    "opciones": ["A) 13", "B) 14", "C) 15", "D) 16"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 10,
+    "pregunta": "Observe la siguiente serie de números: 2, 5, 10, 17, 26, __. ¿Cuál es el número que completa la secuencia?",
+    "opciones": ["A) 34", "B) 35", "C) 37", "D) 38"],
+    "respuesta_correcta": "C"
+  },
+  {
+    "id": 11,
+    "pregunta": "En una serie que indica cuántos libros lee un estudiante cada mes, los valores son: 2, 5, 10, 17, 26, ... ¿Cuál será la cantidad de libros que leerá en el sexto mes?",
+    "opciones": ["A) 34", "B) 35", "C) 37", "D) 38"],
+    "respuesta_correcta": "C"
+  },
+  {
+    "id": 12,
+    "pregunta": "Una profesora dispone los números de los pupitres siguiendo la siguiente serie: 5, 11, 19, 29, … ¿Cuál es el número que corresponde al siguiente pupitre?",
+    "opciones": ["A) 39", "B) 41", "C) 43", "D) 45"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 13,
+    "pregunta": "Una estudiante registró la cantidad de libros que lee cada mes durante varios meses: 2, 5, 10, 17, 26, … ¿Cuántos libros debería leer el mes siguiente si mantiene el mismo patrón?",
+    "opciones": ["A) 35", "B) 36", "C) 37", "D) 38"],
+    "respuesta_correcta": "C"
+  },
+  {
+    "id": 14,
+    "pregunta": "Observa la siguiente sucesión de números: 5, 9, 17, 33, 65, __. ¿Cuál es el número que completa la serie?",
+    "opciones": ["A) 97", "B) 129", "C) 131", "D) 133"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 15,
+    "pregunta": "En una serie de lecturas de temperatura diaria se registraron los siguientes valores (en grados Celsius): 2, 5, 9, 14. ¿Cuál es el próximo valor que continuará la regularidad de la serie?",
+    "opciones": ["A) 18", "B) 20", "C) 21", "D) 22"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 16,
+    "pregunta": "En una actividad de matemática, el profesor muestra una serie de números escritos en la pizarra: 3, 6, 11, 18, 27, … ¿Cuál es el siguiente número que completa la secuencia?",
+    "opciones": ["A) 36", "B) 38", "C) 40", "D) 42"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 17,
+    "pregunta": "La sucesión de números empieza así: 2, 6, 12, 20. Cada término se obtiene sumando al anterior un número que aumenta en 2 unidades respecto al incremento anterior (es decir, 4, 6, 8, …). ¿Cuál es el siguiente número de la serie?",
+    "opciones": ["A) 28", "B) 30", "C) 32", "D) 34"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 18,
+    "pregunta": "Observa la siguiente serie numérica: 2, 6, 12, 20, __. ¿Cuál es el número que completa correctamente la serie?",
+    "opciones": ["A) 28", "B) 30", "C) 32", "D) 34"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 19,
+    "pregunta": "Observa la siguiente sucesión de números: 2, 6, 12, 20, … ¿Cuál es el próximo número de la serie?",
+    "opciones": ["A) 28", "B) 30", "C) 32", "D) 34"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 20,
+    "pregunta": "En una escuela, la cantidad de libros que se entregan a la biblioteca cada lunes forma la serie 5, 9, 13, 17,… ¿Cuál será el número de libros que se entregarán el lunes siguiente?",
+    "opciones": ["A) 19", "B) 20", "C) 21", "D) 22"],
+    "respuesta_correcta": "C"
+  },
+  {
+    "id": 21,
+    "pregunta": "En una actividad escolar se entregan trofeos a los equipos cada 5 minutos, iniciando a las 00:00 min. Si los premios se entregaron a los minutos 5, 10, 15 y 20, ¿cuál será el minuto en que se entregará el siguiente trofeo?",
+    "opciones": ["A) 22", "B) 23", "C) 25", "D) 30"],
+    "respuesta_correcta": "C"
+  },
+  {
+    "id": 22,
+    "pregunta": "En una biblioteca, se colocan los libros en estanterías siguiendo el siguiente patrón de cantidad de libros por fila: 2, 5, 8, 11. ¿Cuántos libros deberá haber en la quinta fila para mantener el mismo patrón?",
+    "opciones": ["A) 13", "B) 14", "C) 15", "D) 16"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 23,
+    "pregunta": "Observa la siguiente sucesión numérica: 5, 9, 17, 33, ___. ¿Cuál es el número que continúa la serie?",
+    "opciones": ["A) 49", "B) 57", "C) 65", "D) 67"],
+    "respuesta_correcta": "C"
+  },
+  {
+    "id": 24,
+    "pregunta": "En un jardín se plantaron una serie de arbustos cuyas alturas, en metros, se incrementan siguiendo el patrón: 2, 4, 8, 16. Si la secuencia continúa de la misma manera, ¿cuál será la altura del sexto arbusto?",
+    "opciones": ["A) 32", "B) 64", "C) 128", "D) 256"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 25,
+    "pregunta": "En una lista de valores que presenta la siguiente sucesión: 5, 9, 17, 33, ¿cuál es el número que sigue?",
+    "opciones": ["A) 49", "B) 57", "C) 65", "D) 67"],
+    "respuesta_correcta": "C"
+  },
+  {
+    "id": 26,
+    "pregunta": "En una serie se presentan los siguientes números: 2, 6, 12, 20, … ¿Cuál es el número que sigue en la secuencia?",
+    "opciones": ["A) 28", "B) 30", "C) 32", "D) 34"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 27,
+    "pregunta": "En el concurso de matemática de la escuela, el número de participantes que califican a la siguiente ronda ha sido el siguiente en los últimos cinco años: 4, 7, 11, 16, 22. ¿Cuántos participantes se espera que haya en la próxima ronda?",
+    "opciones": ["A) 27", "B) 29", "C) 31", "D) 33"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 28,
+    "pregunta": "Observa la siguiente serie de números: 2, 5, 10, 17, 26, … ¿Cuál es el próximo número que sigue en la secuencia?",
+    "opciones": ["A) 35", "B) 36", "C) 37", "D) 38"],
+    "respuesta_correcta": "C"
+  },
+  {
+    "id": 29,
+    "pregunta": "Observa la siguiente serie numérica: 5, 10, 20, 40, __. ¿Cuál es el número que completa la serie?",
+    "opciones": ["A) 60", "B) 70", "C) 80", "D) 100"],
+    "respuesta_correcta": "C"
+  },
+  {
+    "id": 30,
+    "pregunta": "En una fila de ladrillos se pinta siguiendo la secuencia de colores: rojo, verde, azul, rojo, verde, azul, ... ¿De qué color será el ladrillo número 15?",
+    "opciones": ["A) rojo", "B) verde", "C) azul", "D) amarillo"],
+    "respuesta_correcta": "C"
+  },
+  {
+    "id": 31,
+    "pregunta": "Una serie de números se forma añadiendo 3 al número anterior. Si el primer número de la serie es 5, ¿cuál será el cuarto número?",
+    "opciones": ["A) 11", "B) 13", "C) 14", "D) 17"],
+    "respuesta_correcta": "C"
+  },
+  {
+    "id": 32,
+    "pregunta": "Observa la siguiente serie de números: 2, 5, 10, 17, __. ¿Cuál es el número que completa la serie?",
+    "opciones": ["A) 24", "B) 26", "C) 28", "D) 30"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 33,
+    "pregunta": "En una biblioteca escolar, los libros de la serie “Descubriendo la Ciencia” se organizan siguiendo una regla: cada nuevo libro tiene 15 páginas más que el anterior. Si el primer libro tiene 8 páginas, ¿cuántas páginas tendrá el quinto libro de la serie?",
+    "opciones": ["A) 53", "B) 68", "C) 83", "D) 98"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 34,
+    "pregunta": "En la siguiente serie numérica: 2, 6, 12, 20, … ¿Cuál es el número que sigue?",
+    "opciones": ["A) 28", "B) 30", "C) 32", "D) 34"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 35,
+    "pregunta": "En una escuela se dispone una fila de sillas para los estudiantes en la siguiente forma: la primera fila tiene 2 sillas, la segunda fila tiene 5, la tercera fila tiene 10 y la cuarta fila tiene 17. ¿Cuántas sillas debe contener la quinta fila para que el número de sillas continúe la misma lógica?",
+    "opciones": ["A) 24", "B) 26", "C) 28", "D) 30"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 36,
+    "pregunta": "En una serie numérica aparecen los siguientes valores: 2, 5, 9, 14, 20. Cada término se obtiene sumando al anterior un número que aumenta en una unidad respecto al incremento anterior. ¿Cuál es el próximo número de la serie?",
+    "opciones": ["A) 25", "B) 26", "C) 27", "D) 28"],
+    "respuesta_correcta": "C"
+  },
+  {
+    "id": 37,
+    "pregunta": "En la siguiente serie de números se observa una regla que permite obtener cada término a partir del anterior: 2, 5, 10, 17, 26, … ¿Cuál es el número que sigue en la serie?",
+    "opciones": ["A) 34", "B) 35", "C) 37", "D) 38"],
+    "respuesta_correcta": "C"
+  },
+  {
+    "id": 38,
+    "pregunta": "Observa la siguiente serie numérica: 3, 8, 15, 24, 35, … ¿Cuál es el número que sigue en la secuencia?",
+    "opciones": ["A) 46", "B) 48", "C) 50", "D) 52"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 39,
+    "pregunta": "En una serie de fichas numeradas que sigue el patrón de sumar al número anterior la sucesiva cantidad de unidades (es decir, el primer término es 2 y al término n-ésimo se le suma n), la sucesión es: 2, 6, 12, 20, 30, … ¿Cuál es el siguiente número de la serie?",
+    "opciones": ["A) 40", "B) 41", "C) 42", "D) 44"],
+    "respuesta_correcta": "C"
+  },
+  {
+    "id": 40,
+    "pregunta": "Observa las dos series siguientes:\nSerie numérica: 2, 5, 8, 11, …\nSerie de letras: A, C, E, G, …\n¿Cuál es el siguiente término de cada serie, respectivamente?",
+    "opciones": ["A) 13 y H", "B) 14 y I", "C) 15 y J", "D) 16 y K"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 41,
+    "pregunta": "Observa la siguiente sucesión de números: 3, 8, 15, 24, 35, … ¿Cuál es el número que sigue en la serie?",
+    "opciones": ["A) 46", "B) 48", "C) 50", "D) 52"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 42,
+    "pregunta": "En la coordinación pedagógica de la escuela, se programó una serie de jornadas de lectura en las que a cada clase se le entregó la siguiente cantidad de libros, en la siguiente orden: 5, 9, 13, 17. ¿Cuántos libros se entregarán a la siguiente clase si la serie continúa con el mismo patrón?",
+    "opciones": ["A) 19", "B) 20", "C) 21", "D) 22"],
+    "respuesta_correcta": "C"
+  },
+  {
+    "id": 43,
+    "pregunta": "Observa la siguiente secuencia de figuras:\n1. Un círculo con un punto rojo.\n2. Un círculo con dos puntos azules.\n3. Un círculo con tres puntos rojos.\n4. Un círculo con cuatro puntos azules.\n¿Cuál será la descripción de la quinta figura de la serie?",
+    "opciones": [
+      "A) Un círculo con cuatro puntos rojos",
+      "B) Un círculo con cinco puntos rojos",
+      "C) Un círculo con cinco puntos azules",
+      "D) Un círculo con seis puntos azules"
+    ],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 44,
+    "pregunta": "Observa la siguiente sucesión de números: 3, 8, 15, 24, … ¿Cuál es el número que continúa la serie?",
+    "opciones": ["A) 33", "B) 35", "C) 37", "D) 39"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 45,
+    "pregunta": "Una estudiante registra la cantidad de páginas que lee cada día durante una semana y la secuencia obtenida es: 2, 5, 10, 17, 26, … ¿Cuál será el número de páginas que leerá el sexto día?",
+    "opciones": ["A) 35", "B) 36", "C) 37", "D) 38"],
+    "respuesta_correcta": "C"
+  },
+  {
+    "id": 46,
+    "pregunta": "En una serie de fichas, la primera muestra un círculo rojo, la segunda un cuadrado rojo, la tercera un cuadrado azul y la cuarta un triángulo azul. Según el patrón observado, ¿qué figura y color aparecerá en la quinta ficha?",
+    "opciones": [
+      "A) Triángulo azul",
+      "B) Triángulo rojo",
+      "C) Cuadrado rojo",
+      "D) Círculo azul"
+    ],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 47,
+    "pregunta": "Observa las dos filas de fichas coloreadas que se presentan a continuación:\nFila 1: rojo, azul, rojo, azul, rojo, azul…\nFila 2: rojo, rojo, azul, azul, rojo, rojo, azul, azul…\n¿Cuál de las siguientes afirmaciones describe correctamente la relación entre los patrones de colores de ambas filas?",
+    "opciones": [
+      "A) La Fila 2 repite cada color dos veces antes de cambiar",
+      "B) La Fila 1 repite cada color tres veces antes de cambiar",
+      "C) Ambas filas tienen el mismo patrón",
+      "D) La Fila 2 tiene un patrón de tres colores"
+    ],
+    "respuesta_correcta": "A"
+  },
+  {
+    "id": 48,
+    "pregunta": "En la lista de números presentada a continuación, 3, 5, 12, 14, 27, 29, …, ¿cuál es el número que debería aparecer a continuación?",
+    "opciones": ["A) 42", "B) 48", "C) 50", "D) 52"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 49,
+    "pregunta": "En una escuela, la cantidad de estudiantes que se inscriben en el programa de lectura cada año ha sido: 3, 7, 15, 31, ... ¿Cuál es el número que sigue en la serie?",
+    "opciones": ["A) 47", "B) 63", "C) 65", "D) 127"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 50,
+    "pregunta": "En una escuela rural se registró el número de estudiantes que se graduaron en los últimos años consecutivos: 45, 54, 63, ?, 81. ¿Cuál es el número que completa la secuencia?",
+    "opciones": ["A) 70", "B) 72", "C) 74", "D) 76"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 51,
+    "pregunta": "En una fila de fichas, la primera muestra 2 puntos, la segunda 5 puntos, la tercera 12 puntos y la cuarta 27 puntos. ¿Cuántos puntos tendrá la quinta ficha?",
+    "opciones": ["A) 50", "B) 58", "C) 62", "D) 64"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 52,
+    "pregunta": "Observa la siguiente sucesión de números: 2, 6, 12, 20, __. ¿Cuál es el número que debe ocupar la posición del espacio en blanco?",
+    "opciones": ["A) 28", "B) 30", "C) 32", "D) 34"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 53,
+    "pregunta": "En una hoja de trabajo se presentan dos filas de números. La fila A muestra: 2, 4, 8, 16, … y la fila B muestra: 3, 6, 12, 24, …. ¿Cuál de las siguientes afirmaciones describe correctamente la relación entre los valores de la fila B y los de la fila A?",
+    "opciones": [
+      "A) Los valores de la fila B son 1,5 veces los de la fila A",
+      "B) Los valores de la fila B son el doble de los de la fila A",
+      "C) Los valores de la fila B son 2 más que los de la fila A",
+      "D) Los valores de la fila B son la mitad de los de la fila A"
+    ],
+    "respuesta_correcta": "A"
+  },
+  {
+    "id": 54,
+    "pregunta": "En una serie numérica cada término se obtiene multiplicando dos números consecutivos. Si la serie comienza con 2, 6, 12, 20, 30, ¿cuál es el siguiente número?",
+    "opciones": ["A) 40", "B) 42", "C) 44", "D) 48"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 55,
+    "pregunta": "En una exposición de arte digital, una serie de figuras aparecen en la pantalla siguiendo una regla oculta. Las áreas (en unidades cuadradas) de las figuras mostradas son: 3, 8, 15, 24. ¿Cuál será el área de la siguiente figura mostrada?",
+    "opciones": ["A) 33", "B) 35", "C) 37", "D) 39"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 56,
+    "pregunta": "En una serie de figuras la primera fila muestra: triángulo, cuadrado y círculo. La segunda fila muestra las mismas figuras, pero todas coloreadas de rojo: triángulo rojo, cuadrado rojo y círculo rojo. Si la regla del problema es que cada figura de la segunda fila es la misma que la de la primera fila, solo que con el color rojo, ¿cuál es la figura que corresponde a la tercera posición de la segunda fila?",
+    "opciones": [
+      "A) Triángulo rojo",
+      "B) Cuadrado rojo",
+      "C) Círculo rojo",
+      "D) Círculo azul"
+    ],
+    "respuesta_correcta": "C"
+  },
+  {
+    "id": 57,
+    "pregunta": "Observa la siguiente serie de números: 4, 14, 34, 74, ¿Cuál es el siguiente número que completa la secuencia?",
+    "opciones": ["A) 144", "B) 154", "C) 164", "D) 174"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 58,
+    "pregunta": "En una escuela se organizan grupos de estudiantes para una actividad extracurricular siguiendo la siguiente sucesión de números que indica la cantidad de estudiantes en cada grupo: 5, 9, 15, 23, ... ¿Cuántos estudiantes integrarán el quinto grupo?",
+    "opciones": ["A) 31", "B) 33", "C) 35", "D) 37"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 59,
+    "pregunta": "En una escuela primaria se está diseñando el mosaico del patio. La primera fila sigue el orden de colores: rojo, azul, rojo, azul, ... (alternando). En la segunda fila, cada baldosa lleva una cantidad de puntos que aumenta en dos unidades desde la anterior: 2, 4, 6, 8, ... Al comparar ambas filas, ¿cuál de las siguientes afirmaciones es correcta?",
+    "opciones": [
+      "A) La primera fila tiene una repetición cada dos posiciones y la segunda no repite su secuencia",
+      "B) Ambas filas tienen patrones de repetición",
+      "C) La segunda fila repite cada dos posiciones",
+      "D) La primera fila no repite nunca"
+    ],
+    "respuesta_correcta": "A"
+  },
+  {
+    "id": 60,
+    "pregunta": "En una feria, los puestos están organizados en una fila siguiendo una regla de incremento en la cantidad de manzanas que venden: el primer puesto vende 2 manzanas, el segundo 6, el tercero 12 y el cuarto 20. ¿Cuántas manzanas venderá el sexto puesto?",
+    "opciones": ["A) 36", "B) 40", "C) 42", "D) 48"],
+    "respuesta_correcta": "C"
+  },
+  {
+    "id": 61,
+    "pregunta": "En una comunidad se decide plantar árboles de forma anual siguiendo la siguiente regla: el primer año se plantan 1 árbol, y cada año posterior se plantan un árbol más que la diferencia de árboles plantados respecto al año anterior. La cantidad de árboles plantados en los primeros seis años ha sido: 1, 2, 4, 7, 11, 16. ¿Cuántos árboles se plantarían en el séptimo año?",
+    "opciones": ["A) 20", "B) 22", "C) 24", "D) 26"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 62,
+    "pregunta": "En una fila de bloques, la altura de cada bloque duplica la del anterior (1 cm, 2 cm, 4 cm, 8 cm, ...) y el color se alterna entre rojo y azul, comenzando con rojo. ¿Cuál será la altura y el color del siguiente bloque para que continúe con ambos patrones?",
+    "opciones": [
+      "A) 16 cm, azul",
+      "B) 16 cm, rojo",
+      "C) 32 cm, azul",
+      "D) 32 cm, rojo"
+    ],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 63,
+    "pregunta": "En la planificación de un proyecto de aula, el docente anota los valores de asistencia diaria de los estudiantes en la siguiente serie: 5, 9, 17, 33, ... ¿Cuál es el número que sigue en la secuencia?",
+    "opciones": ["A) 49", "B) 57", "C) 65", "D) 67"],
+    "respuesta_correcta": "C"
+  },
+  {
+    "id": 64,
+    "pregunta": "En una escuela, el profesor asigna ejercicios de práctica extra cada semana siguiendo el siguiente orden: en la semana 1 asigna 2 ejercicios, en la semana 2 asigna 6 ejercicios, en la semana 3 asigna 12 ejercicios y en la semana 4 asigna 20 ejercicios. ¿Cuántos ejercicios le tocará asignar al estudiante en la semana 5?",
+    "opciones": ["A) 28", "B) 30", "C) 32", "D) 36"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 65,
+    "pregunta": "En el aula de una escuela, el profesor coloca los libros en las mesas siguiendo una sucesión numérica. La primera mesa tiene 2 libros, la segunda 5, la tercera 10 y la cuarta 17. ¿Cuántos libros debe colocar en la quinta mesa para mantener el mismo patrón?",
+    "opciones": ["A) 24", "B) 26", "C) 28", "D) 30"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 66,
+    "pregunta": "En la planificación de actividades de un club de lectura, el número de página donde inicia cada capítulo se determina mediante la regla: el capítulo k comienza en la página k × (k + 1). Si el capítulo 1 comienza en la página 2, el capítulo 2 en la página 6, el capítulo 3 en la página 12 y el capítulo 4 en la página 20, ¿en qué página iniciará el capítulo 6?",
+    "opciones": ["A) 30", "B) 42", "C) 56", "D) 72"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 67,
+    "pregunta": "En una tabla de notas de una clase, el profesor observa que la puntuación total de los estudiantes sigue la siguiente secuencia: 4, 10, 22, 46, __. ¿Cuál es el número que completa la serie?",
+    "opciones": ["A) 70", "B) 94", "C) 100", "D) 118"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 68,
+    "pregunta": "En una serie de números cada término se obtiene sumando al número anterior la cantidad de unidades que incrementa su posición (es decir, al primer término se le añade 1, al segundo 2, al tercero 3, etc.). La serie comienza así: 2, 6, 12, 20, … ¿Cuál es el siguiente número de la secuencia?",
+    "opciones": ["A) 28", "B) 30", "C) 32", "D) 34"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 69,
+    "pregunta": "En la siguiente serie numérica cada término se obtiene sumando al anterior un número que incrementa en una unidad cada vez: 1, 2, 4, 7, ¿Cuál es el número que sigue?",
+    "opciones": ["A) 10", "B) 11", "C) 12", "D) 13"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 70,
+    "pregunta": "Observa la siguiente serie numérica: 2, 5, 10, 17, 26, __. ¿Cuál número completa correctamente la secuencia?",
+    "opciones": ["A) 34", "B) 35", "C) 37", "D) 38"],
+    "respuesta_correcta": "C"
+  },
+  {
+    "id": 71,
+    "pregunta": "Considere las dos series siguientes:\nSerie A: 3, 6, 12, 24, ...\nSerie B: 2, 5, 10, 17, ...\n¿Cuál de las siguientes afirmaciones describe correctamente la forma en que se generan los términos de ambas series?",
+    "opciones": [
+      "A) La Serie A se multiplica por 2 y la Serie B suma números impares crecientes",
+      "B) Ambas series se generan sumando un número constante",
+      "C) La Serie A suma 3 y la Serie B suma 5",
+      "D) La Serie A suma 3 y la Serie B suma 3, 5, 7, …"
+    ],
+    "respuesta_correcta": "A"
+  },
+  {
+    "id": 72,
+    "pregunta": "Observa las siguientes dos series numéricas:\nSerie I: 5, 9, 13, 17, 21, ...\nSerie II: 2, 6, 12, 20, 30, ...\n¿Cuál de las dos series sigue un patrón de suma constante entre términos?",
+    "opciones": [
+      "A) Solo la Serie I",
+      "B) Solo la Serie II",
+      "C) Ambas series",
+      "D) Ninguna de las dos"
+    ],
+    "respuesta_correcta": "A"
+  },
+  {
+    "id": 73,
+    "pregunta": "En el patio de la escuela, el docente está colocando filas de bancos siguiendo un patrón: la primera fila tiene 2 bancos, la segunda fila 5 bancos, la tercera fila 10 bancos y la cuarta fila 17 bancos. ¿Cuántos bancos tendrá la quinta fila si el patrón continúa de la misma manera?",
+    "opciones": ["A) 24", "B) 26", "C) 28", "D) 30"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 74,
+    "pregunta": "En un estudio sobre la cantidad de aves que anidan en un reservorio cada año, se registraron los siguientes valores: 2, 12, 30, 56, 90. Si la tendencia observada continúa, ¿cuál será el número de aves que anidarán en el sexto año?",
+    "opciones": ["A) 110", "B) 132", "C) 156", "D) 182"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 75,
+    "pregunta": "Observa la siguiente sucesión de números naturales: 2, 6, 12, 20, 30, … ¿Cuál es el siguiente término de la serie?",
+    "opciones": ["A) 40", "B) 42", "C) 44", "D) 48"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 76,
+    "pregunta": "En una tabla de registro la cantidad de estudiantes que participan en el proyecto de lectura sigue la serie: 2, 5, 9, 14, 20, … ¿Cuál es el número que corresponde al sexto término?",
+    "opciones": ["A) 25", "B) 26", "C) 27", "D) 28"],
+    "respuesta_correcta": "C"
+  },
+  {
+    "id": 77,
+    "pregunta": "En una serie numérica, cada número se obtiene multiplicando el anterior por 2 y sumándole 1. Si la secuencia comienza con 3, 7, 15, 31, ¿cuál es el siguiente número que sigue?",
+    "opciones": ["A) 47", "B) 63", "C) 65", "D) 127"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 78,
+    "pregunta": "En una serie de valores que representa la cantidad de libros que un estudiante lee cada mes, los números son: 3, 8, 15, 24, 35. ¿Cuál será el número de libros que leerá en el sexto mes, si la serie sigue el mismo patrón?",
+    "opciones": ["A) 46", "B) 48", "C) 50", "D) 52"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 79,
+    "pregunta": "En una fila de sillas del aula, la altura de cada una sigue una regla creciente: la primera mide 40 cm, la segunda 45 cm, la tercera 55 cm y la cuarta 70 cm. ¿Cuál será la altura de la quinta silla?",
+    "opciones": ["A) 85 cm", "B) 90 cm", "C) 95 cm", "D) 100 cm"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 80,
+    "pregunta": "En una tabla de rendimiento de una escuela, se observa que el número de estudiantes que aprobaron el examen de matemática en los últimos cinco años sigue la serie: 2, 6, 12, 20, 30. ¿Cuál será el número esperado de aprobados para el próximo año si la tendencia continúa?",
+    "opciones": ["A) 36", "B) 40", "C) 42", "D) 48"],
+    "respuesta_correcta": "C"
+  },
+  {
+    "id": 81,
+    "pregunta": "En una clase, el maestro dispone los asientos en filas de forma que la primera fila tiene 2 estudiantes, la segunda fila 6 estudiantes, la tercera fila 12 estudiantes y la cuarta fila 20 estudiantes. Siguiendo el mismo criterio, ¿cuántos estudiantes se sentarán en la quinta fila?",
+    "opciones": ["A) 28", "B) 30", "C) 32", "D) 36"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 82,
+    "pregunta": "En el programa de mejoramiento de la infraestructura de los colegios rurales, se decide instalar un número de aulas nuevas cada año siguiendo la siguiente secuencia: en el primer año se construyeron 5 aulas, en el segundo año 9 aulas, en el tercer año 15 aulas y en el cuarto año 23 aulas. Según este patrón, ¿cuántas aulas se deberían construir en el quinto año?",
+    "opciones": ["A) 31", "B) 33", "C) 35", "D) 37"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 83,
+    "pregunta": "En una fila de fichas se repite el siguiente patrón de símbolos: cuadrado, círculo, triángulo, cuadrado, círculo, triángulo, … Si la secuencia continúa de la misma forma, ¿qué símbolo ocupará la posición número 10?",
+    "opciones": ["A) Cuadrado", "B) Círculo", "C) Triángulo", "D) Rombo"],
+    "respuesta_correcta": "A"
+  },
+  {
+    "id": 84,
+    "pregunta": "En la siguiente serie de números: 2, 4, 7, 11, 16, ..., ¿cuál es el número que continúa la secuencia?",
+    "opciones": ["A) 20", "B) 22", "C) 24", "D) 26"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 85,
+    "pregunta": "En una serie de actividades de aula, el docente dispone bloques numerados siguiendo el patrón: 2, 6, 12, 20, ___. ¿Cuál es el número que continúa la secuencia?",
+    "opciones": ["A) 28", "B) 30", "C) 32", "D) 34"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 86,
+    "pregunta": "En una clase de matemática, el profesor escribe la siguiente serie de números: 2, 5, 10, 17, 26, ... ¿Cuál es el número que sigue en la serie?",
+    "opciones": ["A) 34", "B) 35", "C) 37", "D) 38"],
+    "respuesta_correcta": "C"
+  },
+  {
+    "id": 87,
+    "pregunta": "Observa la siguiente sucesión de números: 3, 8, 15, 24, 35, ___. ¿Cuál es el número que continúa la serie?",
+    "opciones": ["A) 46", "B) 48", "C) 50", "D) 52"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 88,
+    "pregunta": "En una serie de bloques de madera se colocan de forma creciente la siguiente cantidad de piezas: 2, 5, 10, 17, ... ¿Cuál es la cantidad de piezas que se colocará en el siguiente bloque?",
+    "opciones": ["A) 24", "B) 26", "C) 28", "D) 30"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 89,
+    "pregunta": "Un profesor de matemática registra la cantidad de problemas que su clase resuelve en cada sesión de práctica. Los resultados de las primeras seis sesiones fueron: 5, 7, 10, 15, 23, 36. Si la tendencia observada continúa, ¿cuántos problemas se espera que se resuelvan en la séptima sesión?",
+    "opciones": ["A) 49", "B) 53", "C) 57", "D) 61"],
+    "respuesta_correcta": "C"
+  },
+  {
+    "id": 90,
+    "pregunta": "Observa la siguiente serie de números: 3, 7, 15, 31, ___. ¿Cuál es el número que continúa la secuencia?",
+    "opciones": ["A) 47", "B) 63", "C) 65", "D) 127"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 91,
+    "pregunta": "Observa la siguiente sucesión de letras del alfabeto: A, C, F, J, O, ___. ¿Cuál es la letra que completa la serie?",
+    "opciones": ["A) T", "B) U", "C) V", "D) S"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 92,
+    "pregunta": "Observa la siguiente sucesión de números basada en la cantidad de chapas que recibe cada alumno al participar en una feria escolar: 3, 8, 15, 24, ... ¿Cuál será la cantidad de chapas que recibirá el siguiente alumno si la regla que rige la sucesión se mantiene?",
+    "opciones": ["A) 33", "B) 35", "C) 37", "D) 39"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 93,
+    "pregunta": "En la siguiente tabla se presentan dos series: Serie A (números): 2, 6, 12, 20, 30, ... y Serie B (puntos): *, **, ***, ****, ****, ... ¿Cuál de las siguientes afirmaciones es correcta?",
+    "opciones": [
+      "A) En la Serie B, el número de puntos del término n es igual a n",
+      "B) La Serie A suma 4, 6, 8, 10, …",
+      "C) La Serie B sigue la misma regla que la Serie A",
+      "D) Ambas series son aritméticas"
+    ],
+    "respuesta_correcta": "A"
+  },
+  {
+    "id": 94,
+    "pregunta": "En un diseño de mosaico, los motivos se colocan siguiendo la siguiente sucesión: círculo, triángulo, cuadrado, círculo, triángulo, ¿qué figura debe aparecer en la sexta posición para que el patrón continúe de forma lógica?",
+    "opciones": ["A) Círculo", "B) Triángulo", "C) Cuadrado", "D) Rombo"],
+    "respuesta_correcta": "C"
+  },
+  {
+    "id": 95,
+    "pregunta": "En un proyecto de jardinería, se cuenta cuántas flores aparecen en cada fila consecutiva del jardín siguiendo el patrón: 2, 4, 7, 11, 16, … ¿Cuántas flores habrá en la fila que sigue a la última mostrada?",
+    "opciones": ["A) 20", "B) 22", "C) 24", "D) 26"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 96,
+    "pregunta": "En una escuela rural, el horario de materias para los días de la semana sigue una secuencia cíclica: Matemática, Ciencia, Historia, y luego vuelve a comenzar. Si la secuencia de materias para los ocho primeros días es: Matemática, Ciencia, Historia, Matemática, Ciencia, Historia, Matemática, ¿qué materia corresponde al día ocho?",
+    "opciones": ["A) Matemática", "B) Ciencia", "C) Historia", "D) Lenguaje"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 97,
+    "pregunta": "Se presentan dos series numéricas: la primera es 2, 5, 10, 17, 26, … y la segunda es 3, 6, 11, 18, 27, …. ¿Cuál de las siguientes afirmaciones describe correctamente la relación entre ambas series?",
+    "opciones": [
+      "A) Cada término de la segunda serie es una unidad mayor que el correspondiente de la primera",
+      "B) La diferencia entre términos consecutivos es siempre un número primo",
+      "C) La segunda serie se obtiene sumando 2 al cuadrado del índice",
+      "D) Ambas series son aritméticas"
+    ],
+    "respuesta_correcta": "A"
+  },
+  {
+    "id": 98,
+    "pregunta": "Observa las dos series de números siguientes: Serie A: 4, 7, 10, 13, 16 … Serie B: 9, 12, 15, 18, 21 … ¿Cuál de las siguientes afirmaciones describe correctamente la relación entre los términos de ambas series?",
+    "opciones": [
+      "A) Cada término de la Serie B es 5 unidades mayor que el correspondiente de la Serie A",
+      "B) Cada término de la Serie B es el doble del correspondiente de la Serie A",
+      "C) La Serie A aumenta en 3 y la Serie B en 4",
+      "D) Cada término de la Serie B es la suma de los dos términos anteriores de la Serie A"
+    ],
+    "respuesta_correcta": "A"
+  },
+  {
+    "id": 99,
+    "pregunta": "En una escuela se van a empaquetar 48 lápices en paquetes iguales, sin que sobre ninguno. ¿Cuál es la mayor cantidad posible de lápices que puede contener cada paquete?",
+    "opciones": ["A) 12", "B) 16", "C) 24", "D) 48"],
+    "respuesta_correcta": "C"
+  },
+  {
+    "id": 100,
+    "pregunta": "Una maestra dispone 48 fichas para repartir entre 6 grupos, de forma que cada grupo reciba la misma cantidad de fichas y esa cantidad sea múltiplo de 4. ¿Cuántas fichas recibe cada grupo?",
+    "opciones": ["A) 6", "B) 8", "C) 12", "D) 16"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 101,
+    "pregunta": "En una fila se colocan fichas de colores siguiendo el patrón: rojo, azul, verde, rojo, azul, verde, ... ¿Cuál será el color de la ficha que ocupa el lugar número 20?",
+    "opciones": ["A) rojo", "B) azul", "C) verde", "D) amarillo"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 102,
+    "pregunta": "En una sucesión numérica el primer término es 5 y cada término siguiente se obtiene sumando 4 al anterior. ¿Cuál es el sexto término de la sucesión?",
+    "opciones": ["A) 21", "B) 25", "C) 29", "D) 33"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 103,
+    "pregunta": "En una granja, el número de gallinas es el doble del número de conejos. Si el total de animales (gallinas y conejos) es 30, ¿cuántos conejos hay en la granja?",
+    "opciones": ["A) 5", "B) 8", "C) 10", "D) 15"],
+    "respuesta_correcta": "C"
+  },
+  {
+    "id": 104,
+    "pregunta": "En un concurso de matemática, se deben formar equipos de tres estudiantes cuya suma total de puntuaciones sea al menos 20 puntos. Las puntuaciones de los seis participantes son: Ana 8, Luis 7, Carla 6, Pedro 5, Marta 4 y José 3. ¿Cuál de los siguientes grupos cumple la condición requerida?",
+    "opciones": [
+      "A) Ana + Pedro + Marta",
+      "B) Ana + Luis + Carla",
+      "C) Luis + Carla + Pedro",
+      "D) Carla + Pedro + José"
+    ],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 105,
+    "pregunta": "Una biblioteca escolar cuenta con 84 libros idénticos que se organizarán en estanterías. Cada estantería debe contener el mismo número de libros, dicho número tiene que ser múltiplo de 3 y no puede superar los 12 libros por estantería. ¿Cuál es la menor cantidad posible de estanterías que se necesitan para alojar todos los libros?",
+    "opciones": ["A) 7", "B) 9", "C) 12", "D) 14"],
+    "respuesta_correcta": "A"
+  },
+  {
+    "id": 106,
+    "pregunta": "En una escuela se organizan equipos de debate. Cada equipo debe estar formado por exactamente 4 estudiantes y, para que el equipo sea competitivo, debe incluir al menos un estudiante cuyo nivel sea 3 o superior. La escuela cuenta con 12 estudiantes de nivel 1, 8 de nivel 2, 6 de nivel 3 y 4 de nivel 4. ¿Cuál es el número máximo de equipos que pueden formarse cumpliendo la condición requerida?",
+    "opciones": ["A) 5", "B) 7", "C) 8", "D) 10"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 107,
+    "pregunta": "En la biblioteca de la escuela hay 48 libros que se deben colocar en filas con el mismo número de libros en cada fila, sin que sobre ninguno. ¿Cuál es la estrategia más adecuada para determinar cuántas filas se pueden formar?",
+    "opciones": [
+      "A) Restar 1 repetidamente hasta llegar a 0",
+      "B) Multiplicar 48 por 2 y dividir entre 4",
+      "C) Probar divisores de 48 y verificar si el cociente es entero",
+      "D) Dividir 48 entre 5 y tomar la parte entera"
+    ],
+    "respuesta_correcta": "C"
+  },
+  {
+    "id": 108,
+    "pregunta": "En una escuela, la cantidad de estudiantes en las clases se incrementa siguiendo una estrategia constante: la clase 1 tiene 12 alumnos, la clase 2 tiene 15 alumnos, la clase 3 tiene 18 alumnos y la clase 4 tiene 21 alumnos. ¿Cuántos alumnos habrá en la clase 5 si se mantiene la misma estrategia?",
+    "opciones": ["A) 22", "B) 23", "C) 24", "D) 25"],
+    "respuesta_correcta": "C"
+  },
+  {
+    "id": 109,
+    "pregunta": "En una lista de precios de materiales de construcción se tienen los valores: 120, 85, 150, 95 y 130 bolivianos. ¿Cuál es la mejor estrategia para identificar rápidamente el precio más bajo?",
+    "opciones": [
+      "A) Multiplicar todos los valores y dividir entre 5",
+      "B) Sumar todos los valores y dividir entre 5",
+      "C) Ordenar los valores de menor a mayor y tomar el primero",
+      "D) Dividir cada valor entre 2 y comparar"
+    ],
+    "respuesta_correcta": "C"
+  },
+  {
+    "id": 110,
+    "pregunta": "En una secuencia numérica, cada término se obtiene multiplicando el término anterior por 2 y sumándole 1. Si el primer término es 3, ¿cuál es el quinto término de la serie?",
+    "opciones": ["A) 31", "B) 47", "C) 63", "D) 127"],
+    "respuesta_correcta": "C"
+  },
+  {
+    "id": 111,
+    "pregunta": "En una serie de números se observa la siguiente secuencia: 3, 8, 15, 24, 35, ... ¿Cuál es el siguiente número de la serie?",
+    "opciones": ["A) 46", "B) 48", "C) 50", "D) 52"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 112,
+    "pregunta": "En la siguiente serie numérica cada término se forma multiplicando dos números consecutivos: 2, 6, 12, 20, ... ¿Cuál es el próximo número de la serie?",
+    "opciones": ["A) 28", "B) 30", "C) 32", "D) 36"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 113,
+    "pregunta": "En una escuela se van a colocar 96 sillas en filas iguales. El director desea que haya al menos 8 filas y que cada fila contenga el mismo número de sillas. ¿Cuál es la mayor cantidad posible de sillas por fila?",
+    "opciones": ["A) 10", "B) 11", "C) 12", "D) 16"],
+    "respuesta_correcta": "C"
+  },
+  {
+    "id": 114,
+    "pregunta": "Una escuela tiene 48 alumnos que deben ser divididos en grupos idénticos para una actividad de laboratorio, de manera que cada grupo tenga el mismo número de alumnos y el número total de grupos sea un número cuadrado perfecto (por ejemplo, 1, 4, 9, 16, …). ¿Cuál es la mayor cantidad posible de grupos que se pueden formar bajo esas condiciones?",
+    "opciones": ["A) 4", "B) 16", "C) 9", "D) 1"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 115,
+    "pregunta": "En una serie numérica el primer término es 3 y cada término se forma sumando al anterior el siguiente número impar (1, 3, 5, 7, …). ¿Cuál es el quinto término de la serie?",
+    "opciones": ["A) 16", "B) 19", "C) 22", "D) 25"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 116,
+    "pregunta": "Una escuela necesita asignar a cada uno de sus 5 salones un docente diferente de entre 5 docentes disponibles, de modo que un docente solo pueda estar en un salón. ¿Qué método de razonamiento lógico-matemático se emplea para determinar cuántas asignaciones posibles existen?",
+    "opciones": [
+      "A) Principio de adición",
+      "B) Principio de multiplicación",
+      "C) Principio de prueba y error",
+      "D) Razonamiento inductivo"
+    ],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 117,
+    "pregunta": "En una clase se sabe que:\n1. Si un estudiante aprueba la prueba, entonces estudió al menos 3 horas.\n2. Carlos estudió 4 horas.\n¿Cuál de las siguientes afirmaciones se puede afirmar con certeza?",
+    "opciones": [
+      "A) Carlos aprobó la prueba",
+      "B) Carlos no aprobó la prueba",
+      "C) Si Carlos aprobó, estudió al menos 3 horas",
+      "D) Carlos necesitaba estudiar 5 horas para aprobar"
+    ],
+    "respuesta_correcta": "C"
+  },
+  {
+    "id": 118,
+    "pregunta": "En una tarea de matemática, el profesor pide determinar el mayor número entero que divide exactamente a los tres valores 84, 126 y 210. ¿Cuál de los siguientes procedimientos es el más adecuado para hallar ese número de forma rápida y fiable?",
+    "opciones": [
+      "A) Enumerar los divisores de cada número y buscar el mayor común",
+      "B) Aplicar el algoritmo de Euclides",
+      "C) Factorizar cada número en primos y multiplicar los factores comunes",
+      "D) Restar sucesivamente el menor al mayor hasta obtener cero"
+    ],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 119,
+    "pregunta": "En una fila de espera, Carlos ocupa el primer puesto, José está justo detrás de Carlos y Luis está justo detrás de José. ¿En qué puesto se encuentra Luis?",
+    "opciones": ["A) Primero", "B) Segundo", "C) Tercero", "D) Cuarto"],
+    "respuesta_correcta": "C"
+  },
+  {
+    "id": 120,
+    "pregunta": "En una fila de cinco asientos para una competición de matemática, se disponen los estudiantes Sofía, Bruno, Carla, Diego y Elena. Se sabe que:\n1. Sofía no está en un extremo.\n2. Bruno está inmediatamente a la izquierda de Carla.\n3. Diego está en el tercer asiento.\n4. Elena no está al lado de Sofía.\n¿Cuál de las siguientes afirmaciones es correcta?",
+    "opciones": [
+      "A) Carla ocupa el quinto asiento",
+      "B) Bruno ocupa el primer asiento",
+      "C) Elena ocupa el cuarto asiento",
+      "D) Sofía ocupa el segundo asiento"
+    ],
+    "respuesta_correcta": "C"
+  },
+  {
+    "id": 121,
+    "pregunta": "Para saber cuántos grupos iguales de 6 tarjetas pueden formarse a partir de un total de 84 tarjetas sin que sobre ninguna, ¿qué paso inicial es el más adecuado?",
+    "opciones": [
+      "A) Restar 6 repetidamente de 84",
+      "B) Multiplicar 84 por 6 y dividir entre 2",
+      "C) Dividir 84 entre 6 y verificar si el resultado es entero",
+      "D) Sumar 6 hasta llegar a 84"
+    ],
+    "respuesta_correcta": "C"
+  },
+  {
+    "id": 122,
+    "pregunta": "En una escuela se afirma que:\n1. Todos los libros son objetos.\n2. Todos los objetos son cosas.\nCon base en esas premisas, ¿cuál de las siguientes afirmaciones es necesariamente verdadera?",
+    "opciones": [
+      "A) Todos los libros son cosas",
+      "B) Todos los objetos son libros",
+      "C) Ningún libro es una cosa",
+      "D) Algunas cosas son libros"
+    ],
+    "respuesta_correcta": "A"
+  },
+  {
+    "id": 123,
+    "pregunta": "En una escuela se organizan 84 libros en estanterías. Cada estantería debe contener el mismo número de libros y, como mínimo, 6 libros por estantería. ¿Cuál es el mayor número posible de estanterías que se pueden usar?",
+    "opciones": ["A) 12", "B) 14", "C) 16", "D) 21"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 124,
+    "pregunta": "En la siguiente tabla, los valores de la columna B se relacionan con los de la columna A siguiendo una regla constante: ¿Cuál debe ser el valor de B cuando A = 11?\n(Tabla: A: 2, 5, 8; B: 5, 12, 19)",
+    "opciones": ["A) 24", "B) 26", "C) 28", "D) 30"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 125,
+    "pregunta": "En una serie de bloques de construcción, la cantidad de bloques que se colocan en cada fila sigue el patrón: 2, 5, 9, 14, ... ¿Cuál será el número de bloques en la quinta fila?",
+    "opciones": ["A) 18", "B) 19", "C) 20", "D) 21"],
+    "respuesta_correcta": "C"
+  },
+  {
+    "id": 126,
+    "pregunta": "En una clase de 5° grado se establecen las siguientes reglas:\n1. Todos los estudiantes que aprueban el examen final tienen al menos 80% de asistencia.\n2. María aprobó el examen final.\n3. Carlos tiene 78% de asistencia.\nCon base en esas premisas, ¿cuál de las siguientes afirmaciones se deduce lógicamente?",
+    "opciones": [
+      "A) Carlos aprobó el examen final",
+      "B) María tiene exactamente 80% de asistencia",
+      "C) María tiene al menos 80% de asistencia",
+      "D) Todos los que tienen 80% de asistencia aprueban"
+    ],
+    "respuesta_correcta": "C"
+  },
+  {
+    "id": 127,
+    "pregunta": "En una escuela, tres docentes (Sofia, Bruno y Carla) deben supervisar un examen dividido en dos turnos: mañana y tarde. Se cumplen las siguientes condiciones:\n1. Si Sofia supervisa el turno de mañana, entonces Bruno supervisa el turno de tarde.\n2. Carla no supervisa el mismo turno que Bruno.\n3. Exactamente dos docentes supervisan el turno de mañana.\n¿Cuál de las siguientes afirmaciones es correcta?",
+    "opciones": [
+      "A) Sofia supervisa en la mañana, Bruno en la tarde, Carla en la mañana",
+      "B) Sofia en la tarde, Bruno en la mañana, Carla en la mañana",
+      "C) Sofia en la mañana, Bruno en la mañana, Carla en la tarde",
+      "D) Sofia en la tarde, Bruno en la tarde, Carla en la mañana"
+    ],
+    "respuesta_correcta": "A"
+  },
+  {
+    "id": 128,
+    "pregunta": "Una maestra debe repartir a sus 12 alumnos en tres grupos. Cada grupo debe contener un número distinto de estudiantes y los tamaños de los grupos no pueden ser números consecutivos. ¿Cuál de las siguientes opciones cumple con todas las condiciones?",
+    "opciones": [
+      "A) 5, 4, 3",
+      "B) 7, 4, 1",
+      "C) 8, 2, 2",
+      "D) 6, 3, 3"
+    ],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 129,
+    "pregunta": "En una biblioteca hay tres categorías de libros: A, B y C. El número total de libros es 210. Cada libro de la categoría A consta de 4 volúmenes, cada libro de la categoría B de 3 volúmenes y cada libro de la categoría C de 2 volúmenes. Además, el número de libros de la categoría A es tres veces el número de libros de la categoría C. ¿Cuántos libros pertenecen a la categoría B?",
+    "opciones": ["A) 20", "B) 30", "C) 40", "D) 50"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 130,
+    "pregunta": "Una docente debe repartir 84 lápices entre 5 aulas de primaria. Cada aula debe recibir al menos 10 lápices y se quiere que la diferencia entre la mayor y la menor cantidad entregada sea lo más pequeña posible. ¿Cuántos lápices debe recibir la aula que recibe la mayor cantidad?",
+    "opciones": ["A) 16", "B) 17", "C) 18", "D) 19"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 131,
+    "pregunta": "En una escuela se sabe que:\n1. Todos los alumnos que participan en el club de ciencias obtienen una calificación mayor a 80 en matemática.\n2. Carlos participa en el club de ciencias.\n3. Maria no participa en el club de ciencias.\n¿Cuál de las siguientes afirmaciones se deduce necesariamente a partir de la información anterior?",
+    "opciones": [
+      "A) María tiene calificación menor o igual a 80",
+      "B) Carlos tiene calificación mayor a 80",
+      "C) Todos los alumnos tienen calificación mayor a 80",
+      "D) María no tiene calificación mayor a 80"
+    ],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 132,
+    "pregunta": "En una escuela se cumple que todos los profesores poseen título universitario. Además, María es profesora de historia. Según estas premisas, ¿cuál de las siguientes afirmaciones es necesariamente verdadera?",
+    "opciones": [
+      "A) María es estudiante",
+      "B) María posee título universitario",
+      "C) Todos los estudiantes tienen título universitario",
+      "D) Solo los profesores de historia tienen título"
+    ],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 133,
+    "pregunta": "En un jardín rectangular, el ancho es x metros y el largo es (x + 3) metros. Si el perímetro total del jardín es de 46 metros, ¿qué estrategia permite hallar de forma más eficiente los valores de x y del largo?",
+    "opciones": [
+      "A) Probar valores aleatorios para x",
+      "B) Plantear la ecuación 2(x + x + 3) = 46 y resolver",
+      "C) Factorizar una expresión cuadrática",
+      "D) Enumerar los divisores de 46"
+    ],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 134,
+    "pregunta": "En una escuela se establecen los siguientes enunciados:\n1. Si un docente usa recursos digitales, entonces integra tecnología en sus clases.\n2. Todos los docentes que integran tecnología logran mayor compromiso estudiantil.\n3. Algunos docentes que usan recursos digitales son docentes novatos.\n¿Cuál de las siguientes conclusiones es lógicamente válida?",
+    "opciones": [
+      "A) Algunos docentes novatos logran mayor compromiso estudiantil",
+      "B) Ningún docente novato usa recursos digitales",
+      "C) Todos los docentes novatos integran tecnología",
+      "D) Si un docente no usa recursos digitales, no logra mayor compromiso"
+    ],
+    "respuesta_correcta": "A"
+  },
+  {
+    "id": 135,
+    "pregunta": "Un maestro dispone de tres cajas con bolitas. La caja A contiene el doble de bolitas que la caja B. La caja C contiene 5 bolitas menos que la caja A. Si en total hay 35 bolitas en las tres cajas, ¿cuántas bolitas hay en la caja B?",
+    "opciones": ["A) 5", "B) 7", "C) 8", "D) 10"],
+    "respuesta_correcta": "C"
+  },
+  {
+    "id": 136,
+    "pregunta": "En una competencia de baloncesto, el número de puntos anotados por un equipo en cada cuarto sigue la secuencia: 12, 17, 23, 30, … ¿Cuál será el número de puntos que anotará en el quinto cuarto si se mantiene la estrategia lógica del patrón?",
+    "opciones": ["A) 36", "B) 37", "C) 38", "D) 39"],
+    "respuesta_correcta": "C"
+  },
+  {
+    "id": 137,
+    "pregunta": "En una clase de primaria, la maestra reparte paquetes de lápices a sus alumnos. Cada paquete contiene la misma cantidad de lápices. Si se entregan 3 paquetes a cada uno de los 5 estudiantes y, al final, la maestra cuenta que utilizó 60 lápices en total, ¿cuántos lápices hay en cada paquete?",
+    "opciones": ["A) 3", "B) 4", "C) 5", "D) 6"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 138,
+    "pregunta": "En una competencia de lógica, la puntuación acumulada por un equipo después de cada ronda forma la siguiente sucesión: 3, 7, 15, 31. ¿Cuál será la puntuación total después de la quinta ronda?",
+    "opciones": ["A) 47", "B) 55", "C) 63", "D) 127"],
+    "respuesta_correcta": "C"
+  },
+  {
+    "id": 139,
+    "pregunta": "En una escuela se deben sentar 156 alumnos en filas y columnas formando un rectángulo completo (sin asientos vacíos). El director quiere que el número de filas sea mayor que el número de columnas y que la diferencia entre ambos sea la menor posible. ¿Cuál es la distribución de filas y columnas que cumple con esas condiciones?",
+    "opciones": [
+      "A) 12 filas, 13 columnas",
+      "B) 13 filas, 12 columnas",
+      "C) 14 filas, 11 columnas",
+      "D) 16 filas, 10 columnas"
+    ],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 140,
+    "pregunta": "En una escuela se dispone de 5 horas para actividades extraescolares. El taller de arte requiere 2 horas, el club de ciencias 3 horas y el grupo de teatro 1 hora. ¿Cuál de las siguientes afirmaciones es coherente con estas condiciones?",
+    "opciones": [
+      "A) Se puede realizar el taller de arte y el club de ciencias, pero no el grupo de teatro",
+      "B) Se pueden realizar las tres actividades",
+      "C) Solo se puede realizar el grupo de teatro",
+      "D) El club de ciencias y el grupo de teatro suman 4 horas, por lo que se pueden hacer ambos"
+    ],
+    "respuesta_correcta": "A"
+  },
+  {
+    "id": 141,
+    "pregunta": "En una escuela se deben programar tres actividades durante la mañana: Lectura, Matemática y Educación Física. Cada actividad ocupa exactamente una hora. Se sabe que:\n1. La actividad de Lectura se realiza antes que la de Educación Física.\n2. La actividad de Matemática no puede ser la primera en el horario.\n¿Cuál de los siguientes órdenes de actividades cumple todas las condiciones?",
+    "opciones": [
+      "A) Lectura – Matemática – Educación Física",
+      "B) Matemática – Lectura – Educación Física",
+      "C) Lectura – Educación Física – Matemática",
+      "D) Matemática – Educación Física – Lectura"
+    ],
+    "respuesta_correcta": "A"
+  },
+  {
+    "id": 142,
+    "pregunta": "En una escuela se forman tres grupos (A, B y C) para una excursión. Cada grupo debe tener entre 10 y 15 estudiantes, inclusive. Además, el grupo A tiene 4 estudiantes menos que el grupo B, y el grupo C tiene la misma cantidad de estudiantes que el grupo A. ¿Cuál es la cantidad total mínima de estudiantes que pueden participar en la excursión?",
+    "opciones": ["A) 32", "B) 34", "C) 36", "D) 38"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 143,
+    "pregunta": "En una escuela se está organizando una competencia de matemática y se asignan los números de identificación de los equipos siguiendo la siguiente serie: 2, 6, 12, 20, … . ¿Cuál será el número que corresponde al siguiente equipo si se mantiene la regla de formación de la serie?",
+    "opciones": ["A) 28", "B) 30", "C) 32", "D) 34"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 144,
+    "pregunta": "En una escuela se conocen los siguientes datos:\n1. Si una clase tiene más de 30 estudiantes, entonces el profesor necesita asistencia adicional.\n2. La clase de Matemática cuenta con 32 estudiantes.\n3. La clase de Historia tiene menos de 30 estudiantes.\n¿Cuál de las siguientes afirmaciones se deduce lógicamente de la información proporcionada?",
+    "opciones": [
+      "A) La clase de Historia no necesita asistencia adicional",
+      "B) La clase de Matemática no necesita asistencia adicional",
+      "C) El profesor de Matemática necesita asistencia adicional",
+      "D) El profesor de Historia necesita asistencia adicional"
+    ],
+    "respuesta_correcta": "C"
+  },
+  {
+    "id": 145,
+    "pregunta": "En un enunciado se indica: “Si un número es múltiplo de 6, entonces es divisible por 3”. Además se afirma que “84 es múltiplo de 6”. Con base en estos datos, ¿cuál de las siguientes afirmaciones es necesariamente verdadera?",
+    "opciones": [
+      "A) 84 es divisible por 3",
+      "B) 84 no es divisible por 3",
+      "C) Todos los números divisibles por 3 son múltiplos de 6",
+      "D) 84 es divisible por 2"
+    ],
+    "respuesta_correcta": "A"
+  },
+  {
+    "id": 146,
+    "pregunta": "En una escuela se establecen las siguientes reglas:\n1. Si el docente utiliza la pizarra digital, entonces la clase se programa en la mañana.\n2. La clase no está programada en la mañana.\n¿Cuál de las siguientes afirmaciones se deduce lógicamente de estas reglas?",
+    "opciones": [
+      "A) El docente utiliza la pizarra digital",
+      "B) El docente no utiliza la pizarra digital",
+      "C) La clase se programa en la tarde",
+      "D) El docente utiliza la pizarra digital en la tarde"
+    ],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 147,
+    "pregunta": "Luis intenta resolver la ecuación 2(x + 3) = 8 y escribe los siguientes pasos:\n1. 2x + 3 = 8\n2. 2x = 11\n3. x = 11 ÷ 2 = 5.5\n¿Cuál de los enunciados contiene un error?",
+    "opciones": ["A) Paso 1 y 2", "B) Paso 1", "C) Paso 2", "D) Paso 3"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 148,
+    "pregunta": "Una escuela está planificando su presupuesto anual. El monto destinado a la compra de libros es exactamente el doble del que se asigna a equipamiento de laboratorio. Si la suma de ambos conceptos es de 9 000 dólares, ¿cuál es el presupuesto destinado a los libros?",
+    "opciones": ["A) $3,000", "B) $4,500", "C) $6,000", "D) $7,500"],
+    "respuesta_correcta": "C"
+  },
+  {
+    "id": 149,
+    "pregunta": "Una escuela quiere organizar grupos de estudio para sus 48 estudiantes que se han inscrito. Cada grupo debe estar formado por al menos 3 estudiantes y no más de 5. ¿Cuál es el número máximo de grupos que pueden formarse cumpliendo ambas condiciones?",
+    "opciones": ["A) 9", "B) 12", "C) 16", "D) 24"],
+    "respuesta_correcta": "C"
+  },
+  {
+    "id": 150,
+    "pregunta": "Un caballo de ajedrez se coloca inicialmente en la casilla a1 de un tablero estándar de 8×8. Según la regla del movimiento del caballo (dos casillas en una dirección y una en perpendicular), ¿cuántos movimientos como mínimo necesita para llegar a la casilla h8?",
+    "opciones": ["A) 5", "B) 6", "C) 7", "D) 8"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 151,
+    "pregunta": "En una escuela se registra la cantidad de estudiantes de tres grados: cuarto, quinto y sexto. Los números son 28, 35 y 42 respectivamente. ¿Cuál de las siguientes afirmaciones es correcta respecto a esas cantidades?",
+    "opciones": [
+      "A) Los tres grados tienen la misma cantidad de estudiantes",
+      "B) El quinto grado tiene más estudiantes que el cuarto, pero menos que el sexto",
+      "C) El cuarto grado tiene más estudiantes que el quinto",
+      "D) El sexto grado tiene menos estudiantes que el cuarto"
+    ],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 152,
+    "pregunta": "Una profesora tiene 48 lápices y desea repartirlos en forma equitativa entre 6 grupos de estudiantes. ¿Cuál de las siguientes operaciones muestra correctamente cuántos lápices recibe cada grupo?",
+    "opciones": ["A) 48 + 6", "B) 48 × 6", "C) 48 ÷ 6", "D) 48 − 6"],
+    "respuesta_correcta": "C"
+  },
+  {
+    "id": 153,
+    "pregunta": "En una hoja de trabajo, un estudiante resuelve la ecuación 3x – 5 = 16 con los siguientes pasos:\n(1) suma 5 a ambos lados → 3x = 21\n(2) divide entre 3 → x = 7\n(3) verifica sustituyendo x = 7 en la ecuación original y escribe 3·7 – 5 = 17\n¿Cuál de las afirmaciones siguientes es verdadera respecto a la consistencia del procedimiento?",
+    "opciones": [
+      "A) El paso (1) es incorrecto",
+      "B) El paso (2) es incorrecto",
+      "C) El paso (3) contiene un error de verificación",
+      "D) Todos los pasos son correctos"
+    ],
+    "respuesta_correcta": "C"
+  },
+  {
+    "id": 154,
+    "pregunta": "En una clase se conocen los siguientes hechos:\n(1) Si la clase tiene proyecto, entonces todos los alumnos entregan la tarea.\n(2) En la clase de hoy no todos los alumnos entregaron la tarea.\n(3) La clase tiene proyecto o tiene examen final.\nCon base en esos datos, ¿qué afirmación es necesariamente verdadera?",
+    "opciones": [
+      "A) La clase tiene proyecto",
+      "B) La clase no tiene examen final",
+      "C) La clase tiene examen final",
+      "D) La clase no tiene proyecto ni examen final"
+    ],
+    "respuesta_correcta": "C"
+  },
+  {
+    "id": 155,
+    "pregunta": "En una unidad didáctica se programaron tres actividades: A, B y C. Cada una se realizará en un día distinto de la semana (lunes, miércoles y viernes). Se sabe que:\n1. La actividad A no se lleva a cabo el lunes.\n2. La actividad B se realiza antes que la actividad C.\n3. La actividad que ocurre el miércoles no es la C.\n¿Cuál de las siguientes afirmaciones es verdadera respecto a la actividad que se realiza el miércoles?",
+    "opciones": [
+      "A) Es la actividad B",
+      "B) Es la actividad A",
+      "C) Es la actividad C",
+      "D) No se puede determinar"
+    ],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 156,
+    "pregunta": "En una escuela se organizó un concurso de matemática. Se saben los siguientes datos:\n1. Cada clase tiene al menos 20 alumnos.\n2. El número total de alumnos que participaron es 180.\n3. Ningún alumno de la clase 5 participó en el concurso.\n4. La clase 7 tiene exactamente 25 alumnos.\nCon base en esa información, ¿cuál de las siguientes afirmaciones es necesariamente cierta?",
+    "opciones": [
+      "A) La clase 7 no participó en el concurso",
+      "B) La clase 7 aportó 25 participantes al total",
+      "C) El número total de clases participantes es 8",
+      "D) Ninguna clase tuvo menos de 22 participantes"
+    ],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 157,
+    "pregunta": "En el huerto escolar se organizaron 4 filas con 9 plantas de tomate en cada fila. Debido a una enfermedad, se retiraron 3 plantas de cada fila. ¿Cuántas plantas de tomate quedan en el huerto?",
+    "opciones": ["A) 20", "B) 24", "C) 28", "D) 32"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 158,
+    "pregunta": "En una escuela secundaria se organizan los horarios de tres materias: Ciencias, Matemática y Arte. Se cumplen las siguientes condiciones:\n(1) La clase de Ciencias siempre se imparte antes del almuerzo.\n(2) La clase de Arte siempre se imparte después del almuerzo.\n(3) La clase de Matemática se imparte entre la de Ciencias y la de Arte (es decir, después de Ciencias y antes de Arte).\nCon base en estas premisas, ¿cuál de las siguientes afirmaciones es necesariamente verdadera?",
+    "opciones": [
+      "A) La clase de Matemática se imparte antes del almuerzo",
+      "B) La clase de Arte se imparte después de la clase de Matemática",
+      "C) La clase de Ciencias se imparte después de la clase de Matemática",
+      "D) La clase de Matemática se imparte después del almuerzo"
+    ],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 159,
+    "pregunta": "En una comunidad educativa se cumplen las siguientes afirmaciones:\n(1) Todos los profesores de matemática son mayores de 30 años.\n(2) Ningún profesor mayor de 45 años enseña física.\n(3) Carlos es profesor de matemática.\nCon base en la información dada, ¿cuál de las siguientes conclusiones es necesariamente verdadera?",
+    "opciones": [
+      "A) Carlos tiene más de 45 años",
+      "B) Carlos tiene entre 30 y 45 años",
+      "C) Carlos enseña física",
+      "D) Carlos no enseña física"
+    ],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 160,
+    "pregunta": "En una escuela se dispone de tres aulas A, B y C. Se sabe que:\n1. El aula que tiene 30 estudiantes es diferente a la que tiene 25 estudiantes.\n2. El aula B tiene exactamente 30 estudiantes.\n3. El aula B tiene más estudiantes que el aula C.\n4. El aula A no tiene 20 estudiantes.\nSi el total de estudiantes de las tres aulas es 75 y cada aula tiene un número entero de estudiantes diferente, ¿cuál de las siguientes opciones representa la distribución correcta de estudiantes entre A, B y C?",
+    "opciones": [
+      "A) A=25, B=30, C=20",
+      "B) A=30, B=25, C=20",
+      "C) A=20, B=30, C=25",
+      "D) A=30, B=20, C=25"
+    ],
+    "respuesta_correcta": "A"
+  },
+  {
+    "id": 161,
+    "pregunta": "En una escuela, los estudiantes de décimo curso se dividen en tres equipos de debate, denominados Alpha, Beta y Gamma, siguiendo las reglas siguientes:\n1. Cada equipo tiene al menos 4 estudiantes.\n2. Si un estudiante tiene una nota de matemática mayor a 85, entonces pertenece al equipo Alpha.\n3. Ningún estudiante con nota de ciencias menor a 70 está en el equipo Beta.\n4. El equipo Gamma contiene exactamente el doble de estudiantes que el equipo Beta.\n5. En total hay 36 estudiantes repartidos entre los tres equipos.\n¿Cuál de las siguientes afirmaciones es necesariamente verdadera?",
+    "opciones": [
+      "A) El equipo Alpha tiene al menos 12 estudiantes",
+      "B) El equipo Beta tiene exactamente 8 estudiantes",
+      "C) El equipo Gamma tiene al menos 8 estudiantes",
+      "D) El equipo Alpha tiene menos estudiantes que el equipo Gamma"
+    ],
+    "respuesta_correcta": "C"
+  },
+  {
+    "id": 162,
+    "pregunta": "En una escuela secundaria se organizó una competencia de matemática con tres rondas: Primera, Segunda y Final. Participaron los equipos X, Y y Z. Se sabe que:\n1. El equipo X ganó la Primera ronda.\n2. El equipo que ganó la Segunda ronda no fue el mismo que ganó la Primera.\n3. El equipo que ganó la Final fue el mismo que ganó la Segunda ronda.\n¿Cuál de las siguientes afirmaciones es necesariamente verdadera?",
+    "opciones": [
+      "A) El equipo Y ganó la Segunda ronda",
+      "B) El equipo Z ganó la Final",
+      "C) El equipo X no ganó la Final",
+      "D) El equipo X ganó la Segunda ronda"
+    ],
+    "respuesta_correcta": "C"
+  },
+  {
+    "id": 163,
+    "pregunta": "En una clase de Matemática, la profesora pide resolver la división 84 ÷ 7. Un alumno muestra su procedimiento de la siguiente manera: Descompone 84 como 70 + 14. Divide 70 entre 7 obteniendo 10. Divide 14 entre 7 obteniendo 2. Suma los dos cocientes y escribe 10 + 2 = 12 como respuesta. ¿Cuál de las siguientes afirmaciones es correcta respecto a la consistencia del procedimiento utilizado?",
+    "opciones": [
+      "A) El procedimiento es algebraicamente válido y el resultado es correcto",
+      "B) El procedimiento es inválido, aunque el resultado sea correcto por coincidencia",
+      "C) El procedimiento es inconsistente porque la división no se distribuye sobre la suma",
+      "D) El procedimiento es correcto solo para números pares"
+    ],
+    "respuesta_correcta": "A"
+  },
+  {
+    "id": 164,
+    "pregunta": "Dos estudiantes resuelven la ecuación 3x−5=16 aplicando diferentes procedimientos.\nEl primer estudiante escribe: 3x = 16+5 → 3x=21 → x=21÷3 → x=7.\nEl segundo estudiante escribe: 3x = 16−5 → 3x=11 → x=11÷3 → x≈3,67.\n¿Cuál de los resultados es consistente con la ecuación original?",
+    "opciones": [
+      "A) El primero (x = 7)",
+      "B) El segundo (x ≈ 3.67)",
+      "C) Ambos",
+      "D) Ninguno"
+    ],
+    "respuesta_correcta": "A"
+  },
+  {
+    "id": 165,
+    "pregunta": "María resuelve el siguiente sistema de ecuaciones lineales:\n2x+3y=13\n4x−y=5\nPara hallar la solución, ella multiplica la segunda ecuación por 3 y la suma a la primera, obteniendo 2x+3y+12x−3y=13+15, lo que da 14x=28 y concluye que x=2. Luego sustituye x=2 en la segunda ecuación original y calcula 4·2−y=5, obteniendo 8−y=5 y afirma que y=3. Finalmente, dice que la solución del sistema es (2, 3). ¿Cuál de las siguientes afirmaciones es correcta respecto al procedimiento de María?",
+    "opciones": [
+      "A) El procedimiento y la solución son consistentes",
+      "B) El paso de multiplicar por 3 es incorrecto",
+      "C) La solución no satisface la primera ecuación",
+      "D) Debió despejar y primero"
+    ],
+    "respuesta_correcta": "A"
+  },
+  {
+    "id": 166,
+    "pregunta": "En la resolución de un problema se indica que la suma de dos números es 48 y que el mayor es el doble del menor. Un estudiante obtuvo la solución siguiendo estos pasos: Sea x el menor número. Entonces el mayor es 2x. Plantea la ecuación x + 2x = 48. Resuelve: 3x = 48 → x = 16. Concluye que los números son 16 y 32. ¿Cuál de las siguientes afirmaciones acerca del procedimiento y la solución del estudiante es correcta?",
+    "opciones": [
+      "A) El procedimiento es lógico, las operaciones son correctas y la solución es consistente",
+      "B) El procedimiento es incorrecto porque no definió la variable",
+      "C) La solución es incorrecta porque 16 no es el doble de 32",
+      "D) Debió usar dos variables diferentes"
+    ],
+    "respuesta_correcta": "A"
+  },
+  {
+    "id": 167,
+    "pregunta": "Un estudiante resuelve la ecuación 3x – 7 = 2x + 5 de la siguiente manera: primero resta 2x de ambos lados y obtiene x – 7 = 5; luego suma 7 a ambos lados y concluye que x = 12. ¿Cuál de las siguientes afirmaciones es correcta respecto al procedimiento que siguió?",
+    "opciones": [
+      "A) Ambos pasos son consistentes y la solución es correcta",
+      "B) El primer paso es incorrecto",
+      "C) El segundo paso es incorrecto",
+      "D) La solución no verifica la ecuación original"
+    ],
+    "respuesta_correcta": "A"
+  },
+  {
+    "id": 168,
+    "pregunta": "María resuelve la ecuación 3x + 5 = 20 siguiendo estos pasos: primero resta 5 a ambos lados y, con el resultado, divide entre 3. ¿Cuál de las siguientes afirmaciones sobre su procedimiento es verdadera?",
+    "opciones": [
+      "A) El procedimiento conduce a x = 15",
+      "B) El procedimiento conduce al valor correcto x = 5",
+      "C) Debió sumar 5 en lugar de restar",
+      "D) El paso de dividir entre 3 es innecesario"
+    ],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 169,
+    "pregunta": "En una escuela, cada clase tiene 24 estudiantes. Si la escuela tiene 5 clases y a cada estudiante se le entregan 2 cuadernos, ¿cuántos cuadernos en total se necesitan?",
+    "opciones": ["A) 31", "B) 120", "C) 240", "D) 480"],
+    "respuesta_correcta": "C"
+  },
+  {
+    "id": 170,
+    "pregunta": "En una escuela se establecen las siguientes reglas:\n1. Todas las clases de matemática son obligatorias para aprobar el año.\n2. Sólo los estudiantes que aprueban la clase de matemática pueden inscribirse a la materia de Física.\n3. Carolina está inscrita en la clase de Física.\nSegún estas premisas, ¿cuál de las siguientes afirmaciones es necesariamente verdadera?",
+    "opciones": [
+      "A) Carolina tiene una calificación mayor a 90 en matemática",
+      "B) Carolina aprobó la clase de matemática",
+      "C) Carolina está en último año",
+      "D) Carolina aprobará la clase de Física"
+    ],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 171,
+    "pregunta": "Se propone la siguiente secuencia para resolver el problema: “Un número se incrementa en 8 y el resultado se divide por 4, obteniéndose 5.”\nI. Plantear la ecuación: (x+8)/4=5\nII. Multiplicar ambos lados por 4: x+8=5\nIII. Restar 8 a ambos lados: x=−3\nIV. Verificar sustituyendo x=−3: (−3+8)/4=5/4 ≠ 5\n¿Cuál de los pasos, de acuerdo con la lógica matemática, produce una inconsistencia en el procedimiento?",
+    "opciones": ["A) Paso I", "B) Paso II", "C) Paso III", "D) Paso IV"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 172,
+    "pregunta": "Al resolver la expresión 3×(4+2)−5, un estudiante escribe los siguientes pasos. ¿Cuál de los enunciados muestra el procedimiento correcto y el resultado final?",
+    "opciones": [
+      "A) 3×4+2−5=12+2−5=9",
+      "B) 3×6−5=18−5=13",
+      "C) 12+6−5=13",
+      "D) 3×4+3×2−5=12+6−5=13"
+    ],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 173,
+    "pregunta": "Para resolver la ecuación 3x−7=2, se aplicó una serie de operaciones a ambos lados de la igualdad. ¿Cuál de las siguientes afirmaciones describe correctamente el procedimiento que preserva la solución de la ecuación?",
+    "opciones": [
+      "A) Restar 7 a ambos lados, luego dividir entre 3",
+      "B) Sumar 7 a ambos lados, luego dividir entre 3",
+      "C) Dividir entre 3, luego sumar 7",
+      "D) Multiplicar por 3, luego restar 7"
+    ],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 174,
+    "pregunta": "Durante la resolución de la ecuación 3x−7=2(x+4), Carolina escribe los siguientes pasos:\n1. 3x−7=2x+8\n2. 3x−2x=8−7\n3. x=1\n4. Verifica sustituyendo x=1 y obtiene 2=38\n¿Cuál de los pasos contiene la inconsistencia en el procedimiento?",
+    "opciones": ["A) Paso 1", "B) Paso 2", "C) Paso 3", "D) Paso 4"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 175,
+    "pregunta": "En una fila de cinco cajones numerados del 1 al 5 se colocan bolas rojas (R) y azules (A) bajo las siguientes condiciones:\n1. El cajón 1 contiene una bola roja.\n2. El número de bolas rojas es mayor que el número de bolas azules.\n3. Si el cajón 3 contiene una bola azul, entonces el cajón 5 contiene una bola roja.\n4. El cajón 4 contiene una bola del mismo color que el cajón 1.\n¿Cuál de las siguientes afirmaciones es necesariamente verdadera?",
+    "opciones": [
+      "A) El cajón 5 contiene una bola roja",
+      "B) El cajón 4 contiene una bola roja",
+      "C) El cajón 3 contiene una bola azul",
+      "D) El cajón 2 contiene una bola azul"
+    ],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 176,
+    "pregunta": "En la escuela Secundaria Valle Verde se cumple lo siguiente:\n1. Cada estudiante que pertenece al club de robótica estudia la materia de Ciencias.\n2. Todo estudiante que estudia Ciencias obtiene la calificación aprobatoria en el examen final de la asignatura.\n3. María es miembro del club de robótica.\nSegún estas premisas, ¿qué afirmación es necesariamente verdadera?",
+    "opciones": [
+      "A) María estudia Ciencias",
+      "B) María obtendrá una calificación mayor a 80",
+      "C) María aprueba el examen final de la asignatura",
+      "D) María no pertenece al club de robótica"
+    ],
+    "respuesta_correcta": "C"
+  },
+  {
+    "id": 177,
+    "pregunta": "Para resolver la ecuación 3x−7=2x+5, se proponen los siguientes procedimientos. ¿Cuál de ellos es consistente con la forma correcta de obtener la solución?",
+    "opciones": [
+      "A) Restar 2x, luego restar 7, obtener x = 2",
+      "B) Restar 2x, luego sumar 7, obtener x = 12",
+      "C) Sumar 7, luego restar 12, obtener x = 0",
+      "D) Multiplicar por 2, luego sumar 7, obtener 2x = 24, luego dividir entre 3, obtener x = 8"
+    ],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 178,
+    "pregunta": "Al resolver la ecuación 4x−5=3x+7, el docente propone el siguiente procedimiento paso a paso. ¿Cuál de los enunciados corresponde a un paso que no mantiene la consistencia del procedimiento?",
+    "opciones": [
+      "A) Restar 3x a ambos lados",
+      "B) Sumar 5 a ambos lados",
+      "C) Multiplicar ambos lados por 2",
+      "D) Dividir ambos lados por 1"
+    ],
+    "respuesta_correcta": "C"
+  },
+  {
+    "id": 179,
+    "pregunta": "En una escuela se conocen los siguientes hechos:\n1. Si la clase de matemática se imparte en la mañana, entonces la clase de ciencias se imparte en la tarde.\n2. La clase de ciencias no se imparte en la tarde.\n3. La clase de matemática se imparte en la mañana o en la tarde, pero no ambas.\n¿Cuál de las siguientes afirmaciones necesariamente es verdadera?",
+    "opciones": [
+      "A) La clase de matemática se imparte en la tarde",
+      "B) La clase de matemática se imparte en la mañana",
+      "C) La clase de ciencias se imparte en la mañana",
+      "D) La clase de ciencias se imparte en la tarde"
+    ],
+    "respuesta_correcta": "A"
+  },
+  {
+    "id": 180,
+    "pregunta": "Un estudiante resuelve la ecuación 4(2x−3)=3x+9 y muestra los siguientes pasos:\n1. Distribuye: 8x−12=3x+9\n2. Resta 3x de ambos lados: 5x−12=9\n3. Suma 12 a ambos lados: 5x=21\n4. Divide por 5: x=4.2\n¿Cuál de las siguientes afirmaciones es correcta?",
+    "opciones": [
+      "A) El paso 2 es incorrecto",
+      "B) La división por 5 debió hacerse antes",
+      "C) La solución x=4.2 verifica la ecuación original",
+      "D) Debió dividir por 4 antes de distribuir"
+    ],
+    "respuesta_correcta": "C"
+  },
+  {
+    "id": 181,
+    "pregunta": "Para resolver la ecuación 3x – 7 = 2x + 5 se propone el siguiente procedimiento: restar 2x a ambos lados: 3x – 2x – 7 = 5, sumar 7 a ambos lados: x = 12 dividir ambos lados por 2: x = 6, verificar sustituyendo x = 6 en la ecuación original. ¿Cuál de los pasos contiene un error que invalida el procedimiento?",
+    "opciones": [
+      "A) Paso I (restar 2x)",
+      "B) Paso II (sumar 7)",
+      "C) Paso III (dividir por 2)",
+      "D) Paso IV (verificación)"
+    ],
+    "respuesta_correcta": "C"
+  },
+  {
+    "id": 182,
+    "pregunta": "En un proyecto de huertos escolares participan tres grupos, A, B y C, con las siguientes condiciones:\n1. Cada grupo tiene un número distinto de estudiantes.\n2. El grupo A tiene el doble de estudiantes que el grupo B.\n3. El grupo C tiene cuatro estudiantes más que el grupo A.\n4. En total son 34 estudiantes.\n¿Cuántos estudiantes forman parte del grupo B?",
+    "opciones": ["A) 4", "B) 6", "C) 8", "D) 10"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 183,
+    "pregunta": "En una escuela se asignan aulas según las siguientes reglas:\n(1) Si una asignatura es de ciencias, se dicta en un aula con número par.\n(2) Si el número de aula es múltiplo de 3, la asignatura impartida es de matemática.\n(3) Ninguna asignatura puede ser simultáneamente de ciencias y de matemática.\nCon base en estas reglas, ¿cuál de las siguientes afirmaciones es necesariamente verdadera?",
+    "opciones": [
+      "A) El aula 4 no puede ser de ciencias",
+      "B) El aula 6 no puede ser de ciencias",
+      "C) El aula 12 puede ser de ciencias",
+      "D) El aula 9 puede ser de ciencias"
+    ],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 184,
+    "pregunta": "En una escuela se conocen las siguientes reglas:\n1. Si un estudiante aprueba Matemática, entonces aprueba Ciencia.\n2. Si aprueba Ciencia, entonces es elegible para la competencia de robótica.\n3. Juan no es elegible para la competencia de robótica.\n¿Cuál de las siguientes afirmaciones se deduce lógicamente de esas reglas?",
+    "opciones": [
+      "A) Juan aprueba Matemática",
+      "B) Juan aprueba Ciencia",
+      "C) Juan no aprueba Matemática",
+      "D) Juan es elegible para la competencia"
+    ],
+    "respuesta_correcta": "C"
+  },
+  {
+    "id": 185,
+    "pregunta": "En una tarea de matemática, Carlos resolvió la ecuación 3x−2=7. Primero sumó 2 a ambos lados, obteniendo 3x=9; luego dividió por 3 y concluyó que x=3. ¿Cuál de las siguientes afirmaciones indica que el procedimiento de Carlos es consistente con la solución de la ecuación?",
+    "opciones": [
+      "A) Sustituyendo x = 3 en la ecuación original se obtiene 7, lo que verifica la igualdad",
+      "B) Sumar 2 a ambos lados altera la ecuación",
+      "C) x = 3 es solución de 3x = 9, pero no de 3x - 2 = 7",
+      "D) 3 es múltiplo de 9, por lo que la solución es correcta"
+    ],
+    "respuesta_correcta": "A"
+  },
+  {
+    "id": 186,
+    "pregunta": "María debe resolver la ecuación 2x−4=10. En su cuaderno anota los siguientes pasos:\n1. Suma 4 a ambos lados de la igualdad, obteniendo 2x=14.\n2. Divide ambos lados entre 2, resultando x=7.\nPara confirmar su solución vuelve a sustituir x=7 en la ecuación original y verifica que 2⋅7−4=10, lo cual es cierto. ¿Cuál de las siguientes respuestas coincide con el procedimiento que María realizó?",
+    "opciones": ["A) x = 5", "B) x = 7", "C) x = 8", "D) x = 12"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 187,
+    "pregunta": "En una escuela secundaria, se deben organizar los turnos de laboratorio para tres materias: química, biología y física. Cada turno ocupa una franja horaria de dos horas y no pueden coincidir. Se sabe que:\n1. El turno de química se realiza antes que el de biología.\n2. El turno de física no es el primero del día.\n3. El turno de biología no es el último.\nSegún estas premisas, ¿cuál de las siguientes secuencias es posible?",
+    "opciones": [
+      "A) Física – Química – Biología",
+      "B) Química – Biología – Física",
+      "C) Biología – Química – Física",
+      "D) Química – Física – Biología"
+    ],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 188,
+    "pregunta": "Un número entero n, al multiplicarse por 7, produce un resultado que al dividirse entre 5 deja residuo 3. ¿Cuál es el menor n que satisface esa condición?",
+    "opciones": ["A) 2", "B) 3", "C) 4", "D) 5"],
+    "respuesta_correcta": "C"
+  },
+  {
+    "id": 189,
+    "pregunta": "En una competencia de robótica, cada robot debe ejecutar una serie de movimientos cuya duración (en segundos) sigue la regla: a partir del tercer movimiento, la duración es la suma de los dos movimientos anteriores. Si el primer movimiento dura 7 s y el segundo 10 s, ¿cuál es la duración del quinto movimiento?",
+    "opciones": ["A) 34 s", "B) 44 s", "C) 54 s", "D) 64 s"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 190,
+    "pregunta": "En una escuela se inscribieron 120 estudiantes para un examen y se sabe que el número de aprobados es exactamente el doble del número de reprobados. De las siguientes cuatro propuestas, ¿cuál describe un procedimiento lógico y coherente que permite determinar cuántos estudiantes aprobaron?",
+    "opciones": [
+      "A) Sea x = número de reprobados; entonces 2x = aprobados; ecuación: x + 2x = 120 → x = 40 → aprobados = 80",
+      "B) Sea x = número de aprobados; entonces x/2 = reprobados; ecuación: x + x/2 = 120 → x = 80",
+      "C) 120 ÷ 3 = 40; 40 × 2 = 80",
+      "D) Probar con números hasta que la suma sea 120 y la razón sea 2:1"
+    ],
+    "respuesta_correcta": "A"
+  },
+  {
+    "id": 191,
+    "pregunta": "En un examen de matemática, un estudiante resolvió la ecuación 2x - 5 = 9 siguiendo los pasos que se presentan a continuación:\n1. Suma 5 a ambos lados: 2x - 5 + 5 = 9 + 5 → 2x = 14.\n2. Divide ambos lados entre 2: 2x/2 = 14/2 → x = 7.\n3. Verifica sustituyendo x = 7 en la ecuación original: 2·7 - 5 = 9? → 14 - 5 = 9 → 9 = 9.\n¿Cuál de los siguientes enunciados describe correctamente la consistencia del procedimiento?",
+    "opciones": [
+      "A) Los tres pasos son correctos y la solución es consistente",
+      "B) El paso 1 es incorrecto",
+      "C) El paso 2 es incorrecto",
+      "D) La verificación es incorrecta"
+    ],
+    "respuesta_correcta": "A"
+  },
+  {
+    "id": 192,
+    "pregunta": "Un estudiante resuelve la ecuación 2x + 3 = 11 siguiendo los pasos:\n(i) resta 3 a ambos lados obteniendo 2x = 8;\n(ii) divide ambos lados por 2 y escribe x = 4;\n(iii) verifica sustituyendo x = 4 en la ecuación original.\n¿Cuál de las siguientes afirmaciones es correcta respecto a la solución encontrada?",
+    "opciones": [
+      "A) 2·4 + 3 = 12, por lo que la solución es incorrecta",
+      "B) La solución x = 4 es consistente con la ecuación",
+      "C) El paso (ii) contiene un error",
+      "D) La ecuación tiene más de una solución"
+    ],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 193,
+    "pregunta": "En una clase de Álgebra, un estudiante resuelve la ecuación 2x² - 8x + 6 = 0 usando el método de completar el cuadrado y escribe los siguientes pasos:\n1. Divide toda la ecuación por 2: x² - 4x + 3 = 0.\n2. Traslada el término constante: x² - 4x = -3.\n3. Completa el cuadrado sumando (-4/2)² = 4 a ambos lados: x² - 4x + 4 = 1.\n4. Factoriza: (x - 2)² = 1.\n5. Extrae raíz cuadrada: x - 2 = ±1.\n6. Obtiene las soluciones: x = 3 y x = 1.\n¿Cuál de las siguientes afirmaciones es correcta respecto al procedimiento y a las soluciones obtenidas?",
+    "opciones": [
+      "A) El procedimiento es algebraicamente consistente y las soluciones son correctas",
+      "B) El paso de completar el cuadrado es incorrecto",
+      "C) Las soluciones no verifican la ecuación original",
+      "D) Debió factorizar directamente sin completar el cuadrado"
+    ],
+    "respuesta_correcta": "A"
+  },
+  {
+    "id": 194,
+    "pregunta": "Una estudiante está resolviendo la ecuación 3x – 7 = 2x + 5 y anota los siguientes pasos: Resta 2x de ambos lados. Suma 7 a ambos lados. Divide entre 1. ¿Cuál de los enunciados siguientes describe correctamente la consistencia del procedimiento utilizado?",
+    "opciones": [
+      "A) Todas las transformaciones son válidas y llevan a la solución correcta",
+      "B) Restar 2x es incorrecto",
+      "C) Sumar 7 es incorrecto",
+      "D) Dividir entre 1 es innecesario y altera la solución"
+    ],
+    "respuesta_correcta": "A"
+  },
+  {
+    "id": 195,
+    "pregunta": "En una tarea de álgebra, se pide resolver la ecuación (x+4)/(x-1)=2. Un estudiante realizó los siguientes pasos:\n1. Multiplicó ambos lados por (x-1) obteniendo x+4 = 2(x-1).\n2. Distribuyó: x+4 = 2x-2.\n3. Restó x de ambos lados: 4 = x-2.\n4. Sumó 2 a ambos lados: x = 6.\n5. Concluyó que la solución es x = 6 y que no existen restricciones adicionales.\n¿Cuál de las siguientes afirmaciones es correcta respecto a la consistencia de la solución encontrada?",
+    "opciones": [
+      "A) La solución es incorrecta porque no se consideró x ≠ 1",
+      "B) La solución es correcta y consistente",
+      "C) El paso 1 es inválido porque no se puede multiplicar por (x-1)",
+      "D) La solución debe ser x = 2"
+    ],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 196,
+    "pregunta": "En una escuela se están organizando actividades grupales. Primero, 144 estudiantes se dividen en grupos de 6 alumnos cada uno. Después, cada grupo se reparte en 3 subgrupos con el mismo número de estudiantes. Finalmente, se forman nuevas unidades agrupando 4 subgrupos entre sí. Según este procedimiento, ¿cuántos estudiantes compondrán cada nueva unidad?",
+    "opciones": ["A) 6", "B) 8", "C) 10", "D) 12"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 197,
+    "pregunta": "En una clase de 28 alumnos se quiere formar todas las parejas posibles sin repetir ninguna combinación. El docente indica que para obtener el número total de parejas debe multiplicar 28 × 27 y luego dividir el producto entre 2, obteniendo 378 parejas. ¿Cuál de las siguientes afirmaciones describe correctamente la consistencia del procedimiento utilizado?",
+    "opciones": [
+      "A) Debió dividir entre 3, no entre 2",
+      "B) El procedimiento es lógicamente consistente y el resultado correcto",
+      "C) La división entre 2 duplica el número de parejas",
+      "D) Debió considerar el orden, por lo que 28×27 es correcto sin dividir"
+    ],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 198,
+    "pregunta": "Orlando resuelve la ecuación 2x² – 8x + 6 = 0 siguiendo los pasos que se indican a continuación:\n1. Divide ambos lados por 2, obteniendo x² – 4x + 3 = 0.\n2. Factoriza el trinomio como (x – 1)(x – 3) = 0.\n3. Concluye que x = 1 y x = 3.\n4. Verifica sustituyendo cada valor en la ecuación original y afirma que solo x = 1 satisface la igualdad.\n¿Cuál de las siguientes afirmaciones es correcta respecto a la consistencia del procedimiento y la solución de Orlando?",
+    "opciones": [
+      "A) El procedimiento es incorrecto porque no se puede dividir por 2",
+      "B) La factorización es incorrecta",
+      "C) Ambas soluciones son correctas, la verificación de Orlando es errónea",
+      "D) Solo x = 1 es solución"
+    ],
+    "respuesta_correcta": "C"
+  },
+  {
+    "id": 199,
+    "pregunta": "Una caja contiene lápices rojos y lápices azules. En total hay 18 lápices y el número de lápices rojos es el doble del número de lápices azules. ¿Cuántos lápices azules hay en la caja?",
+    "opciones": ["A) 4", "B) 5", "C) 6", "D) 8"],
+    "respuesta_correcta": "C"
+  },
+  {
+    "id": 200,
+    "pregunta": "En una feria, cada puesto vende paquetes de 8 galletas. Si Miguel compra 5 paquetes y luego reparte las galletas igualmente entre sus 4 amigos, ¿cuántas galletas recibe cada amigo?",
+    "opciones": ["A) 8", "B) 9", "C) 10", "D) 12"],
+    "respuesta_correcta": "C"
+  },
+  {
+    "id": 201,
+    "pregunta": "Una escuela necesita comprar lápices para sus estudiantes. Cada paquete contiene 8 lápices y la escuela compra 12 paquetes. ¿Cuántos lápices tendrá en total?",
+    "opciones": ["A) 80", "B) 90", "C) 96", "D) 104"],
+    "respuesta_correcta": "C"
+  },
+  {
+    "id": 202,
+    "pregunta": "En una feria de ciencias cada puesto vende 12 paquetes de boletos. Si al final del día se vendieron 144 boletos, ¿cuántos puestos participaron en la venta?",
+    "opciones": ["A) 10", "B) 12", "C) 14", "D) 16"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 203,
+    "pregunta": "En una granja hay gallinas y ovejas. En total hay 34 animales y 98 patas. ¿Cuántas ovejas hay en la granja?",
+    "opciones": ["A) 12", "B) 15", "C) 18", "D) 20"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 204,
+    "pregunta": "En una escuela se organizarán equipos de fútbol de 5 jugadores cada uno. Si 48 estudiantes desean participar, ¿cuál es el número máximo de equipos completos que se pueden formar?",
+    "opciones": ["A) 8", "B) 9", "C) 10", "D) 12"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 205,
+    "pregunta": "En la feria escolar se venden paquetes de cuadernos, cada paquete contiene 8 cuadernos y cuesta Bs 12. Si la escuela necesita exactamente 56 cuadernos para una actividad, ¿cuántos paquetes deberá adquirir?",
+    "opciones": ["A) 6", "B) 7", "C) 8", "D) 9"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 206,
+    "pregunta": "Un agricultor recolectó 48 tomates y decide repartirlos en 6 cestas, colocando la misma cantidad de tomates en cada una. ¿Cuántos tomates deberá colocar en cada cesta?",
+    "opciones": ["A) 6", "B) 8", "C) 10", "D) 12"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 207,
+    "pregunta": "En una papelería, Víctor compra cuadernos y lápices. Cada cuaderno tiene un precio de 3 bolivianos y cada lápiz cuesta 1 boliviano. Si gasta exactamente 21 bolivianos y compra el doble de cuadernos que de lápices, ¿cuántos cuadernos adquirió?",
+    "opciones": ["A) 4", "B) 5", "C) 6", "D) 7"],
+    "respuesta_correcta": "C"
+  },
+  {
+    "id": 208,
+    "pregunta": "En una clase de 30 estudiantes, cada alumno necesita 3 cuadernos para el semestre. La tienda donde se comprarán los cuadernos sólo vende paquetes de 5 cuadernos. ¿Cuántos paquetes de cuadernos debe comprar la escuela como mínimo para cubrir la necesidad de todos los estudiantes?",
+    "opciones": ["A) 16", "B) 18", "C) 20", "D) 24"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 209,
+    "pregunta": "En una excursión escolar se reparten uniformemente 48 botellas de agua entre 8 grupos de estudiantes. ¿Cuántas botellas recibirá cada grupo?",
+    "opciones": ["A) 5", "B) 6", "C) 7", "D) 8"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 210,
+    "pregunta": "Una escuela tiene 240 cuadernos que necesita repartir de forma equitativa entre sus 8 aulas. ¿Cuántos cuadernos le tocarán a cada aula?",
+    "opciones": ["A) 25", "B) 28", "C) 30", "D) 35"],
+    "respuesta_correcta": "C"
+  },
+  {
+    "id": 211,
+    "pregunta": "En una biblioteca escolar hay 40 libros y se quieren colocar en 5 estanterías de forma que cada estantería tenga la misma cantidad de libros. ¿Cuántos libros debe haber en cada estantería?",
+    "opciones": ["A) 6", "B) 8", "C) 10", "D) 12"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 212,
+    "pregunta": "Una docente necesita cuadernos para sus alumnos. Compra 3 paquetes con 12 cuadernos cada uno y, adicionalmente, adquiere 4 paquetes con 15 cuadernos cada uno. ¿Cuántos cuadernos tendrá en total?",
+    "opciones": ["A) 84", "B) 90", "C) 96", "D) 108"],
+    "respuesta_correcta": "C"
+  },
+  {
+    "id": 213,
+    "pregunta": "En una feria, cada puesto vende 8 manzanas. Si hay 5 puestos y se venden 30 manzanas, ¿cuántas manzanas quedan sin vender?",
+    "opciones": ["A) 8", "B) 10", "C) 12", "D) 15"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 214,
+    "pregunta": "María tiene 15 bolivianos para comprar material escolar. Cada cuaderno cuesta 2 bolivianos y cada lápiz cuesta 0,5 bolivianos. Si decide comprar 4 cuadernos, ¿cuántos lápices podrá adquirir con el dinero que le queda?",
+    "opciones": ["A) 12", "B) 13", "C) 14", "D) 15"],
+    "respuesta_correcta": "C"
+  },
+  {
+    "id": 215,
+    "pregunta": "En una escuela se organizan equipos de fútbol. Cada equipo debe estar compuesto por 2 defensas y 3 delanteros. Si se forman 4 equipos y se utilizan todos los estudiantes, ¿cuántos delanteros participan en total?",
+    "opciones": ["A) 8", "B) 10", "C) 12", "D) 16"],
+    "respuesta_correcta": "C"
+  },
+  {
+    "id": 216,
+    "pregunta": "Una profesora compra tres paquetes idénticos de marcadores. En total adquiere 84 marcadores. ¿Cuántos marcadores contiene cada paquete?",
+    "opciones": ["A) 24", "B) 28", "C) 30", "D) 32"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 217,
+    "pregunta": "En una feria, Jorge compra 3 paquetes idénticos de semillas. Después de repartir 45 semillas a cada uno de sus 4 amigos, le quedan 15 semillas. ¿Cuántas semillas contenía cada paquete?",
+    "opciones": ["A) 60", "B) 62", "C) 65", "D) 70"],
+    "respuesta_correcta": "C"
+  },
+  {
+    "id": 218,
+    "pregunta": "Una biblioteca escolar dispone de 84 libros y quiere repartirlos en 3 estanterías de forma que cada una tenga la misma cantidad de libros. ¿Cuántos libros debe colocar en cada estantería?",
+    "opciones": ["A) 26", "B) 28", "C) 30", "D) 32"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 219,
+    "pregunta": "En una escuela se decide repartir uniformemente los libros donados entre sus 5 aulas. Si en total se recibieron 360 libros, ¿cuántos libros le corresponden a cada aula?",
+    "opciones": ["A) 70", "B) 72", "C) 75", "D) 80"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 220,
+    "pregunta": "Una excursión escolar tiene 48 estudiantes. Cada autobús disponible tiene capacidad para 8 pasajeros. ¿Cuántos autobuses se necesitan para transportar a todos los estudiantes sin que sobrecargue ningún vehículo?",
+    "opciones": ["A) 5", "B) 6", "C) 7", "D) 8"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 221,
+    "pregunta": "En una feria escolar, cada estudiante compra una pulsera de acceso a talleres que cuesta $12. Si un grupo de 5 estudiantes decide comprar las pulseras en conjunto y el organizador les ofrece un descuento del 10% sobre el total, ¿cuál es el monto que deberán pagar en total?",
+    "opciones": ["A) $50", "B) $54", "C) $58", "D) $60"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 222,
+    "pregunta": "Una escuela desea comprar cuadernos. Cada paquete contiene 12 cuadernos y cuesta 18 dólares. La escuela necesita exactamente 48 cuadernos. ¿Cuál es el gasto mínimo que debe realizar?",
+    "opciones": ["A) $64", "B) $72", "C) $80", "D) $90"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 223,
+    "pregunta": "Una biblioteca cuenta con 180 libros y cada estantería puede albergar exactamente 15 libros. ¿Cuántas estanterías completas son necesarias para colocar todos los libros?",
+    "opciones": ["A) 10", "B) 12", "C) 15", "D) 18"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 224,
+    "pregunta": "Una escuela adquirió 48 cuadernos y decide repartirlos de manera equitativa entre sus 6 clases. ¿Cuántos cuadernos le corresponderán a cada clase?",
+    "opciones": ["A) 6", "B) 8", "C) 9", "D) 12"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 225,
+    "pregunta": "En una clase de 20 estudiantes, la suma total de las calificaciones obtenidas en el último examen fue 1560 puntos. ¿Cuál es el promedio de notas que obtuvo la clase?",
+    "opciones": ["A) 76", "B) 78", "C) 80", "D) 82"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 226,
+    "pregunta": "Una tienda vende paquetes de lápices. Cada paquete contiene entre 8 y 12 lápices. Si una clase necesita exactamente 86 lápices y solo puede comprar paquetes completos, ¿cuál es el número mínimo de paquetes que debe adquirir?",
+    "opciones": ["A) 7", "B) 8", "C) 9", "D) 10"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 227,
+    "pregunta": "Una escuela organizó una venta de boletos durante cinco días consecutivos. Cada día se vendieron al menos 80 boletos y, además, cada día posterior se vendieron 10 boletos más que el día anterior. Si al final de la semana se vendieron en total 480 boletos, ¿cuántos boletos se vendieron en el tercer día?",
+    "opciones": ["A) 90", "B) 96", "C) 100", "D) 106"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 228,
+    "pregunta": "En una clase de matemática, los estudiantes obtuvieron las siguientes calificaciones en la tarea: 85, 78, 90, 72 y 73. El profesor anuncia que el promedio de la clase es 78. ¿Cuál de las siguientes afirmaciones es correcta?",
+    "opciones": [
+      "A) El promedio es 78, lo cual coincide con el cálculo mostrado",
+      "B) El promedio real es 80",
+      "C) El promedio real es 79",
+      "D) El promedio real es 77"
+    ],
+    "respuesta_correcta": "A"
+  },
+  {
+    "id": 229,
+    "pregunta": "Una maestra compra 100 lápices para repartir entre sus 30 estudiantes, entregando exactamente 3 lápices a cada uno. ¿Cuál de las siguientes afirmaciones es coherente con la cantidad de lápices que quedarían sin repartir?",
+    "opciones": [
+      "A) Quedan 5 lápices",
+      "B) Quedan 10 lápices",
+      "C) Quedan 15 lápices",
+      "D) Quedan 20 lápices"
+    ],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 230,
+    "pregunta": "En una actividad escolar, Luis compra 3 paquetes de bolígrafos. Cada paquete contiene 8 bolígrafos. Después registra que ha comprado un total de 24 bolígrafos. ¿Es coherente la información proporcionada?",
+    "opciones": [
+      "A) No, porque 3 × 8 = 27",
+      "B) No, porque 3 × 8 = 32",
+      "C) Sí, porque 3 × 8 = 24",
+      "D) No, porque la información está incompleta"
+    ],
+    "respuesta_correcta": "C"
+  },
+  {
+    "id": 231,
+    "pregunta": "En una clase de 5 estudiantes, las notas obtenidas son 70, 85, 90, 75 y 80. El docente afirma que el promedio de la clase es 84. ¿Es coherente este resultado?",
+    "opciones": [
+      "A) Sí, porque 70+85+90+75+80 = 400 y 400 ÷ 5 = 80",
+      "B) No, porque el promedio real es 80",
+      "C) Sí, porque el promedio redondeado es 84",
+      "D) No, porque el promedio real es 82"
+    ],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 232,
+    "pregunta": "En una feria escolar, el stand de experimentos de física vendió 48 boletos y el stand de arte vendió 30 boletos. Se sabe que el número de boletos vendidos por el stand de física es 1,5 veces el número de boletos vendidos por el stand de arte. ¿Cuál de las siguientes afirmaciones describe correctamente la relación entre los boletos vendidos en ambos stands?",
+    "opciones": [
+      "A) El stand de arte vendió 18 boletos menos que el de física",
+      "B) El stand de física vendió el doble de boletos que el de arte",
+      "C) El stand de arte vendió la mitad de boletos que el de física",
+      "D) Ambos stands vendieron la misma cantidad"
+    ],
+    "respuesta_correcta": "A"
+  },
+  {
+    "id": 233,
+    "pregunta": "Un estudiante desea comprar la cantidad de cerca necesaria para rodear un jardín rectangular cuya longitud es 8 metros y su ancho 5 metros. ¿Cuál de las siguientes afirmaciones describe correctamente el razonamiento para hallar la longitud total de la cerca?",
+    "opciones": [
+      "A) Multiplicar longitud por ancho: 8 × 5 = 40 m",
+      "B) Sumar longitud y ancho: 8 + 5 = 13 m",
+      "C) Calcular perímetro: 2×8 + 2×5 = 26 m",
+      "D) Asumir que todos los lados son iguales: 4 × 8 = 32 m"
+    ],
+    "respuesta_correcta": "C"
+  },
+  {
+    "id": 234,
+    "pregunta": "En una escuela secundaria de la zona andina, cada aula tiene 26 estudiantes. El docente planea organizarlos en equipos de 4 integrantes para una actividad de matemática. ¿Cuál es la conclusión lógica correcta respecto al número de equipos completos que se pueden formar y la cantidad de estudiantes que quedarán sin equipo?",
+    "opciones": [
+      "A) 5 equipos, sobran 6 estudiantes",
+      "B) 6 equipos, sobran 2 estudiantes",
+      "C) 6 equipos, sobran 4 estudiantes",
+      "D) 7 equipos, no sobran estudiantes"
+    ],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 235,
+    "pregunta": "En una clase hay 24 estudiantes. El docente desea organizarlos en filas de igual número, de modo que todas las filas tengan la misma cantidad de estudiantes y no quede ninguno fuera. Si el número de filas posible es mayor que 3 y menor que 6, ¿cuántas filas debe formar?",
+    "opciones": ["A) 3", "B) 4", "C) 5", "D) 6"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 236,
+    "pregunta": "En una escuela se registró que 30 estudiantes practican fútbol, 20 practican baloncesto y 10 practican ambos deportes. ¿Cuál de las siguientes afirmaciones es necesariamente verdadera?",
+    "opciones": [
+      "A) Hay exactamente 40 estudiantes que practican fútbol o baloncesto",
+      "B) Hay al menos 40 estudiantes que practican fútbol o baloncesto",
+      "C) Hay exactamente 50 estudiantes en total",
+      "D) Hay más estudiantes que practican solo fútbol que solo baloncesto"
+    ],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 237,
+    "pregunta": "En la feria de ciencias de la escuela se establecieron las siguientes condiciones:\n1. Si un proyecto utiliza energía solar, entonces recibe una bonificación de 5 puntos.\n2. El proyecto de Nicolas no recibió ninguna bonificación.\n3. El proyecto de Carlos utilizó energía solar.\n¿Cuál de las siguientes afirmaciones es necesariamente verdadera?",
+    "opciones": [
+      "A) El proyecto de Nicolas no utilizó energía solar",
+      "B) El proyecto de Carlos recibió la bonificación de 5 puntos",
+      "C) El proyecto de Nicolas utilizó energía solar",
+      "D) El proyecto de Carlos no recibió bonificación"
+    ],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 238,
+    "pregunta": "Una tienda vende paquetes de lápices. Cada paquete contiene entre 8 y 12 lápices. Si una clase necesita exactamente 86 lápices y solo puede comprar paquetes completos, ¿cuál es el número mínimo de paquetes que debe adquirir?",
+    "opciones": ["A) 7", "B) 8", "C) 9", "D) 10"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 239,
+    "pregunta": "Una Unidad Educativa organizó una venta de boletos durante cinco días consecutivos. Cada día se vendieron al menos 80 boletos y, además, cada día posterior se vendieron 10 boletos más que el día anterior. Si al final de la semana se vendieron en total 480 boletos, ¿cuántos boletos se vendieron en el tercer día?",
+    "opciones": ["A) 90", "B) 96", "C) 100", "D) 106"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 240,
+    "pregunta": "En una clase de matemática, los estudiantes obtuvieron las siguientes calificaciones en la tarea: 85, 78, 90, 72 y 73. El profesor anuncia que el promedio de la clase es 78. ¿Cuál de las siguientes afirmaciones es correcta?",
+    "opciones": [
+      "A) El promedio es 78, lo cual coincide con el cálculo mostrado",
+      "B) El promedio real es 80",
+      "C) El promedio real es 79",
+      "D) El promedio real es 77"
+    ],
+    "respuesta_correcta": "A"
+  },
+  {
+    "id": 241,
+    "pregunta": "En una institución educativa hay tres aulas de primaria. En la primera aula hay 24 lápices, en la segunda aula hay el doble de lápices que en la primera, y en la tercera aula hay 10 lápices menos que la suma de los lápices de las dos primeras aulas. ¿Cuántos lápices hay en total en las tres aulas?",
+    "opciones": ["A) 120", "B) 134", "C) 144", "D) 156"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 242,
+    "pregunta": "En una clase de quinto de primaria se van a repartir lápices de colores entre los estudiantes. Hay tres colores: rojo, azul y verde, y el total de lápices es 98. La cantidad de lápices rojos es el doble de la cantidad de lápices azules, y la cantidad de lápices verdes es 12 unidades menor que la cantidad de lápices rojos. ¿Cuántos lápices azules se repartirán?",
+    "opciones": ["A) 18", "B) 22", "C) 24", "D) 26"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 243,
+    "pregunta": "En una granja hay gallinas y vacas. En total cuentan 54 animales y 140 patas. ¿Cuántas vacas hay en la granja?",
+    "opciones": ["A) 14", "B) 15", "C) 16", "D) 18"],
+    "respuesta_correcta": "C"
+  },
+  {
+    "id": 244,
+    "pregunta": "Una maestra compra 100 lápices para repartir entre sus 30 estudiantes, entregando exactamente 3 lápices a cada uno. ¿Cuál de las siguientes afirmaciones es coherente con la cantidad de lápices que quedarían sin repartir?",
+    "opciones": [
+      "A) Quedan 5 lápices",
+      "B) Quedan 10 lápices",
+      "C) Quedan 15 lápices",
+      "D) Quedan 20 lápices"
+    ],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 245,
+    "pregunta": "En una actividad escolar, Ana compra 3 paquetes de bolígrafos. Cada paquete contiene 8 bolígrafos. Después registra que ha comprado un total de 24 bolígrafos. ¿Es coherente la información proporcionada?",
+    "opciones": [
+      "A) No, porque 3 × 8 = 27",
+      "B) No, porque 3 × 8 = 32",
+      "C) Sí, porque 3 × 8 = 24",
+      "D) No, porque la información está incompleta"
+    ],
+    "respuesta_correcta": "C"
+  },
+  {
+    "id": 246,
+    "pregunta": "Una librería vende un paquete que contiene 3 cuadernos y 2 libros por un total de $56. Si cada libro tiene el mismo precio y cuesta el doble que un cuaderno, ¿cuál es el precio de un cuaderno?",
+    "opciones": ["A) $6", "B) $8", "C) $10", "D) $12"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 247,
+    "pregunta": "Una Unidad Educativa cuenta con 120 estudiantes que deben organizarse en grupos para un proyecto de ciencia. Cada grupo debe estar formado por un número de estudiantes no menor a 8 y no mayor a 12. ¿Cuál es el número mínimo de grupos que se pueden formar?",
+    "opciones": ["A) 8", "B) 9", "C) 10", "D) 12"],
+    "respuesta_correcta": "C"
+  },
+  {
+    "id": 248,
+    "pregunta": "En una clase de 5 estudiantes, las notas obtenidas son 70, 85, 90, 75 y 80. El maestro afirma que el promedio de la clase es 84. ¿Es coherente este resultado?",
+    "opciones": [
+      "A) Sí, porque 70+85+90+75+80 = 400 y 400 ÷ 5 = 80",
+      "B) No, porque el promedio real es 80",
+      "C) Sí, porque el promedio redondeado es 84",
+      "D) No, porque el promedio real es 82"
+    ],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 249,
+    "pregunta": "En una feria escolar, el stand de experimentos de física vendió 48 boletos y el stand de arte vendió 30 boletos. Se sabe que el número de boletos vendidos por el stand de física es 1,5 veces el número de boletos vendidos por el stand de arte. ¿Cuál de las siguientes afirmaciones describe correctamente la relación entre los boletos vendidos en ambos stands?",
+    "opciones": [
+      "A) El stand de arte vendió 18 boletos menos que el de física",
+      "B) El stand de física vendió el doble de boletos que el de arte",
+      "C) El stand de arte vendió la mitad de boletos que el de física",
+      "D) Ambos stands vendieron la misma cantidad"
+    ],
+    "respuesta_correcta": "A"
+  },
+  {
+    "id": 250,
+    "pregunta": "Dos válvulas llenan un tanque de agua a velocidad constante. La válvula A, sola, lo llena en 6 horas; la válvula B, sola, lo llena en 9 horas. Si ambas válvulas se abren al mismo tiempo, ¿cuánto tiempo tardarán en llenar el tanque?",
+    "opciones": [
+      "A) 3 horas",
+      "B) 3 horas y 36 minutos",
+      "C) 4 horas",
+      "D) 4 horas y 30 minutos"
+    ],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 251,
+    "pregunta": "En una institución educativa, el jardín tiene tres patios: en el patio A hay 24 plantas, en el B 30 plantas y en el C 18 plantas. El jardinero riega 6 plantas por minuto en el patio A, 5 plantas por minuto en el B y 4 plantas por minuto en el C, trabajando los patios de forma secuencial comenzando por el A. ¿Cuánto tiempo, en minutos y segundos, le tomará regar todas las plantas?",
+    "opciones": [
+      "A) 13 minutos",
+      "B) 14 minutos y 30 segundos",
+      "C) 15 minutos",
+      "D) 16 minutos"
+    ],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 252,
+    "pregunta": "Una Unidad Educativa organizó una excursión y pagó $720 por el servicio de transporte. Cada autobús podía llevar a 48 estudiantes y el costo total se dividió equitativamente entre todos los estudiantes que asistieron. Si participaron 240 estudiantes, ¿cuánto debe pagar cada uno?",
+    "opciones": ["A) $2", "B) $3", "C) $4", "D) $5"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 253,
+    "pregunta": "En una granja hay gallinas y conejos. En total hay 48 animales y 140 patas. ¿Cuántos conejos hay en la granja?",
+    "opciones": ["A) 20", "B) 22", "C) 24", "D) 26"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 254,
+    "pregunta": "En una feria escolar se venden paquetes de lápices. Cada paquete contiene 12 lápices y cuesta Bs. 15. Un grupo de 5 maestros desea que cada uno cuente con al menos 48 lápices. ¿Cuál es el gasto total mínimo que deberán efectuar?",
+    "opciones": ["A) Bs. 240", "B) Bs. 300", "C) Bs. 360", "D) Bs. 420"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 255,
+    "pregunta": "Un estudiante desea comprar la cantidad de cerca necesaria para rodear un jardín rectangular cuya longitud es 8 metros y su ancho 5 metros. ¿Cuál de las siguientes afirmaciones describe correctamente el razonamiento para hallar la longitud total de la cerca?",
+    "opciones": [
+      "A) Multiplicar longitud por ancho: 8 × 5 = 40 m",
+      "B) Sumar longitud y ancho: 8 + 5 = 13 m",
+      "C) Calcular perímetro: 2×8 + 2×5 = 26 m",
+      "D) Asumir que todos los lados son iguales: 4 × 8 = 32 m"
+    ],
+    "respuesta_correcta": "C"
+  },
+  {
+    "id": 256,
+    "pregunta": "En una clase de 30 estudiantes, 18 aprueban la asignatura de Matemática, 15 aprueban la asignatura de Ciencias Naturales y 5 aprueban ambas materias. Según estos datos, ¿cuántos estudiantes aprueban al menos una de las dos asignaturas?",
+    "opciones": ["A) 26", "B) 28", "C) 30", "D) 33"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 257,
+    "pregunta": "En una biblioteca escolar hay 324 libros que deben colocarse en estanterías. Cada estantería debe contener el mismo número de libros y no puede alojar más de 30 libros. ¿Cuál de los siguientes números de estanterías permite cumplir con estas condiciones?",
+    "opciones": ["A) 18", "B) 24", "C) 12", "D) 30"],
+    "respuesta_correcta": "C"
+  },
+  {
+    "id": 258,
+    "pregunta": "En una Unidad Educativa del Nivel de Educación Secundaria de la zona andina, cada aula tiene 26 estudiantes. El maestro planea organizar a los estudiantes en equipos de 4 integrantes para una actividad de matemática. ¿Cuál es la conclusión lógica correcta respecto al número de equipos completos que se pueden formar y la cantidad de estudiantes que quedarán sin equipo?",
+    "opciones": [
+      "A) 5 equipos, sobran 6 estudiantes",
+      "B) 6 equipos, sobran 2 estudiantes",
+      "C) 6 equipos, sobran 4 estudiantes",
+      "D) 7 equipos, no sobran estudiantes"
+    ],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 259,
+    "pregunta": "En una clase hay 24 estudiantes. El maestro desea organizarlos en filas de igual número de estudiantes, de modo que todas las filas tengan la misma cantidad de estudiantes y no quede ninguno fuera. Si el número de filas posible es mayor que 3 y menor que 6, ¿cuántas filas debe formar?",
+    "opciones": ["A) 3", "B) 4", "C) 5", "D) 6"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 260,
+    "pregunta": "Un rectángulo tiene un perímetro de 68 cm y su longitud supera al ancho en 4 cm. ¿Cuál es el área del rectángulo (en cm²)?",
+    "opciones": ["A) 240", "B) 285", "C) 300", "D) 320"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 261,
+    "pregunta": "Una biblioteca tiene 84 libros y desea distribuirlos en estanterías de forma que cada estantería contenga el mismo número de libros, sin que quede ninguno fuera y sin dejar una estantería vacía. ¿Cuál es el mayor número de libros que puede colocar en cada estantería?",
+    "opciones": ["A) 28", "B) 42", "C) 56", "D) 84"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 262,
+    "pregunta": "En una institución educativa se registró que 30 estudiantes practican fútbol, 20 practican baloncesto y 10 practican ambos deportes. ¿Cuál de las siguientes afirmaciones es necesariamente verdadera?",
+    "opciones": [
+      "A) Hay exactamente 40 estudiantes que practican al menos uno de los dos deportes.",
+      "B) Hay al menos 40 estudiantes que practican fútbol o baloncesto.",
+      "C) Hay más estudiantes que practican solo fútbol que solo baloncesto.",
+      "D) No hay estudiantes que practiquen solo un deporte."
+    ],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 263,
+    "pregunta": "Un agricultor desea cercar un terreno rectangular cuya cerca tiene una longitud total de 60 metros. Para que el área cultivada sea la mayor posible, ¿qué dimensiones debe elegir para el rectángulo?",
+    "opciones": ["A) 10 m × 20 m", "B) 15 m × 15 m", "C) 12 m × 18 m", "D) 8 m × 22 m"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 264,
+    "pregunta": "Una Unidad Educativa debe repartir 240 cuadernos de forma equitativa entre 8 aulas. ¿Qué operación matemática es la más adecuada para determinar cuántos cuadernos recibirá cada aula?",
+    "opciones": ["A) Suma", "B) Resta", "C) Multiplicación", "D) División"],
+    "respuesta_correcta": "D"
+  },
+  {
+    "id": 265,
+    "pregunta": "Un agricultor cuenta con 48 metros de alambre para delimitar un terreno rectangular. ¿Cuál de las siguientes dimensiones permite obtener la mayor superficie posible para el terreno?",
+    "opciones": ["A) 8 m × 16 m", "B) 10 m × 14 m", "C) 6 m × 18 m", "D) 12 m × 12 m"],
+    "respuesta_correcta": "D"
+  },
+  {
+    "id": 266,
+    "pregunta": "En una institución educativa se organizaron grupos de estudiantes para recolectar agua de lluvia. Cada grupo está formado por 5 estudiantes y cada uno coloca una cubeta que recoge 12 litros por hora. Si la institución educativa necesita obtener al menos 360 litros de agua en un período de 3 horas, ¿cuántos grupos deben formarse como mínimo?",
+    "opciones": ["A) 8 grupos", "B) 9 grupos", "C) 10 grupos", "D) 12 grupos"],
+    "respuesta_correcta": "C"
+  },
+  {
+    "id": 267,
+    "pregunta": "Una Unidad Educativa organizará una visita a un museo para 274 estudiantes. Cada autobús disponible tiene capacidad para 48 estudiantes. ¿Cuál es el número mínimo de autobuses que la Unidad Educativa debe contratar para que todos los estudiantes viajen juntos?",
+    "opciones": ["A) 5 autobuses", "B) 6 autobuses", "C) 7 autobuses", "D) 8 autobuses"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 268,
+    "pregunta": "En un jardín se plantan flores de tres colores: rojas, blancas y amarillas. El número de flores rojas es el doble del número de flores blancas. El número de flores amarillas es 5 unidades menos que la suma de flores rojas y blancas. Si en total hay 31 flores, ¿cuántas flores blancas se plantaron?",
+    "opciones": ["A) 4 flores", "B) 5 flores", "C) 6 flores", "D) 7 flores"],
+    "respuesta_correcta": "C"
+  },
+  {
+    "id": 269,
+    "pregunta": "En la biblioteca de un colegio se deben colocar 120 libros nuevos en estanterías. Cada estantería tiene capacidad para 4 libros exactamente. ¿Cuántas estanterías serán necesarias para acomodar todos los libros?",
+    "opciones": ["A) 24 estanterías", "B) 30 estanterías", "C) 40 estanterías", "D) 48 estanterías"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 270,
+    "pregunta": "Una maestra tiene 48 lápices y desea agruparlos en paquetes idénticos de modo que no sobre ningún lápiz y que cada paquete contenga la mayor cantidad posible de lápices. ¿Cuántos lápices habrá en cada paquete?",
+    "opciones": ["A) 8 lápices", "B) 12 lápices", "C) 16 lápices", "D) 24 lápices"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 271,
+    "pregunta": "En la feria de Ciencias Naturales de la institución educativa se establecieron las siguientes condiciones: 1) Si un proyecto utiliza energía solar, entonces recibe una bonificación de 5 puntos. 2) El proyecto de Carlos no recibió ninguna bonificación. 3) El proyecto de Carlos utilizó energía solar. ¿Cuál de las siguientes afirmaciones es necesariamente verdadera?",
+    "opciones": [
+      "A) Carlos no utilizó energía solar.",
+      "B) Carlos recibió 5 puntos.",
+      "C) El proyecto de Carlos no cumplió las condiciones.",
+      "D) Carlos no participó en la feria."
+    ],
+    "respuesta_correcta": "A"
+  },
+  {
+    "id": 272,
+    "pregunta": "Un agricultor desea cercar un terreno rectangular cuya cerca tiene una longitud total de 60 metros. Para que el área cultivada sea la mayor posible, ¿qué dimensiones debe elegir para el rectángulo?",
+    "opciones": ["A) 10 m × 20 m", "B) 15 m × 15 m", "C) 12 m × 18 m", "D) 8 m × 22 m"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 273,
+    "pregunta": "Un agricultor dispone de 120 metros de alambre para cercar un jardín rectangular. Desea que el área del jardín sea la mayor posible. ¿Cuál de los siguientes procedimientos es el más apropiado para determinar las dimensiones que maximicen el área?",
+    "opciones": [
+      "A) Probar varias combinaciones de largo y ancho que sumen 60 m.",
+      "B) Expresar el área en función de una variable y hallar el vértice de la parábola.",
+      "C) Usar solo dimensiones enteras.",
+      "D) Hacer el largo el doble del ancho."
+    ],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 274,
+    "pregunta": "En la Unidad Educativa se organizará una competencia de relevos donde cada equipo está formado por 5 corredores. Si 84 estudiantes se anotan para participar, ¿cuántos equipos completos pueden formarse sin dejar a ningún estudiante sin equipo?",
+    "opciones": ["A) 16 equipos", "B) 17 equipos", "C) 20 equipos", "D) 21 equipos"],
+    "respuesta_correcta": "A"
+  },
+  {
+    "id": 275,
+    "pregunta": "En la institución educativa se desea construir un huerto rectangular cuya superficie mide 8 metros de ancho por 12 metros de largo. Para que el huerto quede formado por parcelas cuadradas idénticas y sin que sobre espacio, ¿cuál debe ser la longitud del lado de cada parcela?",
+    "opciones": ["A) 1 m", "B) 2 m", "C) 4 m", "D) 6 m"],
+    "respuesta_correcta": "C"
+  },
+  {
+    "id": 276,
+    "pregunta": "Una organización benéfica prepara una cena para 54 personas y cada mesa tiene capacidad para 8 comensales. ¿Cuál es el número mínimo de mesas que deben disponer para que todos los invitados tengan asiento?",
+    "opciones": ["A) 6 mesas", "B) 7 mesas", "C) 8 mesas", "D) 9 mesas"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 277,
+    "pregunta": "En una clase de geometría básica, el maestro quiere que sus estudiantes determininen cuántas baldosas de 30 cm × 30 cm son necesarias para cubrir completamente un patio rectangular de 6 m de largo por 4,5 m de ancho, sin que quede espacio vacío ni sobreposición. ¿Cuál es el procedimiento más adecuado para obtener la cantidad requerida?",
+    "opciones": [
+      "A) Calcular el perímetro del patio y dividirlo entre el perímetro de una baldosa.",
+      "B) Calcular el área del patio y dividirla entre el área de una baldosa.",
+      "C) Sumar el largo y el ancho y multiplicar por 2.",
+      "D) Contar cuántas baldosas caben a lo largo y a lo ancho y multiplicar."
+    ],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 278,
+    "pregunta": "En una Unidad Educativa se organizó un concurso de elaboración de pulseras con cuentas de colores. Cada pulsera debe contener exactamente 12 cuentas y se pueden usar 3 colores (rojo, verde y azul) en cualquier orden, pero se requiere que haya al menos una cuenta de cada color. ¿Cuántas pulseras diferentes se pueden formar si se consideran distintas las disposiciones de colores?",
+    "opciones": ["A) 531 441", "B) 519 156", "C) 12 288", "D) 4 096"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 279,
+    "pregunta": "En una clase de 27 estudiantes la maestra quiere organizar grupos de 4 estudiantes para una actividad. ¿Cuál es el número máximo de grupos completos que puede formar?",
+    "opciones": ["A) 5 grupos", "B) 6 grupos", "C) 7 grupos", "D) 8 grupos"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 280,
+    "pregunta": "En una clase de 30 estudiantes, el maestro registra las siguientes calificaciones del examen: 5 estudiantes obtuvieron 90 puntos, 10 estudiantes obtuvieron 70 puntos, 8 estudiantes obtuvieron 50 puntos y el resto de los estudiantes obtuvo 30 puntos. El maestro afirma que la suma total de todas las notas es 2100 puntos. ¿Cuál de las siguientes afirmaciones es correcta respecto a la coherencia de los datos?",
+    "opciones": [
+      "A) Los datos son coherentes.",
+      "B) Los datos no son coherentes, la suma correcta es 1760.",
+      "C) Los datos no son coherentes, la suma correcta es 1800.",
+      "D) Faltan datos para verificar."
+    ],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 281,
+    "pregunta": "En una clase de matemática, el maestro suma las notas de cinco estudiantes: 78, 85, 92, 67 y 88, y anuncia que el total es 415. Después divide ese total entre 5 y dice que el promedio es 84. ¿Cuál de las siguientes afirmaciones es correcta respecto a la coherencia de los cálculos?",
+    "opciones": [
+      "A) La suma y el promedio son correctos.",
+      "B) La suma correcta es 410 y el promedio es 82.",
+      "C) La suma correcta es 410 y el promedio es 84.",
+      "D) El promedio debería ser 83."
+    ],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 282,
+    "pregunta": "Una institución educativa registra las notas obtenidas por tres estudiantes en un examen: Gloria sacó 78, Luis 84 y Carla 92. El director publica que el promedio de la nota del examen es 84. ¿Cuál de las siguientes afirmaciones es correcta respecto a la coherencia de ese promedio?",
+    "opciones": [
+      "A) El promedio es exactamente 84.",
+      "B) El promedio exacto es 84,67, pero puede redondearse a 84.",
+      "C) El promedio correcto es 85.",
+      "D) No se puede calcular con solo tres notas."
+    ],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 283,
+    "pregunta": "En una clase de 30 estudiantes se registró la cantidad de libros leídos durante el mes de abril. La suma total de libros leídos es 126. El maestro indica que el promedio de libros leídos por estudiante es 4,2. ¿Cuál de las siguientes aseveraciones es la más coherente con este resultado?",
+    "opciones": [
+      "A) El promedio es incorrecto, debería ser 4,0.",
+      "B) El promedio es correcto.",
+      "C) El promedio debería ser 4,5.",
+      "D) Faltan datos para calcular el promedio."
+    ],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 284,
+    "pregunta": "Una Unidad Educativa compra cuadernos para sus estudiantes. El director indica que se adquirieron 12 paquetes de 20 cuadernos cada uno y 5 paquetes de 15 cuadernos cada uno. Cada cuaderno tiene un costo de 0,80 USD. ¿Cuál de los siguientes valores representa correctamente el gasto total en la compra de los cuadernos?",
+    "opciones": ["A) 252 USD", "B) 159,20 USD", "C) 315 USD", "D) 504 USD"],
+    "respuesta_correcta": "A"
+  },
+  {
+    "id": 285,
+    "pregunta": "Una institución educativa dispone de 120 cuadernos y desea repartirlos en partes iguales entre sus 8 clases. Un estudiante indica diferentes cantidades de cuadernos por clase. ¿Cuál de las siguientes opciones representa un resultado coherente con la información dada?",
+    "opciones": [
+      "A) Cada clase recibe 14 cuadernos.",
+      "B) Cada clase recibe 15 cuadernos.",
+      "C) Cada clase recibe 12 cuadernos.",
+      "D) Cada clase recibe 20 cuadernos."
+    ],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 286,
+    "pregunta": "En una fábrica se producen tres tipos de componentes: X, Y y Z. En un día se fabrican 1 200 unidades en total. Cada unidad de X requiere 2 horas de trabajo, cada unidad de Y requiere 3 horas y cada unidad de Z requiere 5 horas. El total de horas trabajadas ese día es 4 500 horas. Además, el número de unidades de Y equivale al 25 % del total de unidades fabricadas. ¿Cuántas unidades de Z se produjeron ese día?",
+    "opciones": ["A) 300 unidades", "B) 400 unidades", "C) 500 unidades", "D) 600 unidades"],
+    "respuesta_correcta": "D"
+  },
+  {
+    "id": 287,
+    "pregunta": "En una competencia de lanzamiento de pelota, los participantes A, B y C obtuvieron respectivamente 48, 56 y 64 puntos. El organizador asegura que la suma total de los puntos es 168. ¿Cuál de las siguientes afirmaciones es correcta?",
+    "opciones": [
+      "A) La suma es correcta.",
+      "B) La suma debería ser 158.",
+      "C) La suma debería ser 178.",
+      "D) No se puede calcular sin más datos."
+    ],
+    "respuesta_correcta": "A"
+  },
+  {
+    "id": 288,
+    "pregunta": "En una jornada escolar se entregaron cuadernos para realizar actividades. Cada maestro llevó 3 cuadernos y cada estudiante llevó 1 cuaderno. El número total de cuadernos entregados fue 200 y la suma de maestros y estudiantes participantes fue 150. ¿Cuántos maestros participaron en la jornada?",
+    "opciones": ["A) 20 maestros", "B) 25 maestros", "C) 30 maestros", "D) 35 maestros"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 289,
+    "pregunta": "En una institución educativa se organizan tres jornadas de clases. La primera jornada tiene una duración de 4 horas, la segunda de 5 horas y la tercera de 3 horas. Si se convierten todas las duraciones a minutos y se suman, ¿cuál de los siguientes valores representa correctamente el total de minutos de las tres jornadas?",
+    "opciones": ["A) 600 minutos", "B) 660 minutos", "C) 720 minutos", "D) 780 minutos"],
+    "respuesta_correcta": "C"
+  },
+  {
+    "id": 290,
+    "pregunta": "Se propone la siguiente secuencia para resolver el problema: “Un número se incrementa en 8 y el resultado se divide por 4, obteniéndose 5.”\nI. Plantear la ecuación: (x+8)/4=5\nII. Multiplicar ambos lados por 4: x+8=5\nIII. Restar 8 a ambos lados: x=−3\nIV. Verificar sustituyendo x=−3: (−3+8)/4=5/4 ≠ 5\n¿Cuál de los pasos, de acuerdo con la lógica matemática, produce una inconsistencia en el procedimiento?",
+    "opciones": ["A) Paso I", "B) Paso II", "C) Paso III", "D) Paso IV"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 291,
+    "pregunta": "En una cooperativa de productores de cacao los proveedores se organizan en tres grupos: X, Y y Z. Se sabe que: 1) el número total de proveedores es 50; 2) el grupo X representa el 40 % del total; 3) el número de proveedores del grupo Y es 10 unidades menor que el del grupo Z; y 4) el grupo Z tiene el doble de miembros que el grupo Y. ¿Cuántos proveedores pertenecen al grupo Y?",
+    "opciones": ["A) 8 proveedores", "B) 10 proveedores", "C) 12 proveedores", "D) 15 proveedores"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 292,
+    "pregunta": "Una Unidad Educativa organizará una excursión y dispone de autobuses con capacidad de 48 asientos cada uno. Necesita transportar a 274 estudiantes y 23 maestros. Además, cada autobús debe llevar al menos un maestro. ¿Cuál es el número mínimo de autobuses que debe contratar la Unidad Educativa para cumplir con todas las condiciones?",
+    "opciones": ["A) 6 autobuses", "B) 7 autobuses", "C) 8 autobuses", "D) 9 autobuses"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 293,
+    "pregunta": "Se sabe que la suma de dos números es 25 y que su producto es 144. ¿Cuál de las siguientes afirmaciones es coherente con esos datos?",
+    "opciones": [
+      "A) Los números son 10 y 15.",
+      "B) Los números son 9 y 16.",
+      "C) Los números son 8 y 17.",
+      "D) Los números son 12 y 13."
+    ],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 294,
+    "pregunta": "En una institución educativa, la clase A obtuvo las siguientes calificaciones en Matemática: 78, 85, 92, 88. La clase B obtuvo: 81, 79, 84, 90. El director calcula el promedio de cada clase y luego el promedio total de los ocho estudiantes. Si el promedio de la clase A es 85,5 y el de la clase B es 83,5, ¿cuál de las siguientes afirmaciones es coherente con estos resultados?",
+    "opciones": [
+      "A) El promedio total es 84,0.",
+      "B) El promedio total es 84,5.",
+      "C) El promedio total es 85,0.",
+      "D) El promedio total es 85,5."
+    ],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 295,
+    "pregunta": "En el informe anual del Nivel de Educación Secundaria se indica que el número de estudiantes de los tres últimos años es: 4.º año: 122 estudiantes, 5.º año: 138 estudiantes y 6.º año: 149 estudiantes. El documento también señala que el total de estudiantes de esos tres años es 410. ¿Es coherente la información presentada?",
+    "opciones": [
+      "A) Sí, es coherente.",
+      "B) No, la suma correcta es 409.",
+      "C) No, la suma correcta es 411.",
+      "D) No se puede determinar."
+    ],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 296,
+    "pregunta": "En una excursión escolar se van a llevar botellas de agua y de jugo. Se compran 12 paquetes de agua, cada uno con 6 botellas, y 8 paquetes de jugo, cada uno con 9 botellas. El estudiante calcula el total multiplicando la cantidad de paquetes por la cantidad de botellas de cada tipo y luego suma ambos resultados. ¿Cuál es el número total de botellas que se llevarán?",
+    "opciones": ["A) 120 botellas", "B) 132 botellas", "C) 144 botellas", "D) 156 botellas"],
+    "respuesta_correcta": "C"
+  },
+  {
+    "id": 297,
+    "pregunta": "En una granja hay vacas y gallinas. En total hay 30 animales y, sumando todas sus patas, se obtienen 74. ¿Cuántas vacas hay en la granja?",
+    "opciones": ["A) 5 vacas", "B) 7 vacas", "C) 10 vacas", "D) 12 vacas"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 298,
+    "pregunta": "En una institución educativa rural se presentan los siguientes datos: 1) Todos los estudiantes que participan en el concurso de matemática también asisten al club de robótica. 2) Ningún estudiante que pertenece al equipo de fútbol participa en el concurso de matemática. 3) María pertenece al equipo de fútbol. ¿Cuál de las siguientes afirmaciones se deduce lógicamente de la información anterior?",
+    "opciones": [
+      "A) María asiste al club de robótica.",
+      "B) María participa en el concurso de matemática.",
+      "C) María no participa en el concurso de matemática.",
+      "D) María no pertenece al equipo de fútbol."
+    ],
+    "respuesta_correcta": "C"
+  },
+  {
+    "id": 299,
+    "pregunta": "En una unidad educativa, 6 estudiantes pueden ordenar un archivo completo en 8 horas, trabajando todos al mismo ritmo y sin interrupciones. Si se incrementa el número de estudiantes a 12 y se mantiene el mismo tipo de trabajo, ¿cuántas horas se necesitarán para ordenar el mismo archivo?",
+    "opciones": ["A) 2 horas", "B) 4 horas", "C) 6 horas", "D) 16 horas"],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 300,
+    "pregunta": "Un número natural aumentado en su triple da como resultado 56. Este tipo de situación puede modelarse mediante una ecuación algebraica simple que permite encontrar el valor desconocido. ¿Cuál es el número natural que cumple esta condición?",
+    "opciones": ["A) 12", "B) 14", "C) 16", "D) 18"],
+    "respuesta_correcta": "B"
+  }
+]
