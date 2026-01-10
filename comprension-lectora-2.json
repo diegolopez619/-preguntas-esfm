@@ -1,0 +1,1105 @@
+﻿{
+  "examen_simulacro": {
+    "titulo": "Simulacro de Examen de Comprensión Lectora",
+    "textos": [
+      {
+        "id": "texto_5",
+        "titulo": "Inteligencia artificial en la educación boliviana: oportunidades, retos y perspectivas científicas",
+        "preguntas": [
+          {
+            "numero": 1,
+            "enunciado": "Según el artículo, ¿qué actor es mencionado primero como iniciador de la implementación de herramientas de IA en la educación boliviana?",
+            "opciones": {
+              "A": "Universidad Mayor de San Andrés (UMSA)",
+              "B": "Universidad Católica Boliviana (UCB)",
+              "C": "Ministerio de Educación",
+              "D": "Empresa Teknova"
+            },
+            "respuesta_correcta": "C",
+            "sustento": "El artículo introduce primero al Ministerio de Educación como responsable del programa ‘Bolivia Aprende Digital’ (2022-2025), que incorpora plataformas de IA como Khan Academy y Microsoft Education. Los proyectos de la Universidad Católica Boliviana, la Universidad Autónoma Tomás Frías y la Universidad Mayor de San Andrés se describen posteriormente, por lo que no son los primeros actores mencionados."
+          },
+          {
+            "numero": 2,
+            "enunciado": "De acuerdo con el texto, ¿qué organismo proporciona la cifra del 38% de hogares rurales bolivianos con conexión a Internet de banda ancha?",
+            "opciones": {
+              "A": "Ministerio de Educación",
+              "B": "Instituto Nacional de Estadística (INE)",
+              "C": "UNESCO",
+              "D": "Universidad Mayor de San Andrés (UMSA)"
+            },
+            "respuesta_correcta": "B",
+            "sustento": "Según el Instituto Nacional de Estadística (INE, 2023), solo el 38% de los hogares rurales dispone de conexión a Internet de banda ancha. Las demás opciones son incorrectas: el Ministerio de Educación impulsa programas educativos, la UNESCO reporta datos a nivel regional y la UMSA participa en proyectos de realidad aumentada, pero ninguna de ellas es la fuente de la estadística mencionada."
+          },
+          {
+            "numero": 3,
+            "enunciado": "Basándose en la información proporcionada, ¿cuál es la segunda consecuencia social que se menciona respecto a la adopción de la IA en la educación boliviana?",
+            "opciones": {
+              "A": "Ampliación de la desigualdad educativa.",
+              "B": "Dependencia excesiva del algoritmo por falta de capacitación docente.",
+              "C": "Reducción de la brecha digital.",
+              "D": "Aumento de la deserción escolar."
+            },
+            "respuesta_correcta": "B",
+            "sustento": "La falta de competencias técnicas puede generar una dependencia excesiva del algoritmo, sin la capacidad de interpretar los resultados ni de intervenir cuando la IA sugiere una ruta pedagógica inadecuada. Este es el segundo efecto social mencionado después de la ‘ampliación de la desigualdad educativa’ (primera consecuencia)."
+          },
+          {
+            "numero": 4,
+            "enunciado": "El artículo señala que los conceptos neurocientíficos clave para la personalización del aprendizaje son:",
+            "opciones": {
+              "A": "Neuroplasticidad y memoria de trabajo.",
+              "B": "Plasticidad sináptica y carga cognitiva.",
+              "C": "Aprendizaje automático e inteligencia emocional.",
+              "D": "Zona de desarrollo próximo y retroalimentación."
+            },
+            "respuesta_correcta": "B",
+            "sustento": "Dos conceptos resultan clave: plasticidad sináptica y carga cognitiva. Las demás opciones combinan términos que aparecen en el texto, pero nunca se presentan juntos como los dos conceptos clave; por ejemplo, “neuroplasticidad” y “memoria de trabajo” son conceptos relacionados, pero no citados como los dos esenciales, y “aprendizaje automático” y “inteligencia emocional” pertenecen a dominios diferentes al de los fundamentos neurocientíficos descritos."
+          },
+          {
+            "numero": 5,
+            "enunciado": "De acuerdo con el texto, ¿cuáles son los principales desafíos que se identifican para la integración de la IA en la educación boliviana?",
+            "opciones": {
+              "A": "Falta de inversión, alta tasa de deserción y corrupción.",
+              "B": "Infraestructura y conectividad, capacitación docente, privacidad y sesgo algorítmico.",
+              "C": "Resistencia cultural, falta de contenido local y burocracia estatal.",
+              "D": "Escasez de dispositivos, bajo rendimiento académico y desinterés estudiantil."
+            },
+            "respuesta_correcta": "B",
+            "sustento": "En la sección ‘Desafíos éticos, técnicos y estructurales en Bolivia’ el artículo enumera tres problemas principales: (1) Infraestructura y conectividad, (2) Capacitación docente y (3) Privacidad y sesgo algorítmico. Las demás opciones mezclan conceptos que aparecen en el texto (por ejemplo, privacidad y sesgo) con elementos que no se mencionan como desafíos específicos (como ‘falta de inversión’ o ‘alta tasa de deserción’), por lo que son distractores incorrectos."
+          },
+          {
+            "numero": 6,
+            "enunciado": "Según el artículo, ¿qué porcentaje de hogares rurales en Bolivia dispone de conexión a Internet de banda ancha?",
+            "opciones": {
+              "A": "71%",
+              "B": "22%",
+              "C": "38%",
+              "D": "84%"
+            },
+            "respuesta_correcta": "C",
+            "sustento": "El texto indica que “solo el 38% de los hogares rurales dispone de conexión a Internet de banda ancha”. Las opciones 1, 2 y 3 corresponden a datos diferentes del artículo: 71% es el porcentaje de hogares urbanos con banda ancha, 22% es la proporción de docentes que ha recibido capacitación digital avanzada, y 84% es el porcentaje de estudiantes que reportó mejor comprensión tras usar realidad aumentada. Ninguno de esos valores se refiere a la conectividad de hogares rurales."
+          },
+          {
+            "numero": 7,
+            "enunciado": "El artículo señala que solo el 38% de los hogares rurales tiene conexión de banda ancha, mientras que el 71% de los urbanos sí la posee. ¿Qué consecuencia se puede deducir si esta diferencia de conectividad no se corrige al introducir herramientas de IA en la educación?",
+            "opciones": {
+              "A": "Se reducirá la deserción escolar en zonas rurales.",
+              "B": "Se incrementará la desigualdad educativa entre áreas rurales y urbanas.",
+              "C": "Aumentará la capacitación docente en zonas rurales.",
+              "D": "Disminuirá la necesidad de infraestructura tecnológica."
+            },
+            "respuesta_correcta": "B",
+            "sustento": "El texto indica que la brecha digital es significativa (38% de hogares rurales con banda ancha vs. 71% en urbanos) y que esta disparidad limita la implementación uniforme de plataformas de IA, pudiendo ampliar la desigualdad educativa si no se adopta una estrategia de mitigación. Por lo tanto, la consecuencia lógica es que la desigualdad entre áreas rurales y urbanas se incrementará. Las otras opciones interpretan erróneamente el efecto: la reducción de deserción, el aumento de capacitación docente o la disminución de necesidad de infraestructura no están sustentadas por la información dada y, al contrario, requieren mejoras en conectividad."
+          },
+          {
+            "numero": 8,
+            "enunciado": "Según el artículo, ¿cuál es la principal fortaleza del enfoque de tutores virtuales basados en IA en la educación secundaria boliviana?",
+            "opciones": {
+              "A": "Reducen el costo de la educación pública.",
+              "B": "Mejoran el desempeño académico y reducen la deserción.",
+              "C": "Eliminan la necesidad de docentes humanos.",
+              "D": "Aumentan la conectividad en zonas rurales."
+            },
+            "respuesta_correcta": "B",
+            "sustento": "En el estudio piloto de la Universidad Católica Boliviana, el uso de un tutor virtual basado en IA elevó el promedio de calificaciones en matemática de 6.8 a 8.1 y redujo la tasa de deserción en la asignatura en un 12%. Estos resultados demuestran una mejora académica clara y una disminución de la deserción, que son la fortaleza principal del enfoque."
+          },
+          {
+            "numero": 9,
+            "enunciado": "Considerando lo mencionado en el texto, ¿qué tan válido es el argumento de que la inteligencia artificial reducirá automáticamente las brechas sociales en la educación boliviana?",
+            "opciones": {
+              "A": "Totalmente válido, porque la IA garantiza acceso equitativo.",
+              "B": "Parcialmente válido, porque depende de mejoras en conectividad y capacitación docente.",
+              "C": "No válido, porque la IA solo beneficia a zonas urbanas.",
+              "D": "No se puede determinar por falta de evidencia."
+            },
+            "respuesta_correcta": "B",
+            "sustento": "El artículo destaca tanto las oportunidades de la IA para mejorar la calidad educativa y reducir desigualdades (p. ej., tutores virtuales que compensan la escasez de docentes) como los grandes desafíos estructurales: solo el 38% de los hogares rurales tiene banda ancha y solo el 22% de los docentes ha recibido capacitación en tecnologías emergentes. Estas limitaciones hacen que la reducción de brechas dependa de mejoras en conectividad y formación docente, por lo que el argumento de una reducción automática es solo parcialmente válido. Las opciones 1 y 2 son incorrectas porque exageran o niegan completamente el impacto descrito; el texto no afirma una eliminación total ni una ausencia de efectos sociales."
+          },
+          {
+            "numero": 10,
+            "enunciado": "Del análisis presentado se desprende que, respecto a los resultados del estudio piloto con tutor virtual basado en IA, la evidencia es:",
+            "opciones": {
+              "A": "Suficiente para generalizar a nivel nacional.",
+              "B": "Válida como indicio preliminar, pero insuficiente para afirmar mejoras a nivel nacional sin más investigación.",
+              "C": "Invalida por sesgo metodológico.",
+              "D": "Contradictoria con otros estudios internacionales."
+            },
+            "respuesta_correcta": "B",
+            "sustento": "El artículo indica que el estudio piloto se realizó con 1 200 estudiantes de segundo de bachillerato de la Universidad Católica Boliviana, mostrando un aumento de calificaciones de 6.8 a 8.1 y una reducción de deserción del 12%. Sin embargo, el texto aclara que estos resultados son locales y que la efectividad de la IA depende de factores como infraestructura y capacitación docente. Por lo tanto, la evidencia es válida como indicio preliminar, pero no suficiente para afirmar mejoras a nivel nacional sin investigaciones adicionales en contextos rurales y con mayor número de participantes. Las demás opciones sobreestiman la generalización, confunden la muestra con la población total o atribuyen la mejora exclusivamente a la IA sin considerar otras variables, por lo que no reflejan la interpretación crítica que el artículo sugiere."
+          },
+          {
+            "numero": 11,
+            "enunciado": "De acuerdo con el texto, ¿cuál de los siguientes aspectos representa una posible limitación que podría sesgar los resultados del estudio piloto sobre tutores virtuales?",
+            "opciones": {
+              "A": "La muestra se limitó a una universidad urbana y no incluyó contextos rurales diversos.",
+              "B": "Los estudiantes ya tenían alto rendimiento académico antes del estudio.",
+              "C": "No se midió la mejora en otras asignaturas aparte de matemática.",
+              "D": "Los docentes fueron reemplazados completamente por la IA."
+            },
+            "respuesta_correcta": "A",
+            "sustento": "El estudio piloto se realizó en la Universidad Católica Boliviana con 1 200 estudiantes de segundo de bachillerato, sin especificar si incluía a escuelas rurales o de diferentes regiones; por tanto, la muestra es limitada y no representa a todo el sistema educativo boliviano, lo que constituye una posible fuente de sesgo."
+          },
+          {
+            "numero": 12,
+            "enunciado": "De acuerdo con el texto, ¿cuál es la principal implicación económica de adoptar inteligencia artificial en la educación boliviana?",
+            "opciones": {
+              "A": "Reducción inmediata del gasto público en educación.",
+              "B": "Necesidad de invertir en infraestructura de conectividad y capacitación docente.",
+              "C": "Aumento de la dependencia tecnológica extranjera.",
+              "D": "Generación de empleo masivo en el sector de IA."
+            },
+            "respuesta_correcta": "B",
+            "sustento": "La efectividad de la IA depende de “invertir en redes de banda ancha en zonas rurales” y “diseñar programas de formación continua para docentes” (sección de conclusiones y desafíos). Estas inversiones son presentadas como la principal implicación económica."
+          },
+          {
+            "numero": 13,
+            "enunciado": "Considerando lo mencionado en el texto, ¿cuál de los siguientes sesgos potenciales no se discute explícitamente en el artículo?",
+            "opciones": {
+              "A": "Sesgo de género en el acceso y uso de IA educativa.",
+              "B": "Sesgo por datos mayormente urbanos en los algoritmos.",
+              "C": "Sesgo por brecha de conectividad entre zonas urbanas y rurales.",
+              "D": "Sesgo por falta de capacitación docente."
+            },
+            "respuesta_correcta": "A",
+            "sustento": "El artículo menciona explícitamente sesgos derivados de datos urbanos, la brecha de conectividad y la falta de capacitación docente, pero no aborda en ningún pasaje un sesgo de género. En la sección ‘Desafíos éticos, técnicos y estructurales’ se habla de sesgo algorítmico ligado a datos mayormente urbanos y de cómo la falta de infraestructura y de formación docente pueden afectar la equidad, sin mencionar la posible discriminación por género. Las demás opciones describen sesgos que sí son mencionados en el texto."
+          },
+          {
+            "numero": 14,
+            "enunciado": "El artículo señala que la IA puede modular la carga cognitiva y la plasticidad sináptica para optimizar el aprendizaje. Según una valoración crítica simple, ¿cuál de los siguientes enunciados representa la mayor fortaleza de este enfoque científico?",
+            "opciones": {
+              "A": "Permite eliminar la necesidad de docentes.",
+              "B": "Favorece la retención a largo plazo al maximizar la plasticidad sináptica sin saturar la carga cognitiva.",
+              "C": "Reduce el costo de los materiales educativos.",
+              "D": "Aumenta automáticamente la motivación de los estudiantes."
+            },
+            "respuesta_correcta": "B",
+            "sustento": "Los sistemas de IA se basan en los conceptos de plasticidad sináptica y carga cognitiva, permitiendo ajustar la complejidad de los ejercicios a la zona de desarrollo próximo del estudiante; esto, según la investigación neuroeducativa citada, maximiza la plasticidad sináptica sin saturar la carga cognitiva y, por ende, favorece la retención a largo plazo (sección ‘Fundamentos neurocientíficos del aprendizaje personalizado’)."
+          },
+          {
+            "numero": 15,
+            "enunciado": "Según el artículo, ¿cuál de los siguientes actores es el más determinante para garantizar una integración responsable de la IA en la educación boliviana?",
+            "opciones": {
+              "A": "Ministerio de Educación",
+              "B": "Empresas tecnológicas privadas",
+              "C": "Estudiantes y padres de familia",
+              "D": "Organizaciones internacionales"
+            },
+            "respuesta_correcta": "A",
+            "sustento": "El Ministerio de Educación lidera el programa ‘Bolivia Aprende Digital’ (2022-2025), propone inversiones en conectividad, diseña programas de capacitación docente y coordina políticas públicas para la protección de datos. Estos roles son descritos como esenciales para una integración responsable, mientras que las empresas, los estudiantes y las organizaciones internacionales juegan papeles complementarios, pero no determinantes."
+          },
+          {
+            "numero": 16,
+            "enunciado": "La lectura del texto permite identificar que, para que la IA contribuya de forma efectiva a la educación en Bolivia, es necesario que las soluciones propuestas se orienten principalmente a:",
+            "opciones": {
+              "A": "Reemplazar a los docentes por sistemas automatizados.",
+              "B": "Abordar conjuntamente infraestructura, capacitación docente y protección de datos.",
+              "C": "Priorizar la inversión en dispositivos de última generación.",
+              "D": "Limitar el uso de IA a zonas urbanas con buena conectividad."
+            },
+            "respuesta_correcta": "B",
+            "sustento": "El artículo concluye que la integración responsable de la IA requiere (1) invertir en redes de banda ancha en zonas rurales, (2) diseñar programas de formación continua para docentes y (3) crear políticas de protección de datos que regulen la recopilación y uso de información estudiantil. Estas tres líneas de acción aparecen en la sección de conclusiones y resumen los obstáculos estructurales, de capacitación y éticos que deben abordarse conjuntamente."
+          },
+          {
+            "numero": 17,
+            "enunciado": "De acuerdo con el texto, ¿qué consecuencia se puede deducir si se invierte en redes de banda ancha en zonas rurales?",
+            "opciones": {
+              "A": "Aumentará la brecha digital.",
+              "B": "Mejorará la implementación de plataformas de IA y reducirá desigualdades educativas.",
+              "C": "Reducirá la necesidad de capacitación docente.",
+              "D": "Eliminará por completo la deserción escolar."
+            },
+            "respuesta_correcta": "B",
+            "sustento": "La falta de conectividad en hogares rurales (solo 38% con banda ancha) limita la implementación de plataformas de IA y que invertir en redes de banda ancha es una de las recomendaciones para cerrar la brecha digital y lograr una integración responsable de la IA."
+          },
+          {
+            "numero": 18,
+            "enunciado": "Basándose en la información proporcionada, ¿cuál es el propósito económico principal de mejorar la conectividad de banda ancha en zonas rurales de Bolivia?",
+            "opciones": {
+              "A": "Reducir el costo de los dispositivos móviles.",
+              "B": "Fortalecer el capital humano y crear bases para el desarrollo económico a largo plazo.",
+              "C": "Aumentar los ingresos por publicidad en redes sociales.",
+              "D": "Disminuir la inversión pública en educación."
+            },
+            "respuesta_correcta": "B",
+            "sustento": "La disparidad de conectividad (38% en áreas rurales vs. 71% en urbanas) “limita la implementación uniforme de plataformas basadas en IA y podría ampliar la desigualdad educativa” y recomienda invertir en redes de banda ancha para “evitar ampliar la desigualdad educativa”. Al reducir esa brecha, se fortalece el capital humano y se crea una base para el desarrollo económico a largo plazo."
+          },
+          {
+            "numero": 19,
+            "enunciado": "De acuerdo con el texto, ¿qué efecto probable tendría la falta de capacitación docente en inteligencia artificial sobre el uso de los sistemas de IA en las aulas?",
+            "opciones": {
+              "A": "Los docentes se volverían más innovadores.",
+              "B": "Generaría dependencia excesiva del algoritmo sin capacidad crítica de intervención.",
+              "C": "Aumentaría la autonomía de los estudiantes.",
+              "D": "Reduciría la necesidad de infraestructura tecnológica."
+            },
+            "respuesta_correcta": "B",
+            "sustento": "El artículo indica que, al no recibir formación adecuada, “la mayoría de los profesores… no ha recibido formación formal… La falta de competencias técnicas puede generar una dependencia excesiva del algoritmo, sin la capacidad de interpretar los resultados ni de intervenir cuando la IA sugiere una ruta pedagógica inadecuada”. Esa relación causa efecto se infiere del texto."
+          },
+          {
+            "numero": 20,
+            "enunciado": "De acuerdo con el texto, ¿cuál es el mensaje principal implícito que el autor comunica respecto a los datos estadísticos proporcionados?",
+            "opciones": {
+              "A": "Bolivia tiene una conectividad rural equiparable a la urbana.",
+              "B": "La desigualdad de conectividad amenaza la equidad educativa y requiere inversión en infraestructura.",
+              "C": "Los datos demuestran que la IA ya es accesible para todos los estudiantes.",
+              "D": "No hay relación entre conectividad y rendimiento académico."
+            },
+            "respuesta_correcta": "B",
+            "sustento": "El autor destaca, mediante los datos del INE (2023), que solo el 38% de los hogares rurales dispone de conexión de banda ancha frente al 71% en áreas urbanas, y señala que esta desigualdad de conectividad limita la implementación uniforme de plataformas basadas en IA y podría ampliar la brecha educativa. Además, en la sección de desafíos se menciona que invertir en infraestructura de internet es esencial para que la IA beneficie a todos los estudiantes."
+          },
+          {
+            "numero": 21,
+            "enunciado": "De acuerdo con el texto, ¿qué conclusión lógica se puede extraer sobre los procesos técnicos de IA que personalizan el aprendizaje?",
+            "opciones": {
+              "A": "Sustituyen completamente la interacción humana.",
+              "B": "Adaptan la complejidad de los ejercicios a la zona de desarrollo próximo del alumno.",
+              "C": "Aumentan automáticamente la motivación intrínseca.",
+              "D": "Eliminan la necesidad de evaluación docente."
+            },
+            "respuesta_correcta": "B",
+            "sustento": "Los algoritmos de recomendación de IA pueden estimar la zona de desarrollo próximo del alumno y adaptar la complejidad de los ejercicios, logrando que la tarea maximice la plasticidad sináptica sin saturar la carga cognitiva (sección ‘Fundamentos neurocientíficos del aprendizaje personalizado’)."
+          },
+          {
+            "numero": 22,
+            "enunciado": "Según el artículo, ¿qué se puede concluir acerca del impacto de la personalización basada en IA en el desempeño académico de los estudiantes bolivianos?",
+            "opciones": {
+              "A": "No tiene ningún efecto significativo.",
+              "B": "Mejora el rendimiento académico y reduce la deserción.",
+              "C": "Solo beneficia a estudiantes de alto rendimiento.",
+              "D": "Aumenta la brecha entre estudiantes urbanos y rurales."
+            },
+            "respuesta_correcta": "B",
+            "sustento": "En el estudio piloto de la Universidad Católica Boliviana (Gómez et al., 2023) con 1 200 estudiantes de segundo de bachillerato, el promedio de calificaciones en matemática pasó de 6.8 a 8.1 y la tasa de deserción disminuyó en un 12% al usar un tutor virtual basado en IA. Estos datos combinan mejoras en rendimiento y reducción de deserción, lo que permite inferir que la personalización mediante IA tiene un impacto positivo."
+          },
+          {
+            "numero": 23,
+            "enunciado": "La lectura del texto permite identificar que la principal diferencia entre los tutores virtuales y la analítica de aprendizaje es que:",
+            "opciones": {
+              "A": "Los tutores virtuales personalizan el aprendizaje; la analítica de aprendizaje predice riesgos de deserción.",
+              "B": "Los tutores virtuales solo funcionan en matemática; la analítica de aprendizaje es para todas las asignaturas.",
+              "C": "Los tutores virtuales requieren internet de alta velocidad; la analítica de aprendizaje funciona sin conexión.",
+              "D": "Los tutores virtuales son gratuitos; la analítica de aprendizaje es costosa."
+            },
+            "respuesta_correcta": "A",
+            "sustento": "Los tutores virtuales, como el piloto de la UCB, mejoraron el promedio de calificaciones y disminuyeron la deserción mediante rutas de estudio personalizadas (sección ‘Tutores virtuales y plataformas adaptativas’). En contraste, la analítica de aprendizaje se describe como un método para recolectar y analizar datos de interacción que permite predecir la probabilidad de deserción y aplicar intervenciones tempranas (sección ‘Analítica de aprendizaje y detección temprana de riesgos’). Por lo tanto, la diferencia radica en la personalización académica frente a la predicción y prevención de la deserción."
+          },
+          {
+            "numero": 24,
+            "enunciado": "La lectura del texto permite identificar que la perspectiva futura del autor para la integración responsable de la IA en la educación boliviana es que:",
+            "opciones": {
+              "A": "La IA debe implementarse sin regulación para acelerar su adopción.",
+              "B": "Se requiere una combinación de inversión en conectividad, capacitación docente y políticas de protección de datos.",
+              "C": "La IA reemplazará completamente a los docentes en la próxima década.",
+              "D": "Solo las empresas privadas deben liderar el proceso."
+            },
+            "respuesta_correcta": "B",
+            "sustento": "En la sección de Conclusiones y recomendaciones el autor indica que la efectividad de la IA requiere (1) invertir en redes de banda ancha en zonas rurales, (2) diseñar programas de formación continua para docentes y (3) desarrollar políticas de protección de datos, señalando que la combinación de estos elementos es esencial para lograr un impacto positivo."
+          },
+          {
+            "numero": 25,
+            "enunciado": "Del análisis presentado, se desprende que todas las metodologías basadas en IA descritas comparten como objetivo principal…",
+            "opciones": {
+              "A": "Reducir el número de docentes en el sistema educativo.",
+              "B": "Personalizar el aprendizaje según las necesidades de cada estudiante.",
+              "C": "Aumentar el uso de dispositivos electrónicos en el aula.",
+              "D": "Generar datos para investigación de mercado."
+            },
+            "respuesta_correcta": "B",
+            "sustento": "A lo largo del artículo, cada metodología de IA se presenta como medio para adaptar la instrucción al estudiante: el tutor virtual de la UCB mejoró las calificaciones al ofrecer rutas de estudio personalizadas; la analítica de aprendizaje del proyecto Alerta Escolar detectó riesgos temprano para proporcionar apoyos individualizados; y la realidad aumentada del proyecto Química en 3D ajustó la simulación según las respuestas del alumno, facilitando una comprensión personalizada. Estos ejemplos evidencian que la meta común es la personalización del aprendizaje."
+          },
+          {
+            "numero": 26,
+            "enunciado": "La lectura del texto permite identificar que, si se amplía el uso de la analítica de aprendizaje basada en IA en los colegios bolivianos, ¿qué es probable que ocurra?",
+            "opciones": {
+              "A": "Aumentará la deserción escolar por falta de privacidad.",
+              "B": "Disminuirá la tasa de deserción escolar mediante intervenciones tempranas personalizadas.",
+              "C": "Se eliminará la necesidad de docentes en las aulas.",
+              "D": "Se incrementará la brecha digital entre colegios públicos y privados."
+            },
+            "respuesta_correcta": "B",
+            "sustento": "En el proyecto Alerta Escolar en Tarija, donde la analítica de aprendizaje identificó a estudiantes en riesgo y, tras recibir intervenciones personalizadas, el 67% continuó sus estudios. Esa evidencia sugiere que, al replicar el mismo proceso a mayor escala, es razonable predecir una disminución de la tasa de deserción escolar en los colegios que adopten dicha tecnología."
+          },
+          {
+            "numero": 27,
+            "enunciado": "De acuerdo con el texto, ¿qué conclusión puede extraerse sobre el papel de la pandemia de COVID-19 en la incorporación de la inteligencia artificial en la educación boliviana?",
+            "opciones": {
+              "A": "Frenó el desarrollo de la IA educativa.",
+              "B": "Actuó como catalizador que aceleró la digitalización y permitió integrar la IA siguiendo tendencias regionales.",
+              "C": "No tuvo ningún impacto en la adopción de IA.",
+              "D": "Hizo que Bolivia rechazara el uso de tecnologías digitales."
+            },
+            "respuesta_correcta": "B",
+            "sustento": "La conclusión correcta se basa en dos pasajes del artículo: la Introducción indica que “la pandemia de COVID-19 aceleró la digitalización de la educación en América Latina; según el informe de la UNESCO (2022), el 78% de los países de la región utilizó plataformas en línea para la continuidad pedagógica”, y la sección de desafíos señala que la infraestructura todavía es limitada, por lo que la adopción de IA depende de esa aceleración digital. Así, se infiere que la pandemia fungió como catalizador que permitió a Bolivia integrar la IA siguiendo la tendencia regional."
+          },
+          {
+            "numero": 28,
+            "enunciado": "Según el artículo, ¿qué es probable que ocurra si el gobierno de Bolivia implementa programas de capacitación docente en alfabetización digital avanzada y, al mismo tiempo, amplía la conectividad de banda ancha en áreas rurales?",
+            "opciones": {
+              "A": "Se incrementará la brecha digital.",
+              "B": "Se reducirá la desigualdad en el acceso a tecnologías basadas en IA y mejorará la equidad educativa.",
+              "C": "Disminuirá la necesidad de políticas de protección de datos.",
+              "D": "Aumentará la dependencia de algoritmos sin supervisión docente."
+            },
+            "respuesta_correcta": "B",
+            "sustento": "La principal limitación para una adopción uniforme de IA es la desigualdad de conectividad (38% de hogares rurales con banda ancha vs. 71% urbanos) y la falta de capacitación docente (solo 22% con alfabetización digital avanzada). En la sección de conclusiones se recomienda invertir en redes de banda ancha rurales y formar a los docentes; al combinar ambas medidas se espera reducir la brecha de acceso a tecnologías basadas en IA y, por ende, mejorar la equidad educativa."
+          },
+          {
+            "numero": 29,
+            "enunciado": "A partir de lo expuesto en el artículo, ¿cuál sería la consecuencia probable si un sistema de IA no ajusta la complejidad de los ejercicios al nivel de desarrollo próximo del estudiante?",
+            "opciones": {
+              "A": "Mejoraría el rendimiento por mayor desafío.",
+              "B": "Aumentaría la carga cognitiva y disminuiría el rendimiento.",
+              "C": "No tendría ningún efecto en el aprendizaje.",
+              "D": "Incrementaría la motivación del estudiante."
+            },
+            "respuesta_correcta": "B",
+            "sustento": "El artículo explica que los sistemas de IA deben estimar la zona de desarrollo próximo y ajustar la complejidad de los ejercicios (párrafo ‘Fundamentos neurocientíficos del aprendizaje personalizado’). Cuando la tarea se alinea con esa zona, se maximiza la plasticidad sináptica sin saturar la carga cognitiva, favoreciendo la retención a largo plazo. Por lo tanto, si el sistema no realiza ese ajuste, la carga cognitiva aumentará, lo que según la teoría de Sweller (2019) disminuye el rendimiento y la transferencia de conocimientos."
+          },
+          {
+            "numero": 30,
+            "enunciado": "A partir de lo expuesto en el artículo, ¿qué tipo de evidencia adicional sería necesaria para reforzar la afirmación de que la IA reducirá las brechas sociales en la educación boliviana?",
+            "opciones": {
+              "A": "Estudios longitudinales que midan cambios en desempeño y deserción en poblaciones rurales y urbanas antes y después de la adopción de IA.",
+              "B": "Encuestas de satisfacción de estudiantes con tutores virtuales.",
+              "C": "Datos de venta de dispositivos tecnológicos.",
+              "D": "Informes de empresas de tecnología sobre el potencial de la IA."
+            },
+            "respuesta_correcta": "A",
+            "sustento": "El artículo indica que la IA puede ayudar a cerrar brechas, pero la evidencia presentada se limita a estudios piloto y datos puntuales (p. ej., mejora en matemática de una escuela, reducción de deserción en Tarija). Para validar que esas mejoras se traducen en una reducción de brechas sociales a nivel nacional, se requerirían estudios longitudinales que midan, a lo largo del tiempo, cómo cambian desempeño y deserción en poblaciones rurales y urbanas antes y después de la adopción de la IA."
+          }
+        ]
+      },
+      {
+        "id": "texto_6",
+        "titulo": "Salud y sostenibilidad: Impacto del cambio climático en las enfermedades transmitidas por vectores en Bolivia",
+        "preguntas": [
+          {
+            "numero": 1,
+            "enunciado": "La lectura del texto permite identificar que el artículo define el concepto de “vector” como:",
+            "opciones": {
+              "A": "Organismos que transmiten patógenos a los humanos.",
+              "B": "Insectos que viven en ambientes acuáticos.",
+              "C": "Bacterias resistentes a antibióticos.",
+              "D": "Agentes químicos que contaminan el agua."
+            },
+            "respuesta_correcta": "A",
+            "sustento": "La definición correcta se encuentra en la Introducción del artículo, donde se indica: “vectores —organismos que transmiten patógenos a los humanos—”."
+          },
+          {
+            "numero": 2,
+            "enunciado": "Según el artículo, ¿cuáles son los problemas climáticos identificados que favorecen el aumento de enfermedades transmitidas por vectores en Bolivia?",
+            "opciones": {
+              "A": "Aumento de temperatura, variabilidad de precipitaciones, elevación del nivel de lagos andinos.",
+              "B": "Contaminación del aire, deforestación, urbanización desordenada.",
+              "C": "Uso indiscriminado de pesticidas, falta de saneamiento básico, pobreza.",
+              "D": "Sequías prolongadas, incendios forestales, pérdida de biodiversidad."
+            },
+            "respuesta_correcta": "A",
+            "sustento": "En la sección ‘Cambio climático y manifestaciones locales’ del artículo se enumeran tres problemas climáticos que inciden directamente en la proliferación de vectores: (i) el aumento de la temperatura media anual (0,6 °C entre 2000 y 2022); (ii) la variabilidad y los extremos de precipitación, con lluvias intensas e inundaciones que generan criaderos temporales; y (iii) la elevación del nivel de los lagos andinos, como el Titicaca, que crea nuevos hábitats de mosquitos."
+          },
+          {
+            "numero": 3,
+            "enunciado": "La lectura del texto permite identificar que la medida adoptada en la ciudad de Santa Cruz, bajo la iniciativa “Ciudades Verdes”, generó una disminución del 30% en la densidad de larvas de Aedes en los barrios piloto. ¿Cuál de las siguientes describe exactamente esa medida?",
+            "opciones": {
+              "A": "Campañas de fumigación masiva.",
+              "B": "Instalación de techos verdes y superficies permeables.",
+              "C": "Distribución de mosquiteros a la población.",
+              "D": "Construcción de plantas de tratamiento de agua."
+            },
+            "respuesta_correcta": "B",
+            "sustento": "En el apartado ‘Planeación urbana resiliente’ se indica que la iniciativa “Ciudades Verdes” en Santa Cruz, que incorpora techos verdes y superficies permeables, redujo en un 30% la densidad de larvas de Aedes en barrios piloto."
+          },
+          {
+            "numero": 4,
+            "enunciado": "De acuerdo al artículo, ¿qué enfermedades transmitidas por vectores han aumentado en Bolivia según los datos presentados?",
+            "opciones": {
+              "A": "Dengue, malaria y enfermedad de Chagas.",
+              "B": "Zika, chikungunya y fiebre amarilla.",
+              "C": "Tuberculosis, hepatitis y cólera.",
+              "D": "Leptospirosis, hantavirus y rabia."
+            },
+            "respuesta_correcta": "A",
+            "sustento": "El artículo reporta incrementos claros en la incidencia de tres enfermedades transmitidas por vectores: dengue (62 000 casos confirmados en 2023), malaria (aumento del 28% de casos autóctonos entre 2015 y 2022) y enfermedad de Chagas (expansión de triatominos). Estas tres se describen específicamente en la sección 'Vectores y enfermedades emergentes en Bolivia'."
+          },
+          {
+            "numero": 5,
+            "enunciado": "La lectura del texto permite identificar que las implicaciones económicas que se mencionan al implementar las estrategias sostenibles de mitigación y adaptación son:",
+            "opciones": {
+              "A": "Aumento del gasto en salud pública.",
+              "B": "Menores gastos en atención sanitaria, ahorro en servicios ecosistémicos, reducción de costos por contaminación.",
+              "C": "Incremento de la deuda externa por financiamiento internacional.",
+              "D": "Disminución de la inversión en infraestructura urbana."
+            },
+            "respuesta_correcta": "B",
+            "sustento": "La mitigación y adaptación sostenible conlleva beneficios económicos: (1) la reducción de la incidencia de dengue, malaria y Chagas implica menores gastos en atención sanitaria; (2) los sistemas de tratamiento de aguas residuales basados en humedales construidos capturan carbono y favorecen la biodiversidad, lo que genera ahorro en servicios ecosistémicos; y (3) la iniciativa “Ciudades Verdes” reduce la huella de carbono urbana y mejora la calidad del aire, lo que se traduce en menores costos asociados a la contaminación."
+          },
+          {
+            "numero": 6,
+            "enunciado": "Considerando lo mencionado en el texto, ¿qué conclusión se puede extraer sobre el papel de los distintos actores (gobierno, organizaciones internacionales y comunidad local) en la mitigación de las enfermedades transmitidas por vectores en Bolivia?",
+            "opciones": {
+              "A": "Cada actor debe trabajar de manera aislada para mayor eficiencia.",
+              "B": "La colaboración entre gobierno, organismos internacionales y comunidad local es esencial para una mitigación sostenible.",
+              "C": "Solo el gobierno tiene la capacidad de resolver el problema.",
+              "D": "Las comunidades locales deben asumir toda la responsabilidad."
+            },
+            "respuesta_correcta": "B",
+            "sustento": "La gestión del agua y saneamiento se lleva a cabo mediante programas del Gobierno en colaboración con la Agencia Alemana de Cooperación Internacional (GIZ), que la educación y la participación comunitaria a través de radio y líderes locales mejoran la eliminación de criaderos, y que la planificación urbana resiliente – una política pública – complementa estas acciones. Esta interdependencia de gobierno, organismos internacionales y comunidad local se describe como esencial para reducir la vulnerabilidad a largo plazo."
+          },
+          {
+            "numero": 7,
+            "enunciado": "Basándose en la información proporcionada, ¿qué es probable que ocurra en los próximos cinco años en las ciudades de los valles de Bolivia si no se implementan medidas de gestión integral del agua?",
+            "opciones": {
+              "A": "Disminución de la incidencia de dengue.",
+              "B": "Aumento notable de casos de dengue.",
+              "C": "Expansión de la malaria en zonas urbanas.",
+              "D": "Reducción de la enfermedad de Chagas."
+            },
+            "respuesta_correcta": "B",
+            "sustento": "El aumento de la temperatura y la variabilidad de precipitaciones favorecen la reproducción acelerada de Aedes aegypti y que la falta de gestión del agua crea recipientes descubiertos que funcionan como criaderos perfectos, especialmente en ciudades de los valles como Santa Cruz, El Alto y Cochabamba. Además, se señala que la expansión urbana desordenada y el almacenamiento de agua sin tapa impulsan la endemicidad del dengue. Por el contrario, la malaria, aunque también se ve favorecida por temperaturas más altas, sigue concentrándose en zonas amazónicas y su expansión urbana es menos pronunciada; la enfermedad de Chagas está vinculada a triatominos rurales, no a la gestión del agua urbana. Por lo tanto, sin medidas de gestión integral del agua, es más probable que el dengue experimente un aumento notable."
+          },
+          {
+            "numero": 8,
+            "enunciado": "Basándose en la información proporcionada, ¿cuál de los siguientes efectos es más probable que se produzca si se amplía la iniciativa “Ciudades Verdes” a otras áreas urbanas de Bolivia?",
+            "opciones": {
+              "A": "Aumento de la densidad de larvas de Aedes.",
+              "B": "Disminución de la transmisión del dengue.",
+              "C": "Incremento de la incidencia de malaria.",
+              "D": "Reducción de la calidad del aire."
+            },
+            "respuesta_correcta": "B",
+            "sustento": "El artículo indica que la iniciativa “Ciudades Verdes” en Santa Cruz logró una reducción del 30% en la densidad de larvas de Aedes al disminuir la acumulación de agua estancada mediante techos verdes y superficies permeables. Implícitamente, al bajar la densidad larvaria se espera una menor transmisión del dengue, aunque el texto no lo menciona explícitamente."
+          },
+          {
+            "numero": 9,
+            "enunciado": "A partir de lo expuesto en el artículo, ¿qué consecuencia se puede deducir del aumento de la temperatura media y de la mayor variabilidad de precipitaciones sobre la malaria en Bolivia?",
+            "opciones": {
+              "A": "Disminución de la malaria en zonas amazónicas.",
+              "B": "Expansión de la malaria a áreas de bajo riesgo previamente libres de la enfermedad.",
+              "C": "Erradicación completa de la malaria.",
+              "D": "Aumento exclusivo en zonas urbanas."
+            },
+            "respuesta_correcta": "B",
+            "sustento": "El incremento de la temperatura media (0,6 °C entre 2000 y 2022) extiende el periodo de transmisión del Anopheles y que la malaria ha aumentado un 28% entre 2015 y 2022, registrándose también en zonas previamente libres como el Chapare. Esta combinación de factores climáticos sugiere que áreas de bajo riesgo verán más casos de malaria."
+          },
+          {
+            "numero": 10,
+            "enunciado": "El artículo señala que el uso de herramientas de modelado climático y ecológico permite anticipar la expansión de vectores; ¿qué efecto es probable que ocurra si se amplía su aplicación a nivel nacional?",
+            "opciones": {
+              "A": "Aumento de la incidencia de enfermedades por mayor detección.",
+              "B": "Disminución de la incidencia de enfermedades mediante respuesta temprana y focalizada.",
+              "C": "Mayor costo de los programas de control vectorial.",
+              "D": "Eliminación completa de los vectores."
+            },
+            "respuesta_correcta": "B",
+            "sustento": "La sección ‘Monitoreo ecológico y modelado predictivo’ indica que los modelos basados en temperatura, humedad y uso del suelo pueden predecir áreas de alto riesgo con varios meses de antelación, facilitando la asignación de recursos y la planificación de campañas de control vectorial. Por lo tanto, al expandir su uso a nivel nacional, se espera una respuesta más temprana y focalizada, lo que consecuentemente debería disminuir la incidencia de enfermedades como dengue y malaria en esas áreas."
+          },
+          {
+            "numero": 11,
+            "enunciado": "Según el artículo, ¿qué conclusión se puede extraer respecto al papel de los diferentes actores en la mitigación de las enfermedades transmitidas por vectores en Bolivia?",
+            "opciones": {
+              "A": "Solo el gobierno es responsable.",
+              "B": "La coordinación entre gobierno, actores internacionales y comunidad local es clave.",
+              "C": "Las ONG deben asumir el liderazgo total.",
+              "D": "Los ciudadanos deben actuar individualmente."
+            },
+            "respuesta_correcta": "B",
+            "sustento": "La gestión integral del agua se está implementando por el Gobierno de Bolivia en colaboración con la Agencia Alemana de Cooperación Internacional (GIZ), y que la educación comunitaria y la participación ciudadana son esenciales para la prevención de criaderos. Además, se destaca la necesidad de coordinación entre políticas públicas, actores internacionales y líderes locales para lograr una mitigación sostenible."
+          },
+          {
+            "numero": 12,
+            "enunciado": "La lectura del texto permite identificar que la intensificación de la planificación urbana resiliente, mediante la incorporación de techos verdes y superficies permeables, tendría como consecuencia probable…",
+            "opciones": {
+              "A": "Aumento de la densidad de larvas de Aedes.",
+              "B": "Reducción del riesgo de transmisión de dengue.",
+              "C": "Incremento de la temperatura urbana.",
+              "D": "Mayor escorrentía y inundaciones."
+            },
+            "respuesta_correcta": "B",
+            "sustento": "En la sección ‘Planeación urbana resiliente’ se indica que la iniciativa de techos verdes y superficies permeables disminuyó en un 30% la densidad de larvas de Aedes en barrios piloto, lo que implica una reducción directa del riesgo de transmisión de dengue. Esta relación causa efecto no se expresa explícitamente como “reducirá el dengue”, pero se deduce al combinar la información sobre la reducción de larvas con el papel de Aedes aegypti como vector del dengue."
+          },
+          {
+            "numero": 13,
+            "enunciado": "Considerando lo mencionado en el texto, ¿cuál es la conclusión lógica sobre el papel de las políticas de energía renovable en la futura reducción de la vulnerabilidad de Bolivia a las enfermedades transmitidas por vectores?",
+            "opciones": {
+              "A": "No tienen relación con la salud pública.",
+              "B": "Mitigan el cambio climático y mejoran la seguridad energética para servicios de salud, reduciendo vulnerabilidad a largo plazo.",
+              "C": "Aumentan la dependencia de combustibles fósiles.",
+              "D": "Solo benefician al sector industrial."
+            },
+            "respuesta_correcta": "B",
+            "sustento": "La transición a fuentes limpias “no solo disminuye la temperatura global, sino que también mejora la seguridad energética, permitiendo la operación continua de sistemas de refrigeración para vacunas y pruebas diagnósticas” (Sección de Políticas de reducción de emisiones y adaptación). Esta doble ventaja (mitigación del cambio climático y garantía de energía para servicios de salud) implica que, a largo plazo, la vulnerabilidad a enfermedades vectoriales se reducirá."
+          },
+          {
+            "numero": 14,
+            "enunciado": "El artículo señala que, para enfrentar el aumento de enfermedades transmitidas por vectores provocado por el cambio climático, el mensaje central implícito respecto a los actores involucrados es:",
+            "opciones": {
+              "A": "Solo el sector salud debe actuar.",
+              "B": "Se requiere la acción conjunta de autoridades, comunidades y socios internacionales.",
+              "C": "La solución es exclusivamente tecnológica.",
+              "D": "Los ciudadanos son los únicos responsables."
+            },
+            "respuesta_correcta": "B",
+            "sustento": "El artículo subraya la necesidad de estrategias sostenibles que combinan gestión del agua, planificación urbana, educación comunitaria y cooperación con organismos como GIZ, indicando que la mitigación requiere la acción conjunta de autoridades sanitarias, municipales, comunidades locales y socios internacionales. Asimismo, en la conclusión se enfatiza que “un enfoque interdisciplinario que combine salud, medio ambiente y desarrollo socioeconómico será fundamental”, lo que implica la participación de múltiples actores."
+          },
+          {
+            "numero": 15,
+            "enunciado": "Del análisis presentado se desprende que la relación entre el cambio climático y las enfermedades transmitidas por vectores en Bolivia implica que:",
+            "opciones": {
+              "A": "Solo afecta a zonas rurales.",
+              "B": "Agrava las desigualdades en salud, afectando más a poblaciones vulnerables.",
+              "C": "Beneficia a las comunidades con mejor infraestructura.",
+              "D": "No tiene impacto socioeconómico."
+            },
+            "respuesta_correcta": "B",
+            "sustento": "La combinación de condiciones socioeconómicas vulnerables, urbanizaciones rápidas y falta de infraestructura sanitaria favorece la propagación de enfermedades transmitidas por vectores, y que estas dinámicas agravan la exposición de poblaciones de bajos recursos. Además, en la sección de consecuencias sociales se menciona que la mayor incidencia de dengue, malaria y Chagas incrementa la vulnerabilidad de comunidades rurales y periurbanas, reflejando una ampliación de las desigualdades en salud."
+          },
+          {
+            "numero": 16,
+            "enunciado": "Según el artículo, ¿cuál es la consecuencia social implícita más importante derivada del vínculo entre el cambio climático y las enfermedades transmitidas por vectores en Bolivia?",
+            "opciones": {
+              "A": "Mayor turismo médico internacional.",
+              "B": "Aumento de la migración campo-ciudad.",
+              "C": "Incremento de la vulnerabilidad de comunidades pobres, requiriendo estrategias interdisciplinarias para reducir desigualdades.",
+              "D": "Disminución de la esperanza de vida en zonas urbanas."
+            },
+            "respuesta_correcta": "C",
+            "sustento": "El cambio climático aumenta la vulnerabilidad de comunidades pobres y que, para reducir esa vulnerabilidad, se requieren estrategias interdisciplinarias que integren salud, gestión del agua, planificación urbana y desarrollo socioeconómico (p. Conclusiones; sección de Estrategias sostenibles)."
+          },
+          {
+            "numero": 17,
+            "enunciado": "Según el artículo, ¿cuál de las siguientes afirmaciones describe mejor la diferencia en cómo el aumento de la temperatura media afecta los ciclos de transmisión del dengue y la malaria en Bolivia?",
+            "opciones": {
+              "A": "Acelera el ciclo del dengue (Aedes aegypti) y extiende el periodo de transmisión de la malaria (Anopheles).",
+              "B": "Reduce el ciclo de ambos vectores por igual.",
+              "C": "Solo afecta al dengue, no a la malaria.",
+              "D": "Extiende el periodo de transmisión de ambos vectores de la misma manera."
+            },
+            "respuesta_correcta": "A",
+            "sustento": "El desarrollo biológico de Aedes aegypti se duplica al pasar de 20 °C a 28 °C, lo que implica una aceleración significativa del ciclo vectorial del dengue. En contraste, para el Anopheles se menciona que el periodo de transmisión se extiende, permitiendo que la malaria persista más allá de la temporada lluviosa tradicional."
+          },
+          {
+            "numero": 18,
+            "enunciado": "A partir de lo expuesto en el artículo, ¿cuál de las siguientes conclusiones se puede inferir lógicamente sobre la efectividad de las estrategias propuestas para reducir el riesgo de enfermedades transmitidas por vectores en Bolivia?",
+            "opciones": {
+              "A": "Solo una de las estrategias es suficiente.",
+              "B": "La combinación de gestión del agua, planificación urbana, educación comunitaria y modelado predictivo ofrece una solución integral.",
+              "C": "No hay evidencia de que alguna estrategia funcione.",
+              "D": "Las estrategias solo son efectivas en zonas urbanas."
+            },
+            "respuesta_correcta": "B",
+            "sustento": "La gestión integral del agua y saneamiento reduce criaderos de mosquitos, la planificación urbana resiliente disminuye la acumulación de agua estancada (ej. reducción del 30% de larvas en Santa Cruz), la educación comunitaria mejora la eliminación de criaderos y el modelado predictivo permite anticipar áreas de alto riesgo. La combinación de estos cuatro componentes se presenta como una solución integral y sostenible, y el texto concluye que la interdisciplinariedad entre salud, medio ambiente y desarrollo socioeconómico es fundamental."
+          },
+          {
+            "numero": 19,
+            "enunciado": "El artículo señala que, al considerar las estrategias de mitigación y adaptación propuestas, ¿cuál es la implicación económica más probable de la adopción generalizada de energías renovables en Bolivia para el control de enfermedades transmitidas por vectores?",
+            "opciones": {
+              "A": "Aumento de los costos de salud pública.",
+              "B": "Disminución de gastos en salud pública a mediano plazo por menor incidencia de enfermedades y mejor cadena de frío para vacunas.",
+              "C": "Reducción inmediata de la pobreza.",
+              "D": "Incremento de la dependencia de combustibles fósiles."
+            },
+            "respuesta_correcta": "B",
+            "sustento": "La transición a fuentes limpias de energía “no solo disminuye la temperatura global, sino que también mejora la seguridad energética, permitiendo la operación continua de sistemas de refrigeración para vacunas y pruebas diagnósticas” (Sección de Políticas de reducción de emisiones y adaptación). Esta mejora en la cadena de frío reduce pérdidas de vacunas y, combinada con la menor incidencia de enfermedades transmitidas por vectores derivada de otras estrategias sostenibles, implica una disminución de los gastos en salud pública a mediano plazo."
+          },
+          {
+            "numero": 20,
+            "enunciado": "Según el artículo, ¿qué es probable que ocurra si se amplía la implementación de sistemas de captación de agua de lluvia con cubiertas selladas en zonas urbanas de la Amazonía boliviana?",
+            "opciones": {
+              "A": "Aumento de criaderos de Aedes aegypti.",
+              "B": "Disminución de la incidencia de dengue al reducir criaderos.",
+              "C": "Incremento de la malaria por mayor humedad.",
+              "D": "No tendrá efecto en la salud pública."
+            },
+            "respuesta_correcta": "B",
+            "sustento": "El artículo indica que la falta de agua potable y el almacenamiento en recipientes descubiertos generan criaderos de Aedes aegypti, y que la instalación de sistemas de captación con cubiertas selladas reduce esos criaderos, disminuyendo la incidencia de dengue. En la sección de gestión integral del agua se menciona que esta intervención es una de las más efectivas para controlar la proliferación de mosquitos."
+          },
+          {
+            "numero": 21,
+            "enunciado": "El artículo señala que la integración de la gestión del agua, la planificación urbana y la educación comunitaria son esenciales para reducir la vulnerabilidad a enfermedades transmitidas por vectores. ¿Cuál de las siguientes afirmaciones representa mejor una implicación ética de priorizar la participación comunitaria en la implementación de estas estrategias?",
+            "opciones": {
+              "A": "Impone soluciones externas sin considerar conocimientos locales.",
+              "B": "Respeta y valora los conocimientos y prácticas locales, mejorando la efectividad y equidad.",
+              "C": "Aumenta la dependencia de ayuda internacional.",
+              "D": "Retrasa la implementación por consensos prolongados."
+            },
+            "respuesta_correcta": "B",
+            "sustento": "En la sección ‘Educación comunitaria y participación ciudadana’ se indica que “La participación activa de líderes comunitarios y organizaciones no gubernamentales (ONG) crea redes de vigilancia que reportan focos de transmisión en tiempo real” y que estas iniciativas “han mostrado una mayor adherencia a medidas de eliminación de criaderos”. Este pasaje evidencia que la participación comunitaria no solo mejora la efectividad de la intervención, sino que también respeta y valora los conocimientos y prácticas locales, cumpliendo con un principio ético de no imposición de soluciones externas."
+          },
+          {
+            "numero": 22,
+            "enunciado": "De acuerdo con el texto, ¿cuál de las siguientes opciones describe mejor una implicación ética al implementar humedales construidos para el tratamiento de aguas residuales como medida de control vectorial en Bolivia?",
+            "opciones": {
+              "A": "Aumenta la contaminación del agua.",
+              "B": "Constituye una acción de justicia ambiental que favorece a comunidades vulnerables.",
+              "C": "Solo beneficia a empresas constructoras.",
+              "D": "Viola derechos de propiedad de la tierra."
+            },
+            "respuesta_correcta": "B",
+            "sustento": "Los humedales construidos, además de tratar aguas residuales, capturan carbono y mejoran la biodiversidad, lo que se interpreta como una acción de justicia ambiental que favorece a comunidades vulnerables al reducir criaderos de mosquitos (sección ‘Gestión integral del agua y saneamiento’)."
+          },
+          {
+            "numero": 23,
+            "enunciado": "¿Cuál es el sesgo que el artículo permite identificar a partir del análisis de los resultados presentados?",
+            "opciones": {
+              "A": "Sesgo de género en la afectación por enfermedades.",
+              "B": "Sesgo de enfoque hacia variables climáticas, descuidando determinantes socioeconómicos como causas independientes.",
+              "C": "Sesgo a favor de soluciones tecnológicas costosas.",
+              "D": "Sesgo en contra de la participación comunitaria."
+            },
+            "respuesta_correcta": "B",
+            "sustento": "El aumento de la temperatura media y la variabilidad de precipitaciones favorecen la expansión de vectores, pero la discusión de factores socioeconómicos se limita a mencionar vulnerabilidades generales sin analizarlos como determinantes independientes de la incidencia de dengue, malaria y Chagas. Esta priorización de variables climáticas frente a determinantes sociales indica un sesgo de enfoque."
+          },
+          {
+            "numero": 24,
+            "enunciado": "Según el artículo, ¿qué conclusión sintetiza mejor la relación entre el aumento de la temperatura media, la mayor variabilidad de precipitaciones y la tendencia al alza de los casos de dengue y malaria en Bolivia?",
+            "opciones": {
+              "A": "No hay relación significativa.",
+              "B": "Estos factores climáticos combinados explican el crecimiento de ambas enfermedades.",
+              "C": "Solo afectan al dengue, no a la malaria.",
+              "D": "Su impacto es menor que el de la urbanización."
+            },
+            "respuesta_correcta": "B",
+            "sustento": "El aumento de 0,6 °C en la temperatura media acelera el desarrollo de Aedes aegypti y extiende el periodo de transmisión de Anopheles, y la mayor frecuencia de lluvias intensas produce criaderos temporales que incrementan la incidencia de dengue en un 45%. Estos factores combinados explican el crecimiento tanto del dengue (62000 casos en 2023) como de la malaria (aumento del 28% en casos autóctonos entre 2015-2022)."
+          },
+          {
+            "numero": 25,
+            "enunciado": "¿Es válida la afirmación efectuada por el autor, de que la gestión integral del agua es más efectiva que la planificación urbana para reducir la incidencia del dengue?",
+            "opciones": {
+              "A": "Sí, porque el artículo proporciona datos comparativos.",
+              "B": "No, porque el artículo no ofrece cifras que comparen directamente la efectividad de ambas.",
+              "C": "Sí, porque la gestión del agua es más barata.",
+              "D": "No, porque ambas son igualmente efectivas según el texto."
+            },
+            "respuesta_correcta": "B",
+            "sustento": "Aunque el artículo describe beneficios de ambas estrategias, solo brinda datos cuantitativos sobre la planificación urbana (reducción del 30% en la densidad de larvas de Aedes en barrios piloto) y no ofrece cifras que comparen directamente la efectividad de la gestión integral del agua en la reducción de casos de dengue. Por lo tanto, la afirmación de que la gestión del agua es más efectiva carece de evidencia comparativa y no puede considerarse válida."
+          },
+          {
+            "numero": 26,
+            "enunciado": "Según el artículo, ¿qué tipo de evidencia adicional resultaría más pertinente para reforzar la viabilidad de las estrategias de mitigación y adaptación sostenibles propuestas para reducir la vulnerabilidad a enfermedades transmitidas por vectores en Bolivia?",
+            "opciones": {
+              "A": "Estudios longitudinales que midan incidencia antes y después de las intervenciones.",
+              "B": "Encuestas de opinión pública sobre cambio climático.",
+              "C": "Datos históricos de temperatura.",
+              "D": "Informes de ventas de insecticidas."
+            },
+            "respuesta_correcta": "A",
+            "sustento": "El artículo destaca la necesidad de monitoreo ecológico y de evaluar el impacto de las intervenciones (p. ej., gestión del agua, planeación urbana) para determinar su efectividad en la reducción de dengue y malaria. Un estudio longitudinal que siga la incidencia de estas enfermedades antes y después de aplicar dichas estrategias proporcionaría evidencia directa y temporalmente robusta, lo que fortalecería la argumentación sobre su viabilidad a futuro."
+          },
+          {
+            "numero": 27,
+            "enunciado": "El artículo señala que, para mitigar los efectos del cambio climático, se proponen intervenciones como la gestión integral del agua, la transición a energías renovables y la educación comunitaria. ¿Cuál de las siguientes implica una consideración ética esencial para que dichas intervenciones no profundicen las desigualdades sociales en Bolivia?",
+            "opciones": {
+              "A": "Implementarlas solo en zonas urbanas.",
+              "B": "Involucrar activamente a las comunidades en el diseño y ejecución para garantizar equidad.",
+              "C": "Priorizar tecnologías de alto costo.",
+              "D": "Delegar toda la responsabilidad al gobierno central."
+            },
+            "respuesta_correcta": "B",
+            "sustento": "Es importante la participación comunitaria como pieza clave para una respuesta eficaz y equitativa: en la sección ‘Educación comunitaria y participación ciudadana’ se menciona que “la participación de líderes comunitarios y organizaciones no gubernamentales crea redes de vigilancia que reportan focos de transmisión en tiempo real” y en ‘Gestión integral del agua y saneamiento’ se indica que la instalación de sistemas de captación debe acompañarse de prácticas locales. Estas menciones subrayan que involucrar a las comunidades garantiza que los beneficios de las intervenciones lleguen a los grupos vulnerables y evita que las medidas refuercen desigualdades."
+          },
+          {
+            "numero": 28,
+            "enunciado": "El artículo señala que la elevación del nivel del lago Titicaca ha generado nuevos hábitats de mosquitos en las comunidades de las riberas. ¿Por qué es relevante esta información para la planificación de la gestión integral del agua en Bolivia?",
+            "opciones": {
+              "A": "Porque justifica la construcción de represas.",
+              "B": "Porque evidencia la necesidad de incluir control vectorial y saneamiento en los planes de gestión del agua.",
+              "C": "Porque sugiere abandonar las zonas ribereñas.",
+              "D": "Porque demuestra que el cambio climático no afecta a Bolivia."
+            },
+            "respuesta_correcta": "B",
+            "sustento": "La subida del nivel del lago Titicaca crea nuevos hábitats de mosquitos, lo que aumenta el riesgo de enfermedades transmitidas por vectores. Al mismo tiempo, la sección ‘Gestión integral del agua y saneamiento’ muestra que una intervención eficaz debe incluir el suministro de agua potable y el control de criaderos, por lo que la información sobre esos nuevos hábitats es fundamental para que los planes de gestión del agua incorporen medidas de control vectorial y saneamiento."
+          },
+          {
+            "numero": 29,
+            "enunciado": "Del análisis presentado se desprende que, entre los diferentes actores involucrados en la mitigación y adaptación frente a las enfermedades transmitidas por vectores en Bolivia, ¿quién tiene la posición más estratégica para liderar e integrar políticas sostenibles a largo plazo?",
+            "opciones": {
+              "A": "Organizaciones no gubernamentales (ONG).",
+              "B": "Gobierno de Bolivia, por su capacidad de coordinación interministerial y asignación de recursos a gran escala.",
+              "C": "Comunidades locales.",
+              "D": "Academia y centros de investigación."
+            },
+            "respuesta_correcta": "B",
+            "sustento": "La implementación eficaz de estrategias sostenibles requiere una coordinación interministerial liderada por el Gobierno de Bolivia, complementada con alianzas internacionales (p. ej., GIZ) y la integración de sectores como agua, urbanismo y salud. Aunque ONG, comunidades y académicos son actores relevantes, el texto destaca que solo el gobierno puede articular políticas de largo plazo y asignar recursos a gran escala, mientras los demás actúan como apoyos o socios."
+          },
+          {
+            "numero": 30,
+            "enunciado": "A diferencia de la creencia general de que la falta de salida al mar protege a Bolivia de los efectos de la elevación del nivel del agua, ¿qué consecuencias trae consigo la elevación de los niveles de los lagos andinos como el Titicaca?",
+            "opciones": {
+              "A": "Reduce la disponibilidad de agua potable.",
+              "B": "Crea nuevos hábitats para mosquitos y aumenta la exposición de comunidades ribereñas.",
+              "C": "Disminuye el riesgo de inundaciones.",
+              "D": "Mejora la navegabilidad de los lagos."
+            },
+            "respuesta_correcta": "B",
+            "sustento": "Bolivia, pese a ser un país sin salida al mar, la elevación de los niveles de los lagos andinos (p. ej., el Titicaca) ha modificado los márgenes costeros, creando nuevos hábitats propicios para mosquitos y aumentando la exposición de comunidades ribereñas."
+          }
+        ]
+      },
+      {
+        "id": "texto_7",
+        "titulo": "Economía circular y gestión de residuos en Bolivia",
+        "preguntas": [
+          {
+            "numero": 1,
+            "enunciado": "A partir de lo expuesto en el artículo, ¿cómo define el texto a los instrumentos financieros recomendados para estimular la economía circular en Bolivia?",
+            "opciones": {
+              "A": "Fondos de garantía, líneas de crédito verde y esquemas de pago por servicios ambientales.",
+              "B": "Subsidios directos a empresas contaminantes.",
+              "C": "Micro bonos solo para ONG.",
+              "D": "Incentivos fiscales exclusivos para grandes industrias."
+            },
+            "respuesta_correcta": "A",
+            "sustento": "Para estimular iniciativas circulares, se deben diseñar “instrumentos financieros como fondos de garantía, líneas de crédito verde y esquemas de pago por servicios ambientales”. Estos tres componentes aparecen literalmente en el texto y se describen como medios para reducir el riesgo de inversión y favorecer la adopción de tecnologías limpias."
+          },
+          {
+            "numero": 2,
+            "enunciado": "Según el artículo, ¿cómo define la economía circular y qué consecuencias sociales se asocian a su adopción en Bolivia?",
+            "opciones": {
+              "A": "Un modelo lineal de extracción-producción-desecho que genera empleo.",
+              "B": "Un paradigma que cierra ciclos de materiales, evitando extracción continua y minimizando desechos, creando oportunidades económicas para micro empresas y mejorando calidad de vida.",
+              "C": "Un sistema de reciclaje exclusivo para plásticos que reduce la contaminación visual.",
+              "D": "Una política estatal de prohibición de residuos no reciclables."
+            },
+            "respuesta_correcta": "B",
+            "sustento": "El artículo define la economía circular como un paradigma que “cierra los ciclos de materiales, evitando la extracción continua de recursos y minimizando la generación de desechos” y menciona que su implementación “puede transformar los residuos en oportunidades económicas para micro empresas y jóvenes emprendedores, mejorando la calidad de vida de las comunidades”."
+          },
+          {
+            "numero": 3,
+            "enunciado": "Del análisis presentado se desprende que, de acuerdo al artículo, ¿qué metodología de reciclaje de plásticos se describe como la alternativa más viable a nivel local en Bolivia?",
+            "opciones": {
+              "A": "Reciclación química.",
+              "B": "Reciclación mecánica (trituración, lavado y extrusión).",
+              "C": "Valorización energética mediante incineración.",
+              "D": "Digestión anaeróbica."
+            },
+            "respuesta_correcta": "B",
+            "sustento": "La reciclación mecánica de plásticos (trituración, lavado y extrusión) es la alternativa más viable a nivel local, pues requiere inversiones moderadas y puede adaptarse a pequeñas empresas. Las demás opciones, aunque mencionadas en el texto, no se describen como la alternativa más viable para el reciclaje de plásticos: la reciclación química no se discute; la valorización energética se refiere a residuos orgánicos, no a plásticos; y la digestión anaeróbica se menciona como método para residuos orgánicos, no como método de reciclaje de plásticos."
+          },
+          {
+            "numero": 4,
+            "enunciado": "A partir de lo expuesto en el artículo, ¿cuál es la implicación económica directa que se menciona respecto a la empresa ReciclArte en La Paz?",
+            "opciones": {
+              "A": "Generó ingresos de 22000 USD en 2022.",
+              "B": "Obtuvo un beneficio neto de 15000 USD.",
+              "C": "Redujo sus costos operativos en un 12%.",
+              "D": "Aumentó su producción de PET reciclado en un 8%."
+            },
+            "respuesta_correcta": "A",
+            "sustento": "El apartado de ‘Incentivos económicos y modelos de negocio’ el artículo indica que la empresa ReciclArte, al comprar PET y vender material reciclado, generó ingresos de 22000 USD en 2022. Las demás opciones presentan datos que no aparecen en el texto."
+          },
+          {
+            "numero": 5,
+            "enunciado": "El artículo señala que el proyecto piloto de digestores anaeróbicos en Cochabamba generó, por cada kilogramo de residuos orgánicos, ¿cuántos metros cúbicos de metano?",
+            "opciones": {
+              "A": "0,35 m³",
+              "B": "0,45 m³",
+              "C": "0,55 m³",
+              "D": "0,65 m³ por tonelada"
+            },
+            "respuesta_correcta": "B",
+            "sustento": "En la sección 3.2 del artículo se indica que el proyecto piloto en Cochabamba “demostró una generación de 0,45 m³ de metano por kilogramo de residuos orgánicos”. Las demás opciones alteran el valor numérico o la unidad de medida."
+          },
+          {
+            "numero": 6,
+            "enunciado": "Basándose en la información proporcionada, ¿cuál es la característica que diferencia la tasa de reciclaje de PET en Santa Cruz de la tasa de recolección formal de residuos sólidos en Bolivia?",
+            "opciones": {
+              "A": "La tasa de reciclaje de PET (8%) es inferior a la tasa de recolección formal nacional (12%).",
+              "B": "La tasa de reciclaje de PET (12%) es superior a la tasa de recolección formal nacional (8%).",
+              "C": "Ambas tasas son iguales (12%).",
+              "D": "No hay datos comparativos."
+            },
+            "respuesta_correcta": "A",
+            "sustento": "El artículo indica que en Santa Cruz la tasa de reciclaje de PET es apenas el 8% y que, a nivel nacional, solo el 12% de los residuos sólidos urbanos fue recolectado formalmente. Por lo tanto, la afirmación correcta es que la tasa de reciclaje de PET en Santa Cruz (8%) es inferior a la tasa de recolección formal nacional (12%)."
+          },
+          {
+            "numero": 7,
+            "enunciado": "Basándose en la información proporcionada, ¿cuál es el objetivo principal que persiguen los micro bonos ofrecidos por ONG como EcoBol al incentivar la separación de papel y cartón en los Yungas?",
+            "opciones": {
+              "A": "Financiar la construcción de vertederos.",
+              "B": "Ofrecer un estímulo económico que motive la separación de materiales, favoreciendo la participación ciudadana y sentando bases para la economía circular.",
+              "C": "Subsidiar la compra de vehículos recolectores.",
+              "D": "Pagar salarios a funcionarios municipales."
+            },
+            "respuesta_correcta": "B",
+            "sustento": "El texto indica que los programas educativos de ONG como EcoBol “lograron aumentar la tasa de separación de papel y cartón del 3% al 18% en tan solo dos años, evidenciando el potencial de la educación informal y la incentivación mediante micro bonos”. El propósito explícito de esos micro bonos es ofrecer un estímulo económico que motive a la población a separar los materiales, lo que a su vez favorece la participación ciudadana y sienta las bases para una economía circular."
+          },
+          {
+            "numero": 8,
+            "enunciado": "De acuerdo con el texto, ¿qué consecuencia se puede deducir si el Estado fortalece la aplicación de la Ley 164 mediante la creación de fondos de garantía para micro empresas de reciclaje?",
+            "opciones": {
+              "A": "Disminuirá la tasa de reciclaje de PET.",
+              "B": "Aumentará la tasa de reciclaje (R) y reducirá la fracción de PET en vertederos y ríos.",
+              "C": "Eliminará por completo los residuos plásticos.",
+              "D": "Incrementará la dependencia de importación de materiales reciclados."
+            },
+            "respuesta_correcta": "B",
+            "sustento": "El texto indica que la baja tasa de reciclaje de PET en Santa Cruz (solo 8%) se debe en parte a la ausencia de incentivos financieros para los emprendedores. Se menciona que iniciativas como ReciclArte funcionan al comprar PET y venden material reciclado, y que se requieren instrumentos como fondos de garantía y microcréditos para ampliar estas actividades. Si el Estado crea dichos fondos, se esperaría que más micro empresas de reciclaje puedan operar formalmente, aumentando la recolección de PET, lo que elevaría la tasa de reciclaje (R) y reduciría la fracción que actualmente se deposita en vertederos o ríos."
+          },
+          {
+            "numero": 9,
+            "enunciado": "Basándose en la información proporcionada, ¿qué efecto indirecto es probable que genere la expansión de los proyectos piloto de digestores anaeróbicos en zonas rurales sobre la dinámica de la economía circular en Bolivia?",
+            "opciones": {
+              "A": "Aumentará la cantidad de residuos orgánicos en vertederos.",
+              "B": "Reducirá la eficiencia global del reciclaje (R).",
+              "C": "Mejorará la eficiencia global del reciclaje (R) al transformar residuos orgánicos en energía y generar ingresos para micro empresas.",
+              "D": "Disminuirá la producción de biogás."
+            },
+            "respuesta_correcta": "C",
+            "sustento": "El artículo indica que los digestores anaeróbicos generan biogás (0,45 m³ de metano por kilogramo de residuos orgánicos) suficiente para cubrir el consumo energético de una familia, lo que implica ingresos potenciales para micro empresas que operen dichos sistemas. Al transformar residuos orgánicos en energía, se reduce la cantidad de materia orgánica que llega a los vertederos, lo que a su vez mejora la eficiencia global del reciclaje (R), ya que la fórmula de R depende del total de residuos gestionados de forma útil. Esta cadena de efectos – reducción de residuos orgánicos, generación de ingresos y mejora de R – es una consecuencia implícita del proyecto piloto."
+          },
+          {
+            "numero": 10,
+            "enunciado": "A partir de lo expuesto en el artículo, ¿qué conclusión general puede inferirse sobre la relación entre la proporción de recolección formal de residuos y la eficiencia de reciclaje (R) en Bolivia?",
+            "opciones": {
+              "A": "No hay relación.",
+              "B": "Una mayor cobertura de recolección formal podría aumentar el valor de R al disponer de más residuos segregados y disponibles para reciclaje.",
+              "C": "La recolección formal reduce el valor de R por mezclar residuos.",
+              "D": "Solo la recolección informal impacta en R."
+            },
+            "respuesta_correcta": "B",
+            "sustento": "Solo el 12% de los residuos sólidos urbanos se recolecta formalmente, mientras que el 55% corresponde a residuos orgánicos y solo el 8% del PET se recicla en Santa Cruz. Además, se señala que la segregación y la disponibilidad de residuos en condiciones de calidad son factores críticos para la eficiencia del reciclaje (R). Por lo tanto, una mayor cobertura de recolección formal implicaría que un mayor volumen de residuos estaría correctamente segregado y disponible para los procesos de reciclaje y valorización, lo que aumentaría el valor de R."
+          },
+          {
+            "numero": 11,
+            "enunciado": "De acuerdo con el texto, ¿qué efecto probable tendría en la eficiencia del reciclaje (R) la ampliación de programas de educación ambiental liderados por ONG en comunidades rurales?",
+            "opciones": {
+              "A": "Disminuiría R por mayor contaminación de residuos.",
+              "B": "Aumentaría R al mejorar la segregación y reducir la contaminación de flujos reciclables.",
+              "C": "No afectaría a R.",
+              "D": "Solo aumentaría R en zonas urbanas."
+            },
+            "respuesta_correcta": "B",
+            "sustento": "El texto describe que los programas educativos de ONG como EcoBol lograron elevar la tasa de separación de papel y cartón del 3% al 18% en dos años, evidenciando que la educación mejora la segregación de residuos. Una mejor segregación reduce la contaminación de los flujos reciclables, lo que, según la definición de eficiencia de reciclaje R = (Mrec / Mtotal) × 100%, permite que una mayor masa de material sea realmente reciclada, incrementando así el valor de R."
+          },
+          {
+            "numero": 12,
+            "enunciado": "De acuerdo con el texto, ¿cuál es la idea central que el autor comunica respecto al papel de la economía circular en la gestión de residuos en Bolivia?",
+            "opciones": {
+              "A": "Es una moda internacional sin aplicabilidad local.",
+              "B": "Depende exclusivamente de la inversión extranjera.",
+              "C": "Puede transformar residuos en recursos valiosos mediante la integración de políticas públicas, innovación tecnológica y participación comunitaria.",
+              "D": "Solo es viable en países desarrollados."
+            },
+            "respuesta_correcta": "C",
+            "sustento": "El autor enfatiza repetidamente que la transición hacia una economía circular depende de la integración de políticas públicas, innovación tecnológica y participación comunitaria, lo que permitirá transformar los residuos en recursos valiosos y crear oportunidades económicas para micro empresas (ver secciones de “Desarrollo” y “Conclusiones”)."
+          },
+          {
+            "numero": 13,
+            "enunciado": "Considerando lo mencionado en el texto, ¿qué diferencia esencial se puede establecer entre la contribución del Estado y la de las ONG al impulso de la economía circular en Bolivia?",
+            "opciones": {
+              "A": "El Estado provee infraestructura institucional y normativa; las ONG actúan mediante educación y sensibilización comunitaria.",
+              "B": "El Estado solo recauda impuestos; las ONG ejecutan toda la gestión de residuos.",
+              "C": "El Estado y las ONG tienen roles idénticos.",
+              "D": "Las ONG sustituyen al Estado en la legislación ambiental."
+            },
+            "respuesta_correcta": "A",
+            "sustento": "El artículo indica que la Ley 164 de Gestión Integral de Residuos Sólidos constituye el marco normativo del Estado, pero su ejecución es lenta por falta de recursos y dispersión geográfica. En contraste, la ONG EcoBol se menciona en la sección de participación social, donde sus programas educativos aumentaron la tasa de separación de papel y cartón del 3% al 18% en dos años, demostrando una acción directa a nivel comunitario. Por lo tanto, la diferencia esencial radica en que el Estado provee la infraestructura institucional y normativa, mientras que las ONG actúan mediante educación y sensibilización que generan cambios de comportamiento en la población."
+          },
+          {
+            "numero": 14,
+            "enunciado": "El artículo señala que, para que Bolivia logre una transición efectiva hacia la economía circular, es indispensable...",
+            "opciones": {
+              "A": "Copiar modelos de países desarrollados sin adaptación.",
+              "B": "La combinación de políticas públicas, tecnologías apropiadas y participación social.",
+              "C": "Esperar a que la población se eduque de manera espontánea.",
+              "D": "Prohibir toda generación de residuos."
+            },
+            "respuesta_correcta": "B",
+            "sustento": "El autor, a lo largo del artículo, enfatiza que la viabilidad de la economía circular en Bolivia depende de la interacción entre tres ejes: políticas públicas (p. ej., la Ley 164, indicadores de desempeño), tecnologías apropiadas (reciclado mecánico, digestores anaeróbicos) y la participación social (programas de educación, micro bonos). En la conclusión se indica que “la combinación de políticas públicas claras, tecnología apropiada y participación comunitaria puede elevar significativamente la eficiencia del reciclaje (R)”."
+          },
+          {
+            "numero": 15,
+            "enunciado": "La lectura del texto permite identificar que, al comparar la reciclación mecánica de PET y la valorización energética mediante digestores anaeróbicos, ¿cuál de las siguientes afirmaciones refleja con mayor precisión la relación entre la complejidad de inversión y el contexto de aplicación de cada proceso?",
+            "opciones": {
+              "A": "Ambas requieren alta inversión y son solo para zonas urbanas.",
+              "B": "La reciclación mecánica requiere inversión moderada y es viable para pequeñas empresas; los digestores son adecuados para zonas rurales aisladas.",
+              "C": "Los digestores son solo para grandes ciudades; la reciclación mecánica es para áreas rurales.",
+              "D": "Ambas son de baja inversión y aplicables en cualquier contexto."
+            },
+            "respuesta_correcta": "B",
+            "sustento": "El artículo indica que la reciclación mecánica de plásticos es “la alternativa más viable a nivel local, pues requiere inversiones moderadas y puede adaptarse a pequeñas empresas” y, simultáneamente, describe que la valorización energética mediante digestores anaeróbicos “permite producir biogás, que puede ser utilizado para cocinar o generar electricidad en comunidades rurales aisladas”. Por tanto, la afirmación combina con exactitud la inversión moderada de la reciclación mecánica y la idoneidad de los digestores para zonas rurales."
+          },
+          {
+            "numero": 16,
+            "enunciado": "Del análisis presentado se desprende que la tendencia dominante en la gestión de residuos en Bolivia es que…",
+            "opciones": {
+              "A": "Prevalece el modelo lineal de extracción-producción-desecho.",
+              "B": "La transición hacia una economía circular depende de la interacción entre políticas públicas, innovación tecnológica y participación comunitaria.",
+              "C": "Solo la recolección informal es efectiva.",
+              "D": "No hay interés en soluciones sostenibles."
+            },
+            "respuesta_correcta": "B",
+            "sustento": "El artículo enfatiza, tanto en la introducción como en las conclusiones, que la transición hacia una economía circular depende de la interacción entre políticas públicas, innovación tecnológica y la participación comunitaria, y que la efectividad de este proceso se potenciará mediante indicadores de desempeño (tasa de reciclaje R) y mecanismos financieros de incentivo."
+          },
+          {
+            "numero": 17,
+            "enunciado": "De acuerdo con el texto, ¿qué consecuencia puede inferirse si la tasa de segregación de residuos orgánicos en origen se incrementa significativamente en comunidades rurales?",
+            "opciones": {
+              "A": "Disminuirá la producción de biogás.",
+              "B": "Aumentará la generación de metano y permitirá abastecer a más hogares.",
+              "C": "No tendrá efecto en la valorización energética.",
+              "D": "Aumentará la cantidad de residuos en vertederos."
+            },
+            "respuesta_correcta": "B",
+            "sustento": "El artículo indica que la valorización energética mediante digestores anaeróbicos produce 0,45 m³ de metano por kilogramo de residuos orgánicos, suficiente para cubrir el consumo de una familia promedio durante un mes. Una mejora en la segregación en origen implica que una mayor proporción de residuos orgánicos llega al digestor en buen estado, aumentando la masa total de materia prima disponible. Como la relación de producción de metano es lineal respecto a la masa alimentada (0,45 m³ / kg), al incrementarse la cantidad de residuos orgánicos capturados se generará más metano, lo que permite abastecer a más hogares."
+          },
+          {
+            "numero": 18,
+            "enunciado": "Según el artículo, ¿cuál es el mensaje principal implícito que el autor comunica respecto a las soluciones para la gestión de residuos en Bolivia?",
+            "opciones": {
+              "A": "La tecnología por sí sola resolverá el problema.",
+              "B": "Se requiere una visión integradora que combine políticas públicas, tecnología apropiada y participación comunitaria.",
+              "C": "La responsabilidad es exclusiva de los ciudadanos.",
+              "D": "Bolivia debe importar soluciones de otros países."
+            },
+            "respuesta_correcta": "B",
+            "sustento": "El artículo, en sus conclusiones y desarrollo, enfatiza repetidamente que la transición hacia una economía circular requiere “políticas públicas claras, tecnología apropiada y participación comunitaria” y menciona que esa combinación “puede reducir la huella ecológica y generar oportunidades económicas para micro empresas”. Esta visión integradora es el mensaje implícito central."
+          },
+          {
+            "numero": 19,
+            "enunciado": "De acuerdo con el texto, ¿qué efecto se puede deducir que tendría la ampliación de los programas de educación ambiental orientados a la separación en origen en las comunidades rurales?",
+            "opciones": {
+              "A": "Disminuirá la eficiencia del reciclaje (R).",
+              "B": "Aumentará la eficiencia del reciclaje (R) y favorecerá la valorización energética.",
+              "C": "No tendrá impacto en la gestión de residuos.",
+              "D": "Solo beneficiará a zonas urbanas."
+            },
+            "respuesta_correcta": "B",
+            "sustento": "El texto señala que la separación de residuos en origen depende del nivel de conciencia ciudadana y que programas educativos han aumentado la tasa de separación. Un mayor grado de separación permite que más material sea apto para el reciclaje mecánico y que los residuos orgánicos sean canalizados a digestores anaeróbicos, lo que eleva la eficiencia del reciclaje (R) y favorece la valorización energética."
+          },
+          {
+            "numero": 20,
+            "enunciado": "Considerando lo mencionado en el texto, ¿cuál de las siguientes comparaciones entre dos propuestas de futuro refleja de manera más precisa su potencial efecto inmediato sobre la eficiencia del reciclaje (R)?",
+            "opciones": {
+              "A": "Fortalecimiento legislativo con sanciones vs. incentivos financieros (fondos de garantía, créditos verdes).",
+              "B": "Los incentivos financieros pueden mejorar rápidamente R, mientras el fortalecimiento legislativo actúa a más largo plazo.",
+              "C": "Ambas tienen el mismo impacto inmediato en R.",
+              "D": "Solo el fortalecimiento legislativo afecta a R."
+            },
+            "respuesta_correcta": "B",
+            "sustento": "El texto señala que, para impulsar la economía circular, se requieren ‘instrumentos financieros como fondos de garantía, líneas de crédito verde y esquemas de pago por servicios ambientales’ que reducen el riesgo de inversión y facilitan la adopción de tecnologías limpias. Estos recursos permiten a micro empresas comprar equipos y operar procesos de reciclaje de forma inmediata, lo que afecta directamente la razón R. En contraste, el fortalecimiento legislativo con sanciones, aunque importante, actúa a más largo plazo al requerir cumplimiento y vigilancia institucional, sin aportar recursos financieros directos que mejoren rápidamente la eficiencia del reciclaje."
+          },
+          {
+            "numero": 21,
+            "enunciado": "La lectura del texto permite identificar que, para fomentar el desarrollo de micro empresas en zonas rurales de Bolivia, la información sobre la generación de biogás a partir de residuos orgánicos resulta más relevante que los datos de reciclaje de PET en Santa Cruz, porque:",
+            "opciones": {
+              "A": "El biogás proporciona una fuente de energía local y rentable para comunidades rurales sin infraestructura eléctrica.",
+              "B": "El PET es más abundante en zonas rurales.",
+              "C": "El reciclaje de PET genera más empleo que los digestores.",
+              "D": "Los datos de Santa Cruz son falsos."
+            },
+            "respuesta_correcta": "A",
+            "sustento": "El texto señala que un proyecto piloto en Cochabamba demostró una generación de 0,45 m³ de metano por kilogramo de residuos orgánicos, suficiente para cubrir el consumo energético de una familia promedio durante un mes. Este tipo de valorización energética es directamente aplicable a comunidades rurales donde la falta de infraestructura eléctrica limita el desarrollo de micro empresas, al proporcionar una fuente de energía local y rentable. Por el contrario, los datos de reciclaje de PET (tasa del 8% en Santa Cruz) se centran en un problema urbano de contaminación del agua y no ofrecen una solución inmediata para la generación de ingresos o la autosuficiencia energética en áreas rurales, lo que disminuye su relevancia para ese contexto."
+          },
+          {
+            "numero": 22,
+            "enunciado": "A partir de lo expuesto en el artículo, ¿cuál de los siguientes aspectos representa una limitación no abordada por el autor al proponer incentivos financieros y modelos de negocio para la economía circular en Bolivia?",
+            "opciones": {
+              "A": "La falta de capacitación técnica.",
+              "B": "La desigualdad de género en el acceso a recursos financieros.",
+              "C": "La escasez de materias primas.",
+              "D": "La resistencia al cambio de la población."
+            },
+            "respuesta_correcta": "B",
+            "sustento": "El artículo menciona incentivos financieros, micro créditos, fondos de innovación y la participación de jóvenes emprendedores, pero nunca analiza la dimensión de género ni cómo la desigualdad entre hombres y mujeres podría limitar el acceso de las mujeres a esos recursos."
+          },
+          {
+            "numero": 23,
+            "enunciado": "El artículo señala que la eficiencia del reciclaje (R) permite cuantificar el grado de cierre de los ciclos de materiales. ¿Por qué es relevante este indicador para diseñar una política de incentivos financieros dirigida a micro empresas de reciclaje en Bolivia?",
+            "opciones": {
+              "A": "Porque permite evaluar el desempeño y estructurar bonos o pagos por servicios ambientales basados en resultados.",
+              "B": "Porque mide la popularidad de las empresas.",
+              "C": "Porque determina el precio de venta de los materiales reciclados.",
+              "D": "Porque indica la cantidad de empleos generados."
+            },
+            "respuesta_correcta": "A",
+            "sustento": "El artículo enfatiza que la eficiencia del reciclaje (R) sirve como indicador de desempeño que permite evaluar cuán cerrado está el ciclo de materiales; este dato puede usarse para estructurar bonos o pagos por servicios ambientales, asegurando que los incentivos financieros premien a micro empresas que logren una mayor efectividad en el cierre del ciclo. En la sección de conclusiones se menciona la necesidad de establecer indicadores de desempeño, como la tasa de reciclaje R, como métricas obligatorias para municipios y empresas."
+          },
+          {
+            "numero": 24,
+            "enunciado": "De acuerdo con el texto, ¿cuál de los siguientes posibles sesgos ambientales no está suficientemente abordado por el autor en su análisis?",
+            "opciones": {
+              "A": "La huella de carbono del proceso de reciclaje (emisiones de CO2 en recolección, transporte y procesamiento).",
+              "B": "La contaminación del agua por plásticos no reciclados.",
+              "C": "La pérdida de biodiversidad por vertederos.",
+              "D": "El agotamiento de recursos naturales por extracción."
+            },
+            "respuesta_correcta": "A",
+            "sustento": "Aunque el artículo describe ampliamente los beneficios del reciclaje de PET y la valorización energética, nunca menciona ni cuantifica las posibles emisiones de CO2 o de otros gases de efecto invernadero que pueden generarse durante la recolección, el transporte y el procesamiento de los materiales reciclados. El texto se centra en la eficiencia del reciclaje (R) y en los impactos positivos, sin considerar este costo ambiental."
+          },
+          {
+            "numero": 25,
+            "enunciado": "La lectura del texto permite identificar que el argumento del autor sobre la validez de establecer indicadores de desempeño, como la tasa de reciclaje R, para mejorar la eficiencia del reciclaje en Bolivia, es:",
+            "opciones": {
+              "A": "Débil, por falta de ejemplos concretos.",
+              "B": "Fuerte, porque se apoya en datos empíricos y casos demostrativos.",
+              "C": "Especulativo, sin base estadística.",
+              "D": "Contradictorio con las políticas públicas actuales."
+            },
+            "respuesta_correcta": "B",
+            "sustento": "El texto proporciona evidencia empírica que respalda la propuesta del autor: se citan cifras específicas de la tasa de reciclaje de PET (8%) y se describen casos concretos, como la empresa ReciclArte, que compra PET, lo procesa y genera ingresos de 22 000 USD y evita 15 toneladas de CO2. Estas experiencias demuestran que, al medir la eficiencia a través del indicador R, se pueden observar mejoras tangibles en la recuperación de materiales y en los resultados económicos de micro empresas, lo que valida la argumentación del autor."
+          },
+          {
+            "numero": 26,
+            "enunciado": "Del análisis presentado se desprende que, de acuerdo al artículo, ¿por qué es relevante la incorporación de indicadores de desempeño de reciclaje (R) para la formulación de políticas públicas en los municipios de Bolivia?",
+            "opciones": {
+              "A": "Porque permite evaluar la eficacia de los programas, orientar la asignación de fondos y diseñar incentivos financieros.",
+              "B": "Porque ayuda a aumentar los impuestos municipales.",
+              "C": "Porque mide la aceptación política de los alcaldes.",
+              "D": "Porque sustituye la necesidad de educación ambiental."
+            },
+            "respuesta_correcta": "A",
+            "sustento": "En la sección de Conclusiones el artículo recomienda establecer indicadores de desempeño, como la tasa de reciclaje R, como métricas obligatorias para municipios y empresas, con el fin de evaluar la eficacia de los programas, orientar la asignación de fondos (microcréditos) y diseñar incentivos financieros."
+          },
+          {
+            "numero": 27,
+            "enunciado": "Según el artículo, ¿qué sesgo limita la representatividad de los resultados presentados sobre la eficiencia de la economía circular en Bolivia?",
+            "opciones": {
+              "A": "Sesgo de género.",
+              "B": "Sesgo geográfico (ejemplos limitados a Santa Cruz y Cochabamba).",
+              "C": "Sesgo temporal (datos solo de un año).",
+              "D": "Sesgo tecnológico (solo se consideran tecnologías costosas)."
+            },
+            "respuesta_correcta": "B",
+            "sustento": "El artículo solo describe ejemplos concretos de reciclaje de PET en Santa Cruz y de digestores anaeróbicos en Cochabamba, sin proporcionar evidencia de otras áreas del país. Esta focalización geográfica impide extrapolar los hallazgos a la realidad nacional, constituyendo un sesgo de representatividad."
+          },
+          {
+            "numero": 28,
+            "enunciado": "De acuerdo con el texto, ¿cuál es la implicación ética más relevante al promover incentivos financieros para micro empresas que realizan reciclaje de PET en Bolivia?",
+            "opciones": {
+              "A": "Aumenta la competitividad del mercado.",
+              "B": "Plantea una cuestión de justicia distributiva al riesgo de excluir a recolectores informales.",
+              "C": "Garantiza el monopolio de grandes empresas.",
+              "D": "Reduce la transparencia en el uso de fondos públicos."
+            },
+            "respuesta_correcta": "B",
+            "sustento": "El texto señala que los incentivos financieros buscan apoyar a micro empresas (p. ej., ReciclArte) y que la falta de una política inclusiva puede dejar fuera a los recolectores informales, creando una situación de inequidad y planteando una cuestión de justicia distributiva."
+          },
+          {
+            "numero": 29,
+            "enunciado": "El artículo señala que la participación de ONG es fundamental para mejorar la separación de residuos en origen. ¿Cuál de las siguientes afirmaciones constituye una evaluación crítica adecuada de la suficiencia de la evidencia presentada sobre el papel de las ONG en este proceso?",
+            "opciones": {
+              "A": "La evidencia es robusta porque incluye datos nacionales.",
+              "B": "La evidencia es limitada porque se basa en un caso aislado y regional sin estudios comparativos o longitudinales.",
+              "C": "No hay evidencia presentada.",
+              "D": "La evidencia es suficiente para generalizar a todo el país."
+            },
+            "respuesta_correcta": "B",
+            "sustento": "Aunque el artículo menciona que la ONG EcoBol logró elevar la tasa de separación de papel y cartón del 3% al 18% en los Yungas, esa información corresponde a un caso aislado y regional. No se presentan datos comparativos con otras áreas ni estudios longitudinales que permitan determinar si el efecto es atribuible exclusivamente a la intervención de la ONG ni si es replicable a nivel nacional. Por ello, la evidencia es limitada para sustentar afirmaciones generales sobre el impacto de las ONG."
+          },
+          {
+            "numero": 30,
+            "enunciado": "El artículo señala que el proyecto piloto de digestores anaeróbicos en Cochabamba generó, por cada kilogramo de residuos orgánicos, ¿cuántos metros cúbicos de metano?",
+            "opciones": {
+              "A": "0,35 m³",
+              "B": "0,45 m³",
+              "C": "0,55 m³",
+              "D": "0,65 m³ por tonelada"
+            },
+            "respuesta_correcta": "B",
+            "sustento": "En la sección 3.2 del artículo se indica que el proyecto piloto en Cochabamba “demostró una generación de 0,45 m³ de metano por kilogramo de residuos orgánicos”. Las demás opciones alteran el valor numérico o la unidad de medida."
+          }
+        ]
+      }
+    ]
+  }
+}
