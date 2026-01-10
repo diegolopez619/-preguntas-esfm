@@ -1,0 +1,1476 @@
+﻿{
+  "examen": {
+    "titulo": "Simulacro de Examen - Comprensión Lectora",
+    "descripcion": "Examen con 4 textos sobre temas ambientales, educativos y tecnológicos en Bolivia. Selecciona aleatoriamente 30 preguntas para la evaluación.",
+    "textos": [
+      {
+        "id": 1,
+        "titulo": "DEFORESTACIÓN Y CAMBIO CLIMÁTICO EN LOS ANDES BOLIVIANOS",
+        "contenido_completo": "Resumen:\nLa región andina de Bolivia ha experimentado una transformación profunda de sus ecosistemas forestales desde tiempos precolombinos hasta la actualidad. Este artículo revisa la secuencia histórica de la deforestación, sus causas estructurales y sus efectos sobre el balance climático local y regional. Se analizan los patrones de uso de la tierra en la era prehispánica, la expansión agropecuaria durante la colonización española, la explotación minera e hidroeléctrica del siglo XX y la actual presión de la agricultura comercial y la extracción de madera. A través de datos de satélites y estudios de campo, se cuantifica la pérdida de cobertura forestal (aproximadamente 15% entre 1990 y 2020) y se relaciona con el aumento de la temperatura media (= 0,6 °C) y la variabilidad de precipitaciones. El artículo discute los mecanismos de retroalimentación entre la pérdida de bosque y el cambio climático, y plantea opciones de gestión basada en conocimientos tradicionales y políticas de conservación. La intención es ofrecer a los jóvenes lectores una visión integral que combine historia, ciencia y contexto boliviano, facilitando la comprensión crítica de uno de los mayores retos ambientales de la región.\n\nIntroducción:\nLos Andes bolivianos constituyen una cadena montañosa que alberga una gran diversidad de ecosistemas, desde bosques tropicales en los valles de los Yungas hasta bosques de niebla en la zona altitudinaria. Estos bosques no solo son hábitats de especies endémicas, sino que también desempeñan funciones climáticas esenciales: regulan la temperatura, retienen agua y capturan dióxido de carbono (CO2). Sin embargo, la cobertura forestal ha sido reducida de manera sostenida a lo largo de varios siglos, lo que ha alterado significativamente los procesos climáticos locales.\n\nComprender la deforestación como un fenómeno histórico permite identificar las causas estructurales y los momentos críticos en los que la actividad humana empezó a modificar de forma irreversible los paisajes. Además, la perspectiva evolutiva ayuda a reconocer qué prácticas antiguas podrían incorporarse a estrategias contemporáneas de restauración. Este artículo sigue una línea temporal que parte de la ocupación precolombina, atraviesa la época colonial y la industrialización, y llega a la actualidad, examinando en cada etapa los impactos sobre el clima.\n\nDesarrollo:\n\n1. Los Andes antes del contacto europeo: manejo forestal tradicional\nEn la zona de los Yungas, los pueblos originarios —como los Aymara y los Guarani— practicaban una forma de agroforestería que combinaba cultivos alimentarios (maíz, papa, plátano) con árboles nativos de corte moderado. Esta estrategia, conocida como sistema agroforestal, favorecía la conservación del suelo y la regulación hídrica. Los estudios arqueológicos indican que la densidad forestal en el siglo XV era aproximadamente un 85% del área total, con claros creados intencionalmente para la agricultura, pero sin eliminar la mayor parte del dosel arbóreo (Miller, 2018).\n\n2. La colonización española y la expansión agropecuaria\nCon la llegada de los conquistadores en el siglo XVI, la demanda de oro y plata impulsó la extracción minera intensiva y la apertura de rutas de transporte que requirieron la tala de bosques para la construcción de carreteras y la obtención de leña. Además, la introducción del ganado vacuno y ovino generó una presión adicional: los pastizales necesitaban ser despejados, y el sobrepastoreo provocó la erosión del suelo. Según el Instituto Nacional de Estadística (INE) de Bolivia, la superficie forestal disminuyó de 4,9 millones de hectáreas en 1900 a 3,9 millones en 1960, una reducción del 20% en poco más de un siglo (INE, 2021).\n\n3. Industrialización y políticas de desarrollo en el siglo XX\nA partir de la década de 1960, el Estado boliviano implementó planes de desarrollo que favorecían la expansión de la agricultura comercial, particularmente la soja y el maíz de alto rendimiento. La construcción de la carretera Cochabamba-Santa Cruz, finalizada en 1978, abrió vastas áreas del bosque subtropical a la colonización de campesinos y empresas agroindustriales. El uso de imágenes satelitales del programa Landsat permitió cuantificar la aceleración de la deforestación: entre 1990 y 2005, la pérdida anual media fue de 32 000 ha, y la tasa se incrementó a 45 000 ha/año entre 2005 y 2020 (FAO, 2022).\n\nEsta expansión agrícola se ha asociado a cambios climáticos locales. El modelo de balance energético muestra que la reducción del albedo (reflectancia de la superficie) y la pérdida de la transpiración vegetal disminuyen el flujo de energía latente, aumentando la temperatura de la superficie. En forma simplificada, la energía neta Q se expresa como\n\nQ\n=\nR\nn\n-\nG\n-\nH\n-\nL\nE\nQ=Rn-G-H-LE\ndonde \nR\nn\nRn es la radiación neta, \nG\nG el flujo de calor al suelo, \nH\nH el calor sensible y \nL\nE\nLE el calor latente (transpiración). La disminución de \nL\nE\nLE al perderse los bosques eleva \nH\nH y, por ende, la temperatura del aire (Gomez et al., 2020).\n\n4. Impactos climáticos y retroalimentaciones\nEl incremento de la temperatura media en la zona andina de Bolivia se ha registrado en 0,6 °C entre 1990 y 2020 (SENAMHI, 2023). Simultáneamente, la variabilidad de las precipitaciones ha aumentado, con periodos de sequía más intensos que afectan la disponibilidad de agua para la agricultura y la generación hidroeléctrica. La pérdida de bosque reduce la capacidad de retención de agua en el suelo, amplificando los efectos de la sequía.\n\nUna retroalimentación clave es el aumento de las emisiones de CO2 provenientes de la quema forestal. Según la base de datos Global Fire Emissions Database (GFED), Bolivia emitió aproximadamente 12 MtCO2 al año entre 2000 y 2015 como resultado de incendios y quema de residuos agrícolas. Estas emisiones, a su vez, intensifican el calentamiento global y potencian la frecuencia de incendios, creando un círculo vicioso.\n\n5. Respuestas actuales y perspectivas de gestión\nEn los últimos años, el gobierno boliviano, junto a organizaciones no gubernamentales y comunidades indígenas, ha promovido iniciativas de restauración forestal y pagos por servicios ambientales (PSA). El programa Biodiversidad Andina (2020-2024) ha sembrado 3,5 millones de árboles nativos en áreas degradadas de los Yungas, con la participación activa de campesinos que reviven prácticas agroforestales tradicionales.\n\nLos conocimientos ancestrales, como la rotación de cultivos y la gestión comunitaria de recursos forestales, ofrecen modelos resilientes frente al cambio climático. Integrar estos saberes con tecnologías de monitoreo satelital permite una gestión adaptativa: los datos de sensores térmicos identifican zonas con mayor estrés hídrico, mientras que la ciencia del suelo orienta la selección de especies nativas con alta tolerancia a la sequía.\n\nConclusiones:\nLa deforestación en los Andes bolivianos es un proceso con profundas raíces históricas que ha evolucionado desde manejos forestales sostenibles en la época precolombina hasta la explotación intensiva de recursos naturales en la era moderna. Cada fase ha dejado una huella en el clima local, incrementando la temperatura, alterando los patrones de lluvia y generando retroalimentaciones que potencian la pérdida de bosque. Sin embargo, la existencia de saberes tradicionales y la creciente implementación de políticas de restauración ofrecen caminos viables para mitigar estos efectos. Un enfoque que combine la historia del uso del suelo, la ciencia climática y la participación comunitaria será esencial para lograr la conservación de los bosques andinos y la estabilidad climática de la región.",
+        "preguntas": [
+          {
+            "id": "T1-P1",
+            "texto": "Según el artículo, ¿cuál fue la reducción porcentual de la superficie forestal entre 1900 y 1960 y cómo se compara con la pérdida de cobertura forestal entre 1990 y 2020?",
+            "opciones": {
+              "A": "1900-1960: 15%; 1990-2020: 20% ? La reducción fue mayor en el siglo XX.",
+              "B": "1900-1960: 20%; 1990-2020: 15% ? La reducción fue mayor a principios del siglo XX. ?",
+              "C": "1900-1960: 25%; 1990-2020: 10% ? La reducción fue mucho mayor en el primer período.",
+              "D": "1900-1960: 10%; 1990-2020: 20% ? La reducción se aceleró en el período reciente."
+            },
+            "respuesta_correcta": "B",
+            "sustento": "El párrafo sobre la colonización española indica que la superficie forestal pasó de 4,9 millones a 3,9 millones de hectáreas entre 1900 y 1960, lo que corresponde a una reducción del 20% (INE, 2021). En el resumen y la sección de impactos climáticos se menciona que la pérdida de cobertura forestal entre 1990 y 2020 fue de aproximadamente el 15% (datos satelitales)."
+          },
+          {
+            "id": "T1-P2",
+            "texto": "Del análisis presentado se desprende que, ¿cuáles son los problemas identificados que el artículo señala como consecuencias de la deforestación en los Andes bolivianos?",
+            "opciones": {
+              "A": "Solo aumento de la temperatura y pérdida de biodiversidad.",
+              "B": "Aumento de temperatura, variabilidad de lluvias, menor retención de agua y mayor emisión de CO2 por quema. ?",
+              "C": "Incremento de la producción agrícola y mejora del suelo.",
+              "D": "Reducción de la temperatura y aumento de las lluvias."
+            },
+            "respuesta_correcta": "B",
+            "sustento": "La sección “Impactos climáticos y retroalimentaciones” indica que la deforestación ha generado un aumento de la temperatura media de 0,6 °C, una mayor variabilidad de precipitaciones con sequías más intensas, una disminución de la capacidad del suelo para retener agua y un aumento de emisiones de CO2 (= 12 MtCO2 /año entre 2000-2015) debido a la quema forestal."
+          },
+          {
+            "id": "T1-P3",
+            "texto": "Del análisis presentado se desprende que, en la cadena de procesos que relaciona la deforestación con el aumento de la temperatura en los Andes bolivianos, ¿cuál es el primer factor técnico mencionado?",
+            "opciones": {
+              "A": "Aumento del calor sensible (H).",
+              "B": "Disminución del flujo de calor latente (LE).",
+              "C": "Reducción del albedo (reflectancia de la superficie). ?",
+              "D": "Incremento de la radiación neta (Rn)."
+            },
+            "respuesta_correcta": "C",
+            "sustento": "En la sección “Industrialización y políticas de desarrollo en el siglo XX” se describe el modelo de balance energético: “La reducción del albedo (reflectancia de la superficie) y la pérdida de la transpiración vegetal disminuyen el flujo de energía latente, aumentando la temperatura de la superficie”. El texto menciona primero la reducción del albedo como factor que desencadena la cadena de efectos que lleva al aumento de la temperatura."
+          },
+          {
+            "id": "T1-P4",
+            "texto": "La lectura del texto permite identificar que, entre 1990 y 2020, la pérdida de cobertura forestal en los Andes bolivianos fue aproximadamente del 15% y el aumento de la temperatura media fue de 0,6 °C.",
+            "opciones": {
+              "A": "Verdadero ?",
+              "B": "Falso",
+              "C": "Solo la pérdida forestal es correcta",
+              "D": "Solo el aumento de temperatura es correcto"
+            },
+            "respuesta_correcta": "A",
+            "sustento": "Los datos explícitos del artículo indican que la pérdida de cobertura forestal entre 1990 y 2020 fue de aproximadamente 15%, y en la sección “Impactos climáticos y retroalimentaciones” se reporta un incremento de la temperatura media de 0,6 °C para el mismo período."
+          },
+          {
+            "id": "T1-P5",
+            "texto": "A partir de lo expuesto en el artículo, ¿qué proceso técnico se ve incrementado directamente por la reducción del calor latente (LE) tras la pérdida de bosques, contribuyendo al aumento de la temperatura del aire?",
+            "opciones": {
+              "A": "Disminución del albedo",
+              "B": "Incremento del calor sensible (H) ?",
+              "C": "Reducción de la radiación neta (Rn)",
+              "D": "Aumento del flujo de calor al suelo (G)"
+            },
+            "respuesta_correcta": "B",
+            "sustento": "\"La disminución del LE al perderse los bosques eleva el H y, por ende, la temperatura del aire\" (Gómez et al., 2020). Esto muestra que la reducción del calor latente provoca un aumento del calor sensible, que es el proceso técnico directamente involucrado en el calentamiento del aire."
+          },
+          {
+            "id": "T1-P6",
+            "texto": "Del análisis presentado se desprende que, ¿cuál de los siguientes conjuntos de actores se menciona en el artículo como participantes tanto en la causa histórica de la deforestación como en las respuestas actuales al problema?",
+            "opciones": {
+              "A": "Solo empresas agroindustriales",
+              "B": "Solo comunidades indígenas",
+              "C": "Pueblos originarios, gobierno boliviano, ONG y comunidades indígenas ?",
+              "D": "Solo colonizadores españoles"
+            },
+            "respuesta_correcta": "C",
+            "sustento": "El artículo menciona explícitamente a los pueblos originarios (Aymara y Guarani) en la sección “Los Andes antes del contacto europeo”, a los colonizadores españoles en “La colonización española y la expansión agropecuaria”, al gobierno boliviano en “Industrialización y políticas de desarrollo en el siglo XX” y en “Respuestas actuales y perspectivas de gestión”, y a organizaciones no gubernamentales y comunidades indígenas en los mismos últimos párrafos donde se describen iniciativas de restauración forestal y pagos por servicios ambientales."
+          },
+          {
+            "id": "T1-P7",
+            "texto": "A partir de lo expuesto en el artículo, ¿cuál de las siguientes afirmaciones compara mejor el impacto de la expansión agropecuaria durante la colonización española con el de la expansión agrícola comercial del siglo XX sobre el aumento de la temperatura local?",
+            "opciones": {
+              "A": "Ambos tuvieron el mismo impacto térmico",
+              "B": "La colonización española tuvo mayor impacto térmico",
+              "C": "La expansión agrícola del siglo XX tuvo mayor impacto térmico ?",
+              "D": "Ninguna generó impacto térmico significativo"
+            },
+            "respuesta_correcta": "C",
+            "sustento": "El artículo indica que la expansión agrícola del siglo XX aceleró la deforestación (de 32 000 ha/año a 45 000 ha/año entre 1990-2020) y está vinculada a una disminución del flujo de calor latente (LE), lo que eleva la temperatura del aire. En cambio, la colonización española del siglo XVI provocó deforestación para minería y pastoreo, pero a una escala mucho menor y sin mencionar efectos directos sobre la temperatura; su impacto climático se describió como indirecto y menos pronunciado. Por lo tanto, la comparación que atribuye un mayor incremento térmico a la expansión agrícola del siglo XX es la que mejor refleja la información dispersa del texto."
+          },
+          {
+            "id": "T1-P8",
+            "texto": "Del análisis presentado se desprende que, al comparar el mecanismo de retroalimentación climática descrito para la pérdida de bosques con el papel de los sistemas agroforestales tradicionales, ¿cuál de las siguientes afirmaciones refleja con mayor precisión la diferencia clave entre ambos procesos?",
+            "opciones": {
+              "A": "La deforestación aumenta LE, mientras los sistemas agroforestales lo disminuyen",
+              "B": "La deforestación disminuye LE y aumenta H, mientras los sistemas agroforestales mantienen LE y regulan H ?",
+              "C": "Ambos procesos aumentan la temperatura por igual",
+              "D": "Los sistemas agroforestales aumentan H más que la deforestación"
+            },
+            "respuesta_correcta": "B",
+            "sustento": "Porque el texto indica que la deforestación disminuye el flujo de calor latente (LE) y, por tanto, eleva el calor sensible (H) y la temperatura del aire. En contraste, los sistemas agroforestales precolombinos combinaban cultivos con árboles, favoreciendo la conservación del suelo y la regulación hídrica, lo que implica una transpiración vegetal sostenida y un mayor LE, mitigando el aumento térmico."
+          },
+          {
+            "id": "T1-P9",
+            "texto": "A partir de lo expuesto en el artículo, ¿qué principio general se puede extraer sobre las consecuencias sociales de la deforestación en los Andes bolivianos?",
+            "opciones": {
+              "A": "Mejora la calidad de vida de las comunidades",
+              "B": "Aumenta la disponibilidad de recursos hídricos",
+              "C": "Reduce la vulnerabilidad de los suelos y aumenta la resiliencia comunitaria",
+              "D": "Afecta la disponibilidad de recursos y requiere participación comunitaria para la mitigación ?"
+            },
+            "respuesta_correcta": "D",
+            "sustento": "La deforestación reduce la capacidad de retención de agua y aumenta la vulnerabilidad de los suelos, lo que afecta directamente a las poblaciones locales que dependen de estos recursos. Además, se enfatiza que la restauración requiere la integración de saberes tradicionales y la participación activa de comunidades indígenas, lo que indica que la mitigación de los efectos sociales depende de estos factores."
+          },
+          {
+            "id": "T1-P10",
+            "texto": "A partir de lo expuesto en el artículo, ¿qué efecto indirecto es probable que tenga la ampliación del programa Biodiversidad Andina (2020-2024) sobre la vulnerabilidad de los sistemas agropecuarios locales frente a la variabilidad de precipitaciones?",
+            "opciones": {
+              "A": "Aumentará la vulnerabilidad al reducir el bosque",
+              "B": "Reducirá la vulnerabilidad al mejorar la retención de agua y modular el microclima ?",
+              "C": "No tendrá efecto alguno sobre los sistemas agropecuarios",
+              "D": "Aumentará la dependencia de riego artificial"
+            },
+            "respuesta_correcta": "B",
+            "sustento": "La pérdida de bosque reduce la capacidad de retención de agua en el suelo, amplificando los efectos de la sequía. Asimismo, se menciona que el programa Biodiversidad Andina ha sembrado 3,5 millones de árboles nativos y que la integración de saberes tradicionales con tecnologías de monitoreo permite una gestión adaptativa que identifica zonas con mayor estrés hídrico. De manera implícita, la restauración forestal incrementa la retención de agua y modula el microclima, lo que debería reducir la vulnerabilidad de los sistemas agropecuarios ante la mayor variabilidad de precipitaciones."
+          },
+          {
+            "id": "T1-P11",
+            "texto": "Según el artículo, ¿qué es probable que ocurra si la tendencia actual de expansión agrícola y pérdida de bosques en los Andes bolivianos continúa sin cambios durante la próxima década?",
+            "opciones": {
+              "A": "Disminución de la temperatura y aumento de las lluvias",
+              "B": "Aumento de al menos 0,3 °C en la temperatura, más sequías e incendios ?",
+              "C": "Recuperación natural de los bosques",
+              "D": "Estabilización del clima regional"
+            },
+            "respuesta_correcta": "B",
+            "sustento": "Porque el artículo muestra que entre 1990 y 2020 la temperatura media aumentó 0,6 °C y la pérdida forestal se aceleró a 45 000 ha/año entre 2005 y 2020. Estos datos indican una tendencia clara de calentamiento asociado a la deforestación. Además, se explica que la reducción del flujo latente (LE) eleva el calor sensible (H), lo que eleva la temperatura del aire y favorece sequías más intensas y mayor frecuencia de incendios, generando mayores emisiones de CO2 que retroalimentan el proceso. Por lo tanto, si la pérdida de bosques y la expansión agrícola continúan, se espera otro aumento de temperatura (al menos 0,3 °C en la próxima década) y más sequías e incendios."
+          },
+          {
+            "id": "T1-P12",
+            "texto": "De acuerdo con el texto, ¿cuál de las siguientes afirmaciones compara de manera más precisa los efectos de la disminución del flujo latente (LE) y del aumento del albedo sobre el balance energético y el calentamiento local en los Andes bolivianos?",
+            "opciones": {
+              "A": "Ambos procesos aumentan el calentamiento",
+              "B": "La disminución de LE aumenta el calentamiento, mientras el aumento del albedo lo modera ?",
+              "C": "La disminución de LE modera el calentamiento, mientras el aumento del albedo lo intensifica",
+              "D": "Ambos procesos moderan el calentamiento"
+            },
+            "respuesta_correcta": "B",
+            "sustento": "La pérdida de bosque reduce el flujo de energía latente (LE), lo que disminuye la transpiración y eleva el calor sensible (H), incrementando la temperatura local. Asimismo, menciona que la reducción del albedo (superficies más oscuras) disminuye la reflectancia y, por tanto, la radiación neta (R_n) absorbida, lo que tiende a moderar el calentamiento al reducir la energía disponible para calentamiento directo."
+          },
+          {
+            "id": "T1-P13",
+            "texto": "De acuerdo con el texto, ¿qué diferencia más significativa se puede inferir entre la forma en que la deforestación afectó el balance energético durante la colonización española y la que se observa en la expansión agrícola del siglo XXI?",
+            "opciones": {
+              "A": "En la colonización solo afectó el suelo, en el siglo XXI solo afecta el agua",
+              "B": "En la colonización afectó retención hídrica, en el siglo XXI afecta flujo de calor latente y temperatura ?",
+              "C": "Ambas tuvieron exactamente los mismos efectos",
+              "D": "La colonización tuvo mayor impacto en el balance energético"
+            },
+            "respuesta_correcta": "B",
+            "sustento": "La colonización española, la tala de bosques para carreteras y la introducción de ganado provocó sobrepastoreo y erosión del suelo, lo que afecta la retención hídrica. En contraste, en artículo también explica que la expansión agrícola del siglo XXI reduce el flujo latente (LE) al perderse la transpiración vegetal, lo que eleva el calor sensible (H) y, consecuentemente, la temperatura del aire."
+          },
+          {
+            "id": "T1-P14",
+            "texto": "Del análisis presentado se desprende que la iniciativa Biodiversidad Andina (2020-2024) tiene como objetivo principal...",
+            "opciones": {
+              "A": "Expandir la agricultura comercial",
+              "B": "Restaurar bosques y aportar resiliencia climática ?",
+              "C": "Promover la minería intensiva",
+              "D": "Reducir la población indígena en zonas forestales"
+            },
+            "respuesta_correcta": "B",
+            "sustento": "El programa Biodiversidad Andina (2020-2024) ha sembrado 3,5 millones de árboles nativos en áreas degradadas de los Yungas y que revive prácticas agroforestales tradicionales, con la finalidad de restaurar bosques y aportar resiliencia frente al cambio climático."
+          },
+          {
+            "id": "T1-P15",
+            "texto": "Basándose en la información proporcionada, ¿qué efecto indirecto es probable que haya tenido la apertura de la carretera Cochabamba-Santa Cruz (finalizada en 1978) sobre la capacidad de los pueblos indígenas de los Yungas para mantener sus sistemas agroforestales tradicionales?",
+            "opciones": {
+              "A": "Mejoró el acceso a mercados para sus productos",
+              "B": "Disminuyó el bosque disponible para sus sistemas tradicionales ?",
+              "C": "Incrementó la diversidad de cultivos",
+              "D": "No tuvo ningún efecto en sus prácticas"
+            },
+            "respuesta_correcta": "B",
+            "sustento": "La carretera Cochabamba-Santa Cruz, finalizada en 1978, \"abrió vastas áreas del bosque subtropical a la colonización de campesinos y empresas agroindustriales\". Esta apertura propició una aceleración de la deforestación, lo que implica una disminución del bosque disponible para los sistemas agroforestales tradicionales de los pueblos indígenas. Por otra parte, \"el gobierno boliviano, junto a organizaciones no gubernamentales y comunidades indígenas, ha promovido iniciativas de restauración forestal y pagos por servicios ambientales\", lo que sugiere que los pueblos tuvieron que recurrir a estas políticas como respuesta a la pérdida de sus áreas de manejo tradicional."
+          },
+          {
+            "id": "T1-P16",
+            "texto": "A partir de lo expuesto en el artículo, ¿qué consecuencia a largo plazo se puede deducir de la disminución del flujo de calor latente (LE) ocasionada por la deforestación en los Andes bolivianos?",
+            "opciones": {
+              "A": "Disminución de incendios forestales",
+              "B": "Condiciones más propicias para incendios más frecuentes e intensos ?",
+              "C": "Aumento de la humedad del suelo",
+              "D": "Reducción de la temperatura global"
+            },
+            "respuesta_correcta": "B",
+            "sustento": "La deforestación reduce el flujo de calor latente (LE), lo que eleva el calor sensible (H) y, por ende, la temperatura de la superficie (\"la disminución de LE al perderse los bosques eleva H y, por ende, la temperatura del aire\"). Además, en la sección de retroalimentaciones se menciona que el aumento de emisiones de CO2 proviene de la quema forestal y que estas emisiones intensifican el calentamiento global, potenciando la frecuencia de incendios. De esta forma, se puede inferir que la disminución de LE no solo calienta el aire, sino que crea condiciones más propicias para incendios más frecuentes e intensos."
+          },
+          {
+            "id": "T1-P17",
+            "texto": "El artículo señala que, a partir de los ejemplos históricos y los datos climáticos presentados, ¿qué principio general se puede extraer sobre la relación entre la deforestación y el clima en los Andes bolivianos?",
+            "opciones": {
+              "A": "La deforestación no afecta el clima local",
+              "B": "La deforestación reduce la temperatura y aumenta las lluvias",
+              "C": "La deforestación incrementa el calor sensible y la temperatura, afectando precipitaciones ?",
+              "D": "Solo afecta el clima en períodos de sequía"
+            },
+            "respuesta_correcta": "C",
+            "sustento": "La pérdida de bosque reduce el flujo de calor latente (LE) asociado a la transpiración, lo que incrementa el calor sensible (H) y, por ende, la temperatura del aire. Además, se menciona que esa reducción de LE y el aumento de temperatura están vinculados a una mayor variabilidad de precipitaciones y a una retroalimentación que intensifica incendios y deforestación."
+          },
+          {
+            "id": "T1-P18",
+            "texto": "El artículo señala que la iniciativa Biodiversidad Andina (2020-2024) fue implementada principalmente con la finalidad de:",
+            "opciones": {
+              "A": "Expandir la frontera agrícola",
+              "B": "Restaurar servicios ecosistémicos climáticos (retención hídrica, captura de CO2) ?",
+              "C": "Promover la minería sostenible",
+              "D": "Reducir la población rural"
+            },
+            "respuesta_correcta": "B",
+            "sustento": "El programa Biodiversidad Andina ha sembrado 3,5 millones de árboles nativos en áreas degradadas y que involucra a campesinos que reviven prácticas agroforestales tradicionales, con el objetivo de restaurar bosques y, por ende, mejorar la retención hídrica y la captura de CO2. La iniciativa busca \"restauración forestal\" y \"pago por servicios ambientales\", lo que implica reforzar los servicios ecosistémicos climáticos."
+          },
+          {
+            "id": "T1-P19",
+            "texto": "Según el artículo, ¿cuál es la finalidad principal de combinar los conocimientos agroforestales tradicionales con tecnologías de monitoreo satelital en los programas de restauración forestal actuales?",
+            "opciones": {
+              "A": "Reducir costos de implementación",
+              "B": "Mejorar la resiliencia de la restauración frente a condiciones climáticas adversas ?",
+              "C": "Eliminar la participación comunitaria",
+              "D": "Favorecer solo especies exóticas"
+            },
+            "respuesta_correcta": "B",
+            "sustento": "La integración de saberes ancestrales con monitoreo satelital permite \"una gestión adaptativa: los datos de sensores térmicos identifican zonas con mayor estrés hídrico, mientras que la ciencia del suelo orienta la selección de especies nativas con alta tolerancia a la sequía\". Este propósito se centra en mejorar la resiliencia de la restauración frente a condiciones climáticas adversas."
+          },
+          {
+            "id": "T1-P20",
+            "texto": "El artículo señala que la pérdida de bosque en los Andes bolivianos reduce la retención de agua y aumenta la variabilidad de precipitaciones; ¿qué consecuencia social se puede deducir de este proceso?",
+            "opciones": {
+              "A": "Mayor seguridad alimentaria para comunidades rurales",
+              "B": "Mayor vulnerabilidad de campesinos y posible migración a zonas urbanas ?",
+              "C": "Incremento de la producción agrícola",
+              "D": "Mejora en la generación hidroeléctrica"
+            },
+            "respuesta_correcta": "B",
+            "sustento": "La deforestación disminuye la capacidad del suelo para retener agua y aumenta la variabilidad de precipitaciones, lo que intensifica sequías que afectan la disponibilidad de agua para la agricultura y la generación hidroeléctrica. Estas condiciones generan mayor vulnerabilidad de los campesinos, quienes dependen del agua para cultivos y ganadería, y pueden verse forzados a migrar a zonas urbanas en busca de medios de vida más seguros."
+          },
+          {
+            "id": "T1-P21",
+            "texto": "Según el artículo, ¿qué principio general se puede extraer de las soluciones propuestas para mitigar la deforestación en los Andes bolivianos?",
+            "opciones": {
+              "A": "Solo se necesitan políticas estatales",
+              "B": "Solo se requiere tecnología avanzada",
+              "C": "Integración de conocimientos tradicionales con tecnologías modernas ?",
+              "D": "Exclusión de comunidades indígenas"
+            },
+            "respuesta_correcta": "C",
+            "sustento": "La combinación de conocimientos tradicionales (saberes ancestrales) con tecnologías de monitoreo satelital permite una gestión adaptativa de la restauración forestal. Esta integración se presenta como una línea central de las iniciativas de restauración y pagos por servicios ambientales."
+          },
+          {
+            "id": "T1-P22",
+            "texto": "A partir de lo expuesto en el artículo, ¿cuál de las siguientes consecuencias sociales relacionadas con la deforestación y el cambio climático en los Andes bolivianos no es contemplada en el análisis del autor?",
+            "opciones": {
+              "A": "Impactos en disponibilidad de agua para agricultura",
+              "B": "Desplazamiento forzado de poblaciones indígenas ?",
+              "C": "Mayor vulnerabilidad de campesinos",
+              "D": "Participación comunitaria en restauración"
+            },
+            "respuesta_correcta": "B",
+            "sustento": "El artículo describe detalladamente los impactos climáticos y menciona iniciativas de restauración y participación comunitaria, nunca aborda explícitamente el posible desplazamiento forzado de poblaciones indígenas originarias provocado por la expansión agrícola y la construcción de carreteras."
+          },
+          {
+            "id": "T1-P23",
+            "texto": "Considerando lo mencionado en el texto, ¿cuál de las siguientes afirmaciones describe mejor una implicación ética de promover la expansión de la agricultura comercial en los Andes bolivianos sin integrar los saberes agroforestales tradicionales?",
+            "opciones": {
+              "A": "Mejora la equidad social",
+              "B": "Perpetúa desigualdades sociales y culturales ?",
+              "C": "Fortalece la identidad indígena",
+              "D": "Promueve la justicia ambiental"
+            },
+            "respuesta_correcta": "B",
+            "sustento": "El artículo subraya que la integración de conocimientos ancestrales (p.ej., rotación de cultivos y gestión comunitaria) es esencial para una restauración resiliente y que la exclusión de estas prácticas perpetuaría desigualdades sociales y culturales. Además, se menciona que iniciativas como el programa Biodiversidad Andina buscan revitalizar saberes tradicionales, lo que indica una dimensión ética al reconocer y valorar a las comunidades indígenas."
+          },
+          {
+            "id": "T1-P24",
+            "texto": "A partir de lo expuesto en el artículo, ¿cuáles son las principales implicaciones ambientales de la retroalimentación entre la deforestación y el cambio climático descrita?",
+            "opciones": {
+              "A": "Solo aumento de temperatura",
+              "B": "Aumento de temperatura, emisiones de CO2, reducción de retención de agua e intensificación de sequías e incendios ?",
+              "C": "Solo reducción de biodiversidad",
+              "D": "Mejora en la calidad del suelo"
+            },
+            "respuesta_correcta": "B",
+            "sustento": "El artículo señala que la pérdida de bosque disminuye el flujo latente de energía (LE), lo que eleva la temperatura del aire, y que la quema de residuos forestales emite alrededor de 12 MtCO2 al año. Además, la reducción del dosel disminuye la retención de agua en el suelo, intensificando la sequía y facilitando incendios, como se describe en la discusión de retroalimentaciones climáticas."
+          },
+          {
+            "id": "T1-P25",
+            "texto": "Considerando lo mencionado en el texto, ¿cómo difiere la propuesta de gestión futura de una estrategia que se basara exclusivamente en tecnologías de monitoreo satelital sin integrar saberes tradicionales?",
+            "opciones": {
+              "A": "Sería más efectiva y barata",
+              "B": "Carecería de adaptación al contexto local y saberes ancestrales ?",
+              "C": "Eliminaría completamente la deforestación",
+              "D": "No diferiría en nada"
+            },
+            "respuesta_correcta": "B",
+            "sustento": "El programa Biodiversidad Andina incorpora saberes tradicionales (rotación de cultivos, gestión comunitaria) y que, al mismo tiempo, se utilizan tecnologías de monitoreo satelital y sensores térmicos para identificar zonas con mayor estrés hídrico, describiendo un enfoque híbrido. Las opciones 1, 2 y 3 distorsionan la información del artículo: no se menciona una plantación exclusiva de especies exóticas, ni se limita la propuesta a PSA sin tecnología, ni se plantea que el sector privado sea el único agente de la gestión futura."
+          },
+          {
+            "id": "T1-P26",
+            "texto": "Del análisis presentado se desprende que, para una evaluación completa del balance energético regional, ¿qué factor relevante no ha sido considerado por el autor?",
+            "opciones": {
+              "A": "Efecto de la expansión urbana y otras conversiones de suelo no forestales ?",
+              "B": "Impacto de la minería",
+              "C": "Efecto de la agricultura tradicional",
+              "D": "Influencia de la altitud"
+            },
+            "respuesta_correcta": "A",
+            "sustento": "La pérdida de cobertura forestal y su efecto en el balance energético (párrafo 3, ecuación Q = Rn - G - H - LE) y menciona la expansión agrícola y minera como causas principales, pero no aborda la posible expansión urbana ni otras conversiones de suelo que tampoco están cubiertas por bosques. Estas áreas, aunque no forestales, pueden alterar la reflectancia (albedo) y la evaporación, afectando directamente H y, por ende, la temperatura regional."
+          },
+          {
+            "id": "T1-P27",
+            "texto": "Del análisis presentado se desprende que el autor omite considerar cuál de los siguientes factores al evaluar los impactos climáticos de la deforestación en los Andes bolivianos?",
+            "opciones": {
+              "A": "Procesos biogeoquímicos",
+              "B": "Datos satelitales",
+              "C": "Factores socio-económicos como políticas de mercado y demanda internacional ?",
+              "D": "Variables físicas del clima"
+            },
+            "respuesta_correcta": "C",
+            "sustento": "El artículo describe detalladamente procesos biogeoquímicos y energéticos (albedo, emisiones de CO2, flujo de calor latente) y utiliza datos satelitales para cuantificar la pérdida forestal, no aborda el componente socio-económico que impulsa la expansión agrícola, como las políticas de mercado y la demanda internacional de soja. Esta ausencia representa un sesgo metodológico al centrarse exclusivamente en variables físicas sin considerar los motores económicos que, según la literatura, son clave en la deforestación contemporánea."
+          },
+          {
+            "id": "T1-P28",
+            "texto": "De acuerdo con el texto, ¿qué tipo de evidencia adicional sería necesaria para reforzar el argumento de que la expansión agropecuaria durante la colonización española provocó una erosión significativa del suelo?",
+            "opciones": {
+              "A": "Más referencias históricas",
+              "B": "Estudios de campo que midan directamente la pérdida de capa superficial del suelo ?",
+              "C": "Datos satelitales de la época",
+              "D": "Testimonios de comunidades indígenas"
+            },
+            "respuesta_correcta": "B",
+            "sustento": "Se describe cómo la introducción del ganado durante la colonización española generó sobrepastoreo y erosionó el suelo, pero el texto no aporta datos cuantitativos de esa erosión. Por ello, la evidencia más adecuada para fortalecer el argumento sería la realización de estudios de campo que midan directamente la pérdida de capa superficial del suelo en las áreas afectadas y la comparen con zonas no intervenidas, lo que permite establecer una relación causal clara."
+          },
+          {
+            "id": "T1-P29",
+            "texto": "La lectura del texto permite identificar que el argumento del autor, según el cual la disminución del flujo de calor latente (LE) por la pérdida de bosque eleva directamente la temperatura del aire al incrementar el calor sensible (H), es:",
+            "opciones": {
+              "A": "Especulativo sin base científica",
+              "B": "Válido según el modelo de balance energético presentado ?",
+              "C": "Contradictorio con los datos climáticos",
+              "D": "Basado solo en observaciones anecdóticas"
+            },
+            "respuesta_correcta": "B",
+            "sustento": "El texto presenta explícitamente la ecuación del balance energético Q = Rn - G - H - LE y afirma que la disminución de LE al perderse los bosques eleva H y, en consecuencia, la temperatura del aire (Gómez et al., 2020). Este razonamiento está respaldado por la explicación del modelo, lo que confiere validez al argumento del autor."
+          },
+          {
+            "id": "T1-P30",
+            "texto": "Considerando lo mencionado en el texto, ¿qué tan válido es el argumento del autor sobre la efectividad de los pagos por servicios ambientales (PSA) como solución para mitigar la deforestación en los Andes bolivianos?",
+            "opciones": {
+              "A": "Completamente inválido",
+              "B": "Razonablemente válido, aunque requiere más evidencia de reducción de deforestación ?",
+              "C": "Totalmente válido sin reservas",
+              "D": "No se puede evaluar con la información dada"
+            },
+            "respuesta_correcta": "B",
+            "sustento": "El programa Biodiversidad Andina (2020-2024) ha sembrado 3,5 millones de árboles nativos y junto a los pagos por servicios ambientales, se busca integrar saberes tradicionales para restaurar bosques. Esta información sustenta que los PSA forman parte de una estrategia con resultados concretos, aunque el texto no ofrece métricas exactas de reducción de deforestación, lo que justifica calificar el argumento como razonablemente válido."
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "titulo": "EDUCACIÓN DIGITAL Y LA BRECHA DE CONECTIVIDAD EN BOLIVIA",
+        "contenido_completo": "Resumen:\nEl proceso de digitalización de la educación ha cobrado una relevancia sin precedentes tras la pandemia de COVID-19, revelando y ampliando la brecha de conectividad en países en desarrollo. En Bolivia, la transición hacia modalidades híbridas y a distancia confronta limitaciones estructurales como la falta de infraestructura de internet en zonas rurales, la escasa disponibilidad de dispositivos electrónicos y la desigualdad en la preparación docente. Este artículo revisa la evidencia empírica disponible sobre el nivel de acceso a tecnologías de la información y la comunicación (TIC) en el sistema educativo boliviano, analiza los impactos de la brecha digital en el rendimiento académico y la equidad, y discute iniciativas públicas y privadas que buscan mitigar estos problemas. Se presentan datos de organismos internacionales y nacionales que muestran que, a finales de 2023, solo el 42% de los estudiantes de educación primaria y el 58% de los de secundaria tenían acceso regular a una conexión de banda ancha en el hogar. A partir de este diagnóstico, se evalúan propuestas como la expansión de la red de fibra óptica en áreas campesinas, los programas de dispositivos shared en centros comunitarios y la capacitación docente en metodologías de aprendizaje en línea. El artículo concluye con una reflexión sobre la necesidad de políticas integradas que consideren la infraestructura, la formación docente y la participación comunitaria como pilares para una educación digital inclusiva en Bolivia.\n\nIntroducción:\nLa educación ha experimentado una transformación acelerada por la emergencia sanitaria global, obligando a los sistemas escolares a adoptar modalidades de enseñanza remota casi de manera instantánea. En contextos con alta penetración de internet, este cambio ha sido más fluido; sin embargo, en Bolivia, donde la geografía montañosa y la dispersión de la población rural dificultan la infraestructura de telecomunicaciones, la digitalización ha puesto de manifiesto una brecha de conectividad que amenaza la igualdad de oportunidades educativas. La brecha digital se define como la diferencia entre quienes pueden acceder y utilizar eficazmente las TIC y quienes no lo pueden, y se traduce en disparidades en el acceso a recursos pedagógicos, interacción docente-estudiante y evaluación continua (UNESCO, 2022). Este artículo explora, desde una perspectiva científica, los principales desafíos que enfrenta la educación digital en Bolivia y las soluciones emergentes que están tomando forma en la política pública y en la innovación social.\n\nDesarrollo:\n\n1. Panorama de la conectividad y su impacto en el aprendizaje\nLos datos del Instituto Nacional de Estadística (INE) revelan que, en 2023, la tasa de acceso a internet en hogares urbanos alcanzó el 71%, mientras que en áreas rurales se situó en apenas el 33% (INE, 2023). Esta disparidad se refleja en el desempeño académico: estudiantes con acceso regular a internet mostraron, en promedio, un aumento del 12% en sus puntajes de matemática y lectura en los exámenes estandarizados nacionales, comparado con sus pares sin acceso (Banco Mundial, 2023). La falta de conectividad limita la capacidad de los docentes para emplear plataformas de gestión del aprendizaje (LMS) y dificulta la participación de los estudiantes en actividades interactivas, provocando deserción y rezago escolar.\n\nEn la práctica cotidiana, un estudiante de la comunidad de San Ignacio, ubicada en el departamento de Puno, debe recorrer más de dos horas a pie para llegar al centro de conectividad más cercano. La imposibilidad de asistir a clases virtuales en tiempo real obliga a los docentes a enviar materiales en formato PDF que quedan sin la retroalimentación inmediata que ofrece la interacción sincrónica. Este caso ilustra cómo la brecha de conectividad se traduce en una brecha de aprendizaje, perpetuando desigualdades socio-económicas históricas.\n\n2. Factores estructurales que perpetúan la brecha\nLa insuficiente infraestructura de telecomunicaciones constituye el primer obstáculo. Según la Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes (ATT), la cobertura de fibra óptica en el territorio nacional alcanza sólo el 24% de los municipios, concentrándose principalmente en la zona de Santa Cruz y La Paz (ATT, 2022). Además, la disponibilidad de dispositivos, como computadoras portátiles o tabletas, es limitada: la Encuesta de Equipamiento Escolar muestra que el 38% de las escuelas rurales carecen de al menos un computador por cada veinte estudiantes.\n\nOtro factor relevante es la preparación docente. La transición abrupta a la educación en línea reveló que muchos profesores no estaban familiarizados con herramientas digitales, lo que redujo la calidad de la enseñanza. Un estudio del Ministerio de Educación (2021) indica que sólo el 27% de los docentes de educación secundaria había recibido capacitación formal en pedagogía digital antes de la pandemia.\n\n3. Soluciones emergentes y buenas prácticas\n\nExpansión de infraestructura\nEn respuesta, el gobierno boliviano lanzó en 2022 el Programa Nacional de Conectividad Rural (PNCR), cuyo objetivo es instalar 1 200 kilómetros de fibra óptica en comunidades campesinas antes de 2025. La ejecución del proyecto se apoya en alianzas público-privadas con empresas de telecomunicaciones, lo que ha permitido reducir el costo promedio por kilómetro en un 15% respecto a estimaciones previas (Ministerio de Obras Públicas, 2023). Asimismo, se está implementando la tecnología de radio enlace de corto alcance en zonas de difícil acceso, una solución que ha demostrado efectividad en la región del Beni, donde la topografía dificulta la instalación de cables subterráneos.\n\nProgramas de dispositivos compartidos\nOtra estrategia consiste en la creación de \"bibliotecas digitales\" comunitarias, espacios equipados con computadoras, tablets y acceso a internet de alta velocidad que funcionan como centros de aprendizaje fuera del horario escolar. En la localidad de Tarija, la organización No Profit \"ConectaTI\" gestionó la donación de 120 tablets que son rotativas entre escuelas y hogares, reduciendo la brecha de dispositivos en un 40% según los datos del proyecto (ConectaTI, 2023).\n\nCapacitación docente continua\nEn el ámbito formativo, la Universidad Mayor de San Andrés (UMSA) emprendió el Programa de Formación Docente en Tecnologías Educativas (FOTED), que combina cursos en línea con talleres presenciales. Desde su inicio, más de 3 500 docentes han completado módulos sobre diseño de recursos multimedia, evaluación en entornos virtuales y gestión de aulas híbridas. Los participantes reportan una mejora del 30% en su confianza para usar plataformas de aprendizaje y una mayor incorporación de actividades interactivas en sus clases (UMSA, 2024).\n\nEnfoque comunitario y participación de los padres\nLa participación activa de la comunidad ha mostrado resultados positivos. En la región de Potosí, la iniciativa \"Escuelas Conectadas\" involucra a los padres de familia en la gestión de la conectividad local, estableciendo comités de mantenimiento de los equipos y organizando horarios de uso equitativo. Este modelo de gestión colaborativa ha aumentado la frecuencia de uso de los recursos digitales en un 55% y ha favorecido la motivación de los estudiantes al percibir el apoyo directo de sus entornos familiares.\n\nConclusiones:\nLa educación digital en Bolivia se encuentra en una fase crítica en la que la brecha de conectividad puede convertirse en un factor determinante para la equidad educativa del país. Los datos evidencian que la falta de acceso a internet y a dispositivos electrónicos afecta directamente el rendimiento académico y amplía las diferencias entre áreas urbanas y rurales. Sin embargo, los esfuerzos recientes –la expansión de infraestructura de fibra óptica, los centros de dispositivos compartidos, la capacitación docente y la participación comunitaria– demuestran que soluciones integrales y contextualizadas pueden cerrar gradualmente esa brecha.\n\nPara consolidar estos avances, es esencial que las políticas públicas adopten un enfoque sistémico que considere simultáneamente la inversión en infraestructura, la formación continua de los docentes y la creación de entornos de aprendizaje colaborativos. Además, la evaluación constante de los programas mediante indicadores claros permitirá ajustar estrategias y asegurar que los recursos lleguen a los estudiantes más vulnerables. En última instancia, una educación digital inclusiva no sólo mejorará los resultados académicos, sino que también potenciará la capacidad de los jóvenes bolivianos para participar activamente en la sociedad del conocimiento del siglo XXI.",
+        "preguntas": [
+          {
+            "id": "T2-P1",
+            "texto": "Según el artículo, ¿cómo se define el concepto de brecha digital?",
+            "opciones": {
+              "A": "La diferencia entre quienes tienen acceso a dispositivos y quienes no",
+              "B": "La diferencia entre quienes pueden acceder y utilizar eficazmente las TIC y quienes no lo pueden ?",
+              "C": "La desigualdad en la velocidad de internet entre zonas urbanas y rurales",
+              "D": "La falta de capacitación docente en tecnologías educativas"
+            },
+            "respuesta_correcta": "B",
+            "sustento": "El artículo establece explícitamente: \"La brecha digital se define como la diferencia entre quienes pueden acceder y utilizar eficazmente las TIC y quienes no lo pueden\"."
+          },
+          {
+            "id": "T2-P2",
+            "texto": "A partir de lo expuesto en el artículo, establecer la secuencia correcta de los siguientes indicadores de conectividad y acceso en Bolivia en 2023: (i) porcentaje de hogares urbanos con internet, (ii) porcentaje de hogares rurales con internet, (iii) porcentaje de estudiantes de primaria con acceso regular a banda ancha en el hogar, (iv) porcentaje de estudiantes de secundaria con acceso regular a banda ancha en el hogar.",
+            "opciones": {
+              "A": "(i) 71%, (ii) 33%, (iii) 42%, (iv) 58% ?",
+              "B": "(i) 33%, (ii) 71%, (iii) 58%, (iv) 42%",
+              "C": "(i) 42%, (ii) 58%, (iii) 71%, (iv) 33%",
+              "D": "(i) 58%, (ii) 42%, (iii) 33%, (iv) 71%"
+            },
+            "respuesta_correcta": "A",
+            "sustento": "La tasa de acceso a internet en hogares urbanos es del 71% (INE, 2023); en zonas rurales es del 33% (INE, 2023); el 42% de los estudiantes de educación primaria tenía acceso regular a banda ancha en el hogar a finales de 2023; y el 58% de los estudiantes de secundaria contaba con ese acceso."
+          },
+          {
+            "id": "T2-P3",
+            "texto": "La lectura del texto permite identificar que, según el artículo, los pilares que deben integrar las políticas públicas para lograr una educación digital inclusiva en Bolivia son:",
+            "opciones": {
+              "A": "Solo infraestructura tecnológica",
+              "B": "Solo capacitación docente",
+              "C": "Infraestructura, formación docente y participación comunitaria ?",
+              "D": "Solo participación comunitaria y dispositivos"
+            },
+            "respuesta_correcta": "C",
+            "sustento": "En el artículo se afirma que las políticas públicas deben adoptar un enfoque sistémico que considere simultáneamente \"la inversión en infraestructura, la formación continua de los docentes y la creación de entornos de aprendizaje colaborativos\", y se menciona además que la participación comunitaria es un pilar esencial."
+          },
+          {
+            "id": "T2-P4",
+            "texto": "Según el artículo, ¿qué universidad implementó el Programa de Formación Docente en Tecnologías Educativas (FOTED)?",
+            "opciones": {
+              "A": "Universidad Católica Boliviana",
+              "B": "Universidad Mayor de San Andrés (UMSA) ?",
+              "C": "Universidad Autónoma Tomás Frías",
+              "D": "Universidad de La Paz"
+            },
+            "respuesta_correcta": "B",
+            "sustento": "El artículo indica explícitamente que \"la Universidad Mayor de San Andrés (UMSA) emprendió el Programa de Formación Docente en Tecnologías Educativas (FOTED)\" y menciona los resultados alcanzados por esa iniciativa."
+          },
+          {
+            "id": "T2-P5",
+            "texto": "Considerando lo mencionado en el texto, ¿en qué porcentaje se redujo el costo promedio por kilómetro de fibra óptica respecto a estimaciones previas, según el Programa Nacional de Conectividad Rural?",
+            "opciones": {
+              "A": "10%",
+              "B": "15% ?",
+              "C": "20%",
+              "D": "25%"
+            },
+            "respuesta_correcta": "B",
+            "sustento": "En el apartado de 'Expansión de infraestructura' se indica que la alianza pública-privada permitió \"reducir el costo promedio por kilómetro en un 15% respecto a estimaciones previas\" (Ministerio de Obras Públicas, 2023). Las demás opciones presentan porcentajes que no aparecen en el artículo."
+          },
+          {
+            "id": "T2-P6",
+            "texto": "Del análisis presentado se desprende que la barrera principal para lograr una educación digital equitativa en Bolivia es...",
+            "opciones": {
+              "A": "Solo la falta de infraestructura de fibra óptica",
+              "B": "Solo la escasez de dispositivos electrónicos",
+              "C": "Solo la falta de capacitación docente",
+              "D": "La combinación de infraestructura insuficiente, escasez de dispositivos y baja preparación docente ?"
+            },
+            "respuesta_correcta": "D",
+            "sustento": "El artículo señala tres factores estructurales que perpetúan la brecha digital: (1) la cobertura de fibra óptica alcanza solo el 24% de los municipios, indicando una infraestructura insuficiente; (2) el 38% de las escuelas rurales carecen de al menos un computador por cada veinte estudiantes, lo que muestra escasez de dispositivos; y (3) solo el 27% de los docentes de secundaria había recibido capacitación formal en pedagogía digital antes de la pandemia. El texto enfatiza que la combinación de estos problemas, no uno solo, es la razón de la limitación de la educación digital."
+          },
+          {
+            "id": "T2-P7",
+            "texto": "La lectura del texto permite identificar que, para cerrar la brecha de aprendizaje asociada a la falta de conectividad, es necesario:",
+            "opciones": {
+              "A": "Solo expandir la fibra óptica",
+              "B": "Solo distribuir dispositivos",
+              "C": "Solo capacitar docentes",
+              "D": "Combinar expansión de infraestructura, programas de dispositivos compartidos y capacitación docente ?"
+            },
+            "respuesta_correcta": "D",
+            "sustento": "El artículo muestra que la brecha de aprendizaje se debe a una combinación de factores estructurales (infraestructura insuficiente, falta de dispositivos y escasa preparación docente). Los resultados presentados indican que la expansión de fibra óptica y radio enlace (infraestructura), las \"bibliotecas digitales\" con tablets compartidas (dispositivos) y el Programa FOTED de capacitación docente (confianza y habilidades) han producido mejoras simultáneas en acceso, uso y calidad de la enseñanza. Los autores concluyen que \"políticas integradas que consideren la infraestructura, la formación docente y la participación comunitaria\" son esenciales para una educación digital inclusiva, lo que confirma que solo la combinación de esas intervenciones puede cerrar efectivamente la brecha."
+          },
+          {
+            "id": "T2-P8",
+            "texto": "La lectura del texto permite identificar que, para reducir la brecha de conectividad digital en Bolivia, la estrategia más eficaz es:",
+            "opciones": {
+              "A": "Solo la expansión de fibra óptica",
+              "B": "Solo programas de dispositivos compartidos",
+              "C": "Solo capacitación docente",
+              "D": "La combinación de infraestructura, dispositivos, capacitación y participación comunitaria ?"
+            },
+            "respuesta_correcta": "D",
+            "sustento": "El artículo muestra, en varios apartados, que ni la sola expansión de fibra óptica, ni únicamente los programas de dispositivos compartidos, ni solo la capacitación docente logran cerrar la brecha de forma integral. Cada una de esas iniciativas se menciona como parte de un conjunto de soluciones emergentes que, al combinarse, atienden la falta de infraestructura, la escasez de equipos y la preparación docente, además de reforzar la participación comunitaria."
+          },
+          {
+            "id": "T2-P9",
+            "texto": "Basándose en la información proporcionada, ¿cuál de las siguientes afirmaciones refleja con mayor precisión la diferencia económica entre la expansión de la fibra óptica y los programas de dispositivos compartidos en Bolivia?",
+            "opciones": {
+              "A": "La fibra óptica redujo costos en 15%, los dispositivos compartidos redujeron brecha en 40% ?",
+              "B": "La fibra óptica aumentó costos en 20%, los dispositivos compartidos ahorraron 30%",
+              "C": "Ambas estrategias tuvieron el mismo impacto económico",
+              "D": "Solo la fibra óptica tuvo impacto económico significativo"
+            },
+            "respuesta_correcta": "A",
+            "sustento": "El texto indica que la expansión de la fibra óptica redujo el costo promedio por kilómetro en un 15% (Ministerio de Obras Públicas, 2023) y que los programas de dispositivos compartidos, como la iniciativa de ConectaTi en Tarija, disminuyeron la brecha de dispositivos en un 40% (ConectaTi, 2023)."
+          },
+          {
+            "id": "T2-P10",
+            "texto": "Del análisis presentado se desprende que, respecto a los actores involucrados en la reducción de la brecha digital en Bolivia, la estrategia más eficaz combina...",
+            "opciones": {
+              "A": "Solo gobierno y empresas",
+              "B": "Solo ONG y comunidades",
+              "C": "Solo universidades y docentes",
+              "D": "Gobierno, empresas, ONG, comunidades y universidades ?"
+            },
+            "respuesta_correcta": "D",
+            "sustento": "El artículo señala que cerrar la brecha digital requiere una combinación de acciones: la expansión de la infraestructura de fibra óptica (Programa Nacional de Conectividad Rural), los programas de dispositivos compartidos como las bibliotecas digitales (ConectaTI) y la participación comunitaria (comités de padres en Potosí). Además, la capacitación docente (Programa FOTED) se menciona como otro pilar esencial. Estas tres dimensiones aparecen en distintos párrafos y su interacción es resaltada como clave para una educación digital inclusiva."
+          },
+          {
+            "id": "T2-P11",
+            "texto": "Según el artículo, ¿cuál de los siguientes efectos en la educación rural se produce por la insuficiente cobertura de fibra óptica en municipios bolivianos?",
+            "opciones": {
+              "A": "Mayor participación de padres en la gestión escolar",
+              "B": "Incremento de la deserción escolar ?",
+              "C": "Reducción de la brecha de dispositivos",
+              "D": "Mejora en puntajes de matemática y lectura"
+            },
+            "respuesta_correcta": "B",
+            "sustento": "El texto no menciona explícitamente que la falta de fibra óptica cause deserción escolar, sí indica que la escasa conectividad limita la capacidad de los docentes para usar plataformas de aprendizaje y obliga a los estudiantes a depender de materiales pasivos, lo que \"provoca deserción y rezago escolar\". Además, se señala que la cobertura de fibra óptica solo alcanza el 24% de los municipios, concentrándose en zonas urbanas, lo que implica que la mayoría de áreas rurales carecen de esta infraestructura, dificultando la asistencia a clases virtuales y, por ende, incrementando la probabilidad de abandono escolar. Las demás opciones son incorrectas: la mayor participación de los padres se asocia a iniciativas como \"Escuelas Conectadas\" en Potosí, no a la falta de fibra; la reducción de la brecha de dispositivos se relaciona con programas de dispositivos compartidos, no con la cobertura de fibra; y la mejora en puntajes se vincula a estudiantes con acceso regular a internet, no a la carencia de fibra, por lo que no puede atribuirse a la insuficiente cobertura."
+          },
+          {
+            "id": "T2-P12",
+            "texto": "Según el artículo, considerando la expansión de la red de fibra óptica en comunidades campesinas y la implementación de radio enlace en zonas de difícil acceso, ¿qué es probable que ocurra en el desempeño académico de los estudiantes rurales dentro de los próximos tres años?",
+            "opciones": {
+              "A": "Disminución del rendimiento académico",
+              "B": "Incremento aproximado del 10% en sus puntajes ?",
+              "C": "No habrá cambios significativos",
+              "D": "Solo mejorará en áreas urbanas"
+            },
+            "respuesta_correcta": "B",
+            "sustento": "El artículo indica, que los estudiantes con acceso regular a internet presentan un aumento del 12% en sus puntajes de matemática y lectura. Además, se describe la expansión de fibra óptica y la implementación de radio enlace como medidas destinadas a mejorar la conectividad en áreas rurales. Al combinar ambos datos, es razonable inferir que, al ampliar la cobertura de internet, los estudiantes rurales experimentarán un incremento similar, alrededor del 10%, en sus resultados académicos dentro de un horizonte de tres años."
+          },
+          {
+            "id": "T2-P13",
+            "texto": "A partir del artículo, al comparar la expansión de fibra óptica y la tecnología de radio enlace de corto alcance, ¿cuál de las siguientes afirmaciones refleja mejor la relación entre la topografía de la zona y la elección de la solución tecnológica?",
+            "opciones": {
+              "A": "La fibra óptica es mejor para zonas montañosas",
+              "B": "El radio enlace es más efectivo en zonas de difícil acceso ?",
+              "C": "Ambas son igualmente efectivas en cualquier topografía",
+              "D": "Solo la fibra óptica puede usarse en áreas rurales"
+            },
+            "respuesta_correcta": "B",
+            "sustento": "El artículo indica que la cobertura de fibra óptica está concentrada principalmente en Santa Cruz y La Paz, mientras que la tecnología de radio enlace de corto alcance se ha implementado en zonas de difícil acceso, destacando su efectividad en la región del Beni."
+          },
+          {
+            "id": "T2-P14",
+            "texto": "Del análisis presentado se desprende que, para reducir la brecha de conectividad en la educación boliviana, la estrategia más eficaz consiste en...",
+            "opciones": {
+              "A": "Solo instalar fibra óptica",
+              "B": "Solo capacitar docentes",
+              "C": "Solo distribuir tablets",
+              "D": "Combinar expansión de infraestructura, dispositivos compartidos y capacitación docente ?"
+            },
+            "respuesta_correcta": "D",
+            "sustento": "El artículo destaca que la expansión de infraestructura (p. \"instalar 1 200 km de fibra óptica\"), los programas de dispositivos compartidos (p. \"bibliotecas digitales\" y el caso de Tarija) y la capacitación docente continua (p. \"Programa de Formación Docente en Tecnologías Educativas\") se presentan como componentes complementarios para cerrar la brecha digital. Además, en la conclusión se subraya la necesidad de políticas integradas que consideren infraestructura, formación docente y participación comunitaria."
+          },
+          {
+            "id": "T2-P15",
+            "texto": "De acuerdo con el texto, ¿qué efecto probable tendría la ampliación de la cobertura de fibra óptica en municipios rurales sobre el rendimiento académico de los estudiantes?",
+            "opciones": {
+              "A": "Disminución del rendimiento",
+              "B": "Incremento similar al 12% observado en estudiantes con acceso regular ?",
+              "C": "No tendría efecto alguno",
+              "D": "Solo mejoraría el acceso pero no el rendimiento"
+            },
+            "respuesta_correcta": "B",
+            "sustento": "El texto indica que los estudiantes con acceso regular a internet obtienen un aumento promedio del 12% en sus puntajes de matemática y lectura. Al ampliar la cobertura de fibra óptica en municipios rurales, se mejora la conectividad en esas zonas, lo que implícitamente permite que más estudiantes dispongan de acceso regular a internet; por lo tanto, es razonable inferir que sus rendimientos académicos experimentarían un incremento similar al mencionado."
+          },
+          {
+            "id": "T2-P16",
+            "texto": "La lectura del texto permite identificar que el propósito principal de combinar la expansión de infraestructura de fibra óptica, los programas de dispositivos compartidos y la capacitación docente continua es:",
+            "opciones": {
+              "A": "Solo reducir costos económicos",
+              "B": "Cerrar la brecha digital y mejorar equidad educativa ?",
+              "C": "Solo cumplir metas internacionales",
+              "D": "Reemplazar a los docentes por tecnología"
+            },
+            "respuesta_correcta": "B",
+            "sustento": "El Programa Nacional de Conectividad Rural (PNCR) busca instalar fibra óptica en comunidades campesinas, los \"bibliotecas digitales\" y la donación de tablets persiguen reducir la falta de dispositivos, y el programa FOTED de la UMSA procura capacitar a los docentes. Estas tres líneas de acción se describen como estrategias integrales que, según la sección de conclusiones, buscan \"cerrar gradualmente esa brecha\" y mejorar el rendimiento académico y la equidad entre áreas urbanas y rurales."
+          },
+          {
+            "id": "T2-P17",
+            "texto": "Según el texto, a partir de los ejemplos de expansión de fibra óptica, programas de dispositivos compartidos, capacitación docente y participación comunitaria, ¿qué principio general se puede inferir sobre la estrategia más eficaz para reducir la brecha digital en Bolivia?",
+            "opciones": {
+              "A": "Solo se necesita una de las intervenciones",
+              "B": "La combinación de múltiples intervenciones es necesaria ?",
+              "C": "Las intervenciones deben ser secuenciales, no simultáneas",
+              "D": "Solo el sector privado puede resolver el problema"
+            },
+            "respuesta_correcta": "B",
+            "sustento": "El artículo describe varias iniciativas (expansión de fibra óptica y radio enlace, bibliotecas digitales, programa FOTED y comités de padres) y concluye que solo mediante políticas integradas que incluyan infraestructura, equipamiento, capacitación y apoyo comunitario se podrá cerrar la brecha digital de manera sostenible."
+          },
+          {
+            "id": "T2-P18",
+            "texto": "A partir de lo expuesto en el artículo, ¿qué consecuencia social general se puede inferir de la implementación de soluciones integrales de conectividad digital en las zonas rurales de Bolivia?",
+            "opciones": {
+              "A": "Mayor desigualdad educativa",
+              "B": "Mayor equidad educativa y participación en sociedad del conocimiento ?",
+              "C": "Dependencia tecnológica exclusiva",
+              "D": "Desaparición de la educación presencial"
+            },
+            "respuesta_correcta": "B",
+            "sustento": "El artículo concluye que una educación digital inclusiva, basada en infraestructura, formación docente y participación comunitaria, no solo mejora los resultados académicos, sino que también potencia la capacidad de los jóvenes bolivianos para participar activamente en la sociedad del conocimiento, lo que refleja una mayor equidad educativa y consecuencias sociales positivas."
+          },
+          {
+            "id": "T2-P19",
+            "texto": "El artículo señala que, tras la capacitación docente en tecnologías educativas que elevó la confianza de los profesores en un 30%, ¿qué consecuencia podría deducirse en la práctica pedagógica de las clases híbridas?",
+            "opciones": {
+              "A": "Menor uso de plataformas digitales",
+              "B": "Mayor incorporación de actividades interactivas ?",
+              "C": "Reducción de la participación estudiantil",
+              "D": "Abandono de metodologías tradicionales"
+            },
+            "respuesta_correcta": "B",
+            "sustento": "El Programa de Formación Docente en Tecnologías Educativas (FOTED), más de 3 500 docentes reportaron una mejora del 30% en su confianza para usar plataformas de aprendizaje y, como consecuencia, incrementaron la incorporación de actividades interactivas en sus clases (UMSA, 2024). Esta relación de causa-efecto es implícita: mayor confianza docente lleva a un uso más activo de recursos interactivos."
+          },
+          {
+            "id": "T2-P20",
+            "texto": "El artículo señala que la expansión de fibra óptica y los programas de dispositivos compartidos buscan reducir la brecha digital. Según la información del texto, ¿cuál de estos enfoques muestra un impacto más inmediato en la participación de los estudiantes en actividades digitales?",
+            "opciones": {
+              "A": "Solo la fibra óptica",
+              "B": "Solo los programas de dispositivos compartidos ?",
+              "C": "Ambos por igual",
+              "D": "Ninguno tiene impacto inmediato"
+            },
+            "respuesta_correcta": "B",
+            "sustento": "El texto describe que las bibliotecas digitales y los proyectos de dispositivos compartidos han provocado mejoras rápidas: ConectaTI redujo la brecha de dispositivos en un 40% y la iniciativa 'Escuelas Conectadas' aumentó la frecuencia de uso de recursos digitales en un 55%. Estos datos indican un efecto inmediato en la participación estudiantil. En cambio, la expansión de fibra óptica, aunque esencial, se plantea como un proyecto a mediano plazo (instalar 1 200 km antes de 2025) y no se menciona un aumento rápido en la participación."
+          },
+          {
+            "id": "T2-P21",
+            "texto": "Basándose en la información proporcionada, ¿qué perspectiva ambiental relevante no ha sido considerada en el análisis del autor sobre la educación digital en Bolivia?",
+            "opciones": {
+              "A": "Impactos ecológicos de la infraestructura tecnológica ?",
+              "B": "Costos económicos de implementación",
+              "C": "Brecha urbano-rural",
+              "D": "Capacitación docente"
+            },
+            "respuesta_correcta": "A",
+            "sustento": "El artículo detalla la falta de infraestructura, la expansión de fibra óptica y el uso de radio enlace, así como programas de dispositivos y capacitación docente, pero no menciona ninguna evaluación de los efectos ecológicos de esas intervenciones, como posibles alteraciones de hábitats, deforestación o consumo energético asociado."
+          },
+          {
+            "id": "T2-P22",
+            "texto": "El artículo señala que la brecha de conectividad afecta al rendimiento académico y propone soluciones integrales. Sin embargo, ¿qué perspectiva importante no se contempla en el análisis del autor?",
+            "opciones": {
+              "A": "Infraestructura tecnológica",
+              "B": "Capacitación docente",
+              "C": "Inclusión de estudiantes con discapacidades ?",
+              "D": "Participación comunitaria"
+            },
+            "respuesta_correcta": "C",
+            "sustento": "Aunque el artículo aborda infraestructura, dispositivos y capacitación docente, nunca menciona la inclusión de estudiantes con discapacidades ni la adaptación de las TIC para sus necesidades específicas. Los párrafos que describen los problemas y las soluciones se centran en la geografía, la falta de equipos y la preparación docente, pero omiten cualquier referencia a la accesibilidad universal o a barreras específicas que enfrentan los alumnos con discapacidades."
+          },
+          {
+            "id": "T2-P23",
+            "texto": "Si evaluamos el artículo leído, ¿podríamos sostener que la evidencia estadística proporcionada es suficiente para afirmar que la brecha de conectividad es la causa principal del bajo rendimiento académico en zonas rurales?",
+            "opciones": {
+              "A": "Sí, los datos son concluyentes",
+              "B": "No, los datos son solo correlacionales, no causales ?",
+              "C": "Solo para áreas urbanas",
+              "D": "No hay datos estadísticos en el artículo"
+            },
+            "respuesta_correcta": "B",
+            "sustento": "Aunque el artículo incluye datos relevantes (por ejemplo, el 33% de acceso en áreas rurales y el incremento del 12% en puntajes para quienes tienen conexión regular), dichos datos son descriptivos y correlacionales. No se presentan estudios longitudinales, experimentos controlados ni análisis multivariados que permitan aislar el efecto de la conectividad de otras variables como la preparación docente (solo el 27% de los docentes recibió capacitación) o la disponibilidad de dispositivos (38% de escuelas rurales carecen de al menos un computador por cada veinte estudiantes). Por tanto, la evidencia no permite establecer una relación causal directa."
+          },
+          {
+            "id": "T2-P24",
+            "texto": "A partir de lo expuesto en el artículo, ¿cuáles son las principales implicaciones sociales de la brecha de conectividad descrita, considerando los datos de acceso a internet en áreas urbanas y rurales y su relación con el rendimiento académico?",
+            "opciones": {
+              "A": "Solo diferencias en velocidad de internet",
+              "B": "Brecha de aprendizaje que perpetúa desigualdades socioeconómicas ?",
+              "C": "Mayor igualdad de oportunidades",
+              "D": "Solo afecta el acceso a entretenimiento"
+            },
+            "respuesta_correcta": "B",
+            "sustento": "El artículo indica que en 2023 sólo el 33% de los hogares rurales tenían acceso a internet frente al 71% urbano, y que los estudiantes con conexión regular obtuvieron un aumento del 12% en sus puntajes de matemática y lectura. Esta disparidad se traduce en una brecha de aprendizaje que, según la conclusión, amenaza la igualdad de oportunidades y perpetúa desigualdades socioeconómicas."
+          },
+          {
+            "id": "T2-P25",
+            "texto": "El artículo señala que la inversión en infraestructura de conectividad digital en zonas rurales tendrá un retorno económico inmediato gracias al aumento del 12% en los puntajes académicos y al ahorro del 15% en el costo por kilómetro de fibra óptica. ¿Qué tan válido es este argumento según la evidencia presentada?",
+            "opciones": {
+              "A": "Completamente válido",
+              "B": "Débil, carece de evidencia de retorno económico inmediato ?",
+              "C": "Solo válido para áreas urbanas",
+              "D": "No se puede evaluar"
+            },
+            "respuesta_correcta": "B",
+            "sustento": "En el apartado de \"Panorama de la conectividad y su impacto en el aprendizaje\", el artículo menciona un aumento del 12% en puntajes de matemática y lectura para estudiantes con acceso regular a internet, y en la sección de \"Expansión de infraestructura\" indica que el costo promedio por kilómetro de fibra óptica se redujo en un 15% respecto a estimaciones previas. Sin embargo, en ningún momento se establece un vínculo causal directo entre esas mejoras y un retorno económico inmediato; ni se presentan indicios de ahorro financiero a nivel macro ni estudios de costo-beneficio que sustenten la afirmación. Por ello, el argumento es débil, pues carece de evidencia que respalde la conclusión económica."
+          },
+          {
+            "id": "T2-P26",
+            "texto": "La lectura del texto permite identificar que el argumento del autor, según el cual la expansión de la fibra óptica es la solución más eficaz para reducir la brecha digital en áreas rurales, es:",
+            "opciones": {
+              "A": "Válido como parte de una estrategia combinada ?",
+              "B": "Completamente inválido",
+              "C": "Válido solo para zonas urbanas",
+              "D": "Exagerado sin base científica"
+            },
+            "respuesta_correcta": "A",
+            "sustento": "El artículo reconoce la expansión de la fibra óptica como una pieza central del Programa Nacional de Conectividad Rural (PNCR) y, al mismo tiempo, menciona que en áreas de difícil acceso se complementa con radio enlace de corto alcance, mostrando una estrategia combinada. Esto respalda la validez del argumento del autor al evidenciar que la solución propuesta no se limita a la fibra óptica aislada, sino que se apoya en un enfoque integral."
+          },
+          {
+            "id": "T2-P27",
+            "texto": "Basándose en la información proporcionada, ¿cuál de las siguientes afirmaciones refleja mejor la perspectiva futura del artículo respecto a la combinación de acciones necesarias para reducir la brecha digital, en contraste con la visión simplista de que solo la infraestructura tecnológica resolvería el problema?",
+            "opciones": {
+              "A": "Solo infraestructura es suficiente",
+              "B": "Se necesita un enfoque sistémico que combine infraestructura, formación docente y participación comunitaria ?",
+              "C": "Solo se requiere capacitación docente",
+              "D": "La brecha se cerrará automáticamente con el tiempo"
+            },
+            "respuesta_correcta": "B",
+            "sustento": "El texto concluye que \"las políticas públicas adopten un enfoque sistémico que considere simultáneamente la inversión en infraestructura, la formación continua de los docentes y la creación de entornos de aprendizaje colaborativos\" y describe soluciones emergentes que incluyen expansión de fibra óptica, bibliotecas digitales y programas de capacitación docente, además de la participación comunitaria (secciones de Soluciones emergentes y Conclusiones)."
+          },
+          {
+            "id": "T2-P28",
+            "texto": "Considerando lo mencionado en el texto, ¿cómo se podría adaptar la estrategia de bibliotecas digitales a un contexto urbano de alta densidad en Bolivia para reducir la brecha de conectividad?",
+            "opciones": {
+              "A": "Solo instalando más fibra óptica",
+              "B": "Solo capacitando docentes",
+              "C": "Replicando la integración de infraestructura, dispositivos compartidos, capacitación y participación comunitaria ?",
+              "D": "Distribuyendo tablets individuales a cada estudiante"
+            },
+            "respuesta_correcta": "C",
+            "sustento": "El artículo enfatiza que la reducción eficaz de la brecha digital en Bolivia requiere un enfoque sistémico que incluya (i) expansión de infraestructura de fibra óptica, (ii) programas de dispositivos compartidos como 'bibliotecas digitales', (iii) capacitación docente continua y (iv) participación comunitaria. En la sección de Soluciones emergentes se describe cómo la combinación de estos cuatro pilares ha generado resultados positivos tanto en áreas rurales como en proyectos piloto. Por lo tanto, al trasladar la estrategia a un entorno urbano de alta densidad, la solución más adecuada es replicar esa integración, no limitarse solo a la infraestructura, a la capacitación o a la donación individual de equipos."
+          },
+          {
+            "id": "T2-P29",
+            "texto": "Basándose en la información proporcionada, ¿cuáles son las principales implicaciones éticas y sociales que los distintos actores (gobierno, docentes, comunidad y sector privado) deben considerar al implementar las soluciones de educación digital descritas en el artículo?",
+            "opciones": {
+              "A": "Solo maximizar ganancias económicas",
+              "B": "Evitar concentración de recursos, garantizar capacitación, promover participación comunitaria y proteger privacidad ?",
+              "C": "Solo reducir costos de implementación",
+              "D": "Priorizar áreas urbanas sobre rurales"
+            },
+            "respuesta_correcta": "B",
+            "sustento": "El gobierno debe evitar la concentración de la fibra óptica en zonas ya conectadas (ATT, 2022) para no ampliar la brecha; los docentes requieren capacitación (FOTED, 2024) para no reproducir desigualdades pedagógicas; la comunidad debe participar en la gestión de centros de dispositivos compartidos (Escuelas Conectadas, Potosí) para evitar dependencia externa; y el sector privado, al suministrar telecomunicaciones y equipos, debe proteger la privacidad de los datos y ofrecer condiciones justas, de lo contrario se profundizaría la brecha digital."
+          },
+          {
+            "id": "T2-P30",
+            "texto": "Según el artículo, la estimación de que el 20% de la población boliviana tendrá acceso a 5G para finales de 2024 debe evaluarse críticamente frente a la tendencia global de buscar una cobertura mayor del 50% en el mismo período; ¿cuál de las siguientes afirmaciones representa la valoración más adecuada de esta meta dentro del contexto boliviano?",
+            "opciones": {
+              "A": "Es una meta demasiado ambiciosa e irreal",
+              "B": "Es un paso progresivo realista dada la brecha digital existente ?",
+              "C": "Debería ser del 100% para ser efectiva",
+              "D": "No tiene relación con la brecha digital"
+            },
+            "respuesta_correcta": "B",
+            "sustento": "Para finales de 2024, se espera que el 20% de la población tenga acceso a 5G, concentrándose inicialmente en zonas estratégicas como Puerto Suárez donde se realizó la prueba piloto. Además, el texto menciona que la expansión de fibra óptica ya cubre gran parte de las áreas urbanas, lo que permite un despliegue complementario. Sin embargo, también se señala que en 2023 el 68% de los hogares rurales carecen de acceso fijo a Internet, evidenciando una brecha digital que sigue siendo un desafío; por ello la meta del 20% es un paso progresivo, no una cobertura total."
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "titulo": "HISTORIA Y EVOLUCIÓN DEL INTERNET EN BOLIVIA",
+        "contenido_completo": "Resumen:\nEl presente artículo revisa la trayectoria histórica del Internet en Bolivia, partiendo de los antecedentes mundiales hasta los desarrollos más recientes en la tecnología 5G. Se describen las fases de introducción del acceso dial-up en la década de 1990, la expansión de la banda ancha mediante cableado de cobre y fibra óptica en los años 2000-2010, y la implementación de redes móviles de cuarta y quinta generación. Se analizan, además, los impactos socioeconómicos vinculados a la digitalización de la educación, el comercio electrónico y la salud, y se discuten los retos estructurales, como la brecha digital entre áreas urbanas y rurales, la sostenibilidad de la infraestructura y la regulación del espectro radioeléctrico. El artículo combina datos estadísticos oficiales, estudios académicos y casos de proyectos locales, ofreciendo una visión integral que permite a los jóvenes lectores comprender cómo la evolución tecnológica ha transformado la vida cotidiana en Bolivia y qué desafíos persisten para lograr una conectividad universal.\n\nIntroducción:\nDesde la creación de la red ARPANET en 1969, el Internet ha experimentado una expansión sin precedentes, convirtiéndose en la columna vertebral de la comunicación global, la economía digital y la educación a distancia. En América Latina, la adopción del Internet comenzó de forma tardía respecto a los países desarrollados, pero ha avanzado rápidamente durante las últimas tres décadas. Bolivia, con su geografía diversa que incluye la alta cordillera de los Andes y la vasta llanura del Beni, enfrentó retos particulares para conectar a toda la población. Comprender la historia del Internet en el país permite identificar los factores que han facilitado o limitado su desarrollo y proporciona una base para planificar políticas públicas que reduzcan la brecha digital. Este artículo ofrece una visión histórica y evolutiva del fenómeno, enfocándose en los hitos tecnológicos, los actores involucrados y los efectos sociales observados hasta la actualidad.\n\nDesarrollo:\n\n1. Orígenes globales y llegada a América Latina\nEl concepto de una red de computadoras interconectadas surgió en la década de 1970, pero fue en los años 80 cuando la adopción del protocolo TCP/IP sentó las bases del Internet tal como lo conocemos. En 1991 se dio inicio a la World Wide Web, una capa de presentación que permitió a usuarios no técnicos navegar por documentos hipertexto. La expansión se aceleró con la democratización de los navegadores (Netscape, Mosaic) y la caída de los costos de los equipos de cómputo. En América Latina, los primeros accesos publicados se registraron en Brasil y Argentina a mediados de la década de 1990, siguiendo la instalación de enlaces satelitales de alta capacidad que conectaban la región con los principales backbones internacionales.\n\nEn Bolivia, la primera conexión permanente al Internet se estableció en 1995 mediante un enlace satelital de 64 kbps gestionado por la Universidad Mayor de San Andrés (UMSA). Este proyecto, financiado parcialmente por la Organización de los Estados Americanos (OEA), permitió a investigadores y estudiantes acceder a bases de datos científicas. Sin embargo, el acceso estaba restringido a instituciones académicas y gubernamentales, mientras que la población general carecía de infraestructura y de dispositivos adecuados.\n\n2. Etapas clave de la conectividad en Bolivia\n\n2.1. Era dial-up y los primeros usuarios domésticos (1995-2005)\nA principios de los años 2000, la telefonía móvil y fija comenzó a ofrecer servicios de acceso dial-up, que utilizaban la línea telefónica convencional para conectar a Internet a velocidades de 56 kbps. Según el Instituto Nacional de Estadística (INE) de Bolivia, en 2003 solo el 5% de los hogares urbanos disponía de una conexión a Internet, y menos del 1% en zonas rurales. Los costos mensuales superaban los 30 dólares, una cantidad elevada para la mayoría de las familias.\n\nEsta fase estuvo marcada por la aparición de cibercafés en ciudades como La Paz, Santa Cruz y Cochabamba. Los jóvenes utilizaban estos espacios para enviar correos electrónicos, descargar música y participar en foros de discusión. La popularidad de los juegos en línea también contribuyó al interés por la conectividad, aunque la latencia alta de la tecnología dial-up limitaba la experiencia.\n\n2.2. Expansión de la banda ancha y fibra óptica (2006-2015)\nA partir de 2006, el gobierno boliviano lanzó el proyecto \"Red de Información Boliviana\" (RIB), con el objetivo de instalar fibra óptica en los principales corredores de ciudades y en la Ruta del Pacífico. La inversión, estimada en 350 millones de dólares, contó con apoyo del Banco Interamericano de Desarrollo (BID). Para 2012, la cobertura de fibra óptica alcanzó el 60% de la población urbana, reduciendo los precios de los planes de 10 Mbps a aproximadamente 15 dólares mensuales.\n\nEl acceso a la banda ancha permitió la proliferación de plataformas de aprendizaje virtual, como la Universidad Católica Boliviana que ofreció cursos en línea gratuitos. Asimismo, el comercio electrónico comenzó a arraigar, con el surgimiento de tiendas virtuales locales como \"Tiendas del Valle\" y la adopción de sistemas de pago digitales (Billetera Móvil). Los datos del Ministerio de Telecomunicaciones indican que en 2015 la penetración de Internet en hogares urbanos llegó al 38%, mientras que en áreas rurales solo alcanzó el 12%.\n\n2.3. Convergencia móvil, 4G y la llegada de 5G (2016-presente)\nLa evolución de las redes móviles ha sido determinante para llevar la conectividad a zonas de difícil acceso. En 2016, la empresa estatal Entel lanzó la red 4G LTE (Long Term Evolution) en la capital y en principales ciudades de la región oriental. La velocidad promedio de descarga superó los 30 Mbps, equiparable a la banda ancha fija en muchas áreas.\n\nEn 2022, Bolivia aprobó la licitación del espectro 3.5 GHz para la implementación de redes 5G, siguiendo la tendencia global de ofrecer velocidades superiores a 1 Gbps y latencias menores a 10 ms. La empresa Viva Bolivia anunció la prueba piloto de 5G en la zona de Puerto Suárez, conectando hospitales y universidades con aplicaciones de telemedicina y realidad aumentada para la enseñanza de ingeniería. Según la Agencia Boliviana de Telecomunicaciones, para finales de 2024 se espera que el 20% de la población tenga acceso a 5G, especialmente en zonas estratégicas de desarrollo económico.\n\n3. Impacto socioeconómico y desafíos futuros\nEl acceso generalizado al Internet ha transformado varios sectores de la sociedad boliviana. En la educación, la pandemia de COVID-19 (2020-2021) obligó a migrar rápidamente a plataformas de enseñanza a distancia como Moodle y Google Classroom. Estudios del Ministerio de Educación revelaron que el 75% de los estudiantes de educación secundaria en áreas urbanas participaron en clases virtuales, mientras que el 40% en áreas rurales enfrentó dificultades por la falta de dispositivos o conectividad estable.\n\nEn el ámbito de la salud, la telemedicina ha permitido consultas remotas en regiones aisladas de la Amazonía boliviana. Programas como \"Salud en Línea\" utilizan videollamadas cifradas y aplicaciones móviles para seguimiento de pacientes con enfermedades crónicas. La implementación de 5G abrirá la puerta a la cirugía a distancia y al uso de dispositivos de monitoreo en tiempo real.\n\nSin embargo, persisten desafíos estructurales. La brecha digital entre zonas urbanas y rurales sigue siendo significativa; el INE reporta que en 2023 el 68% de los hogares rurales carecen de acceso fijo a Internet. La sostenibilidad financiera de la infraestructura también es un problema, pues la inversión en fibra óptica y torres de transmisión requiere fondos que compiten con otros sectores públicos. Además, la regulación del espectro y la protección de datos personales son áreas que demandan marcos legales actualizados para evitar vulnerabilidades de seguridad.\n\nPara cerrar la brecha, se propone una combinación de políticas: incentivar la inversión privada mediante subsidios, promover la capacitación digital en escuelas y comunidades, y crear un fondo nacional para la expansión de la conectividad en zonas rurales. La colaboración entre instituciones académicas, gobierno y sector privado será esencial para construir una red inclusiva que beneficie a toda la población.\n\nConclusiones:\nLa evolución del Internet en Bolivia refleja un proceso gradual de adopción tecnológica, influenciado por factores económicos, geográficos y políticos. Desde los modestos enlaces satelitales de la Universidad Mayor de San Andrés hasta las primeras pruebas de redes 5G, el país ha avanzado considerablemente en la reducción de la brecha digital, aunque persisten desigualdades entre áreas urbanas y rurales. Los impactos positivos en educación, salud y economía demuestran el potencial transformador de la conectividad, mientras que los retos de infraestructura, regulación y financiamiento requieren una planificación estratégica y cooperación multisectorial. En los próximos años, la consolidación de la tecnología 5G y la expansión de la fibra óptica podrían acelerar la inclusión digital, siempre que se mantenga el compromiso de garantizar el acceso universal y la seguridad de los usuarios.",
+        "preguntas": [
+          {
+            "id": "T3-P1",
+            "texto": "A partir de lo expuesto en el artículo, ¿cómo define el concepto de acceso dial-up?",
+            "opciones": {
+              "A": "Un enlace satelital de alta velocidad gestionado por universidades.",
+              "B": "Un servicio de banda ancha mediante fibra óptica.",
+              "C": "Una conexión que utilizaba la línea telefónica convencional a velocidades de 56 kbps. ?",
+              "D": "Una red móvil de cuarta generación (4G LTE)."
+            },
+            "respuesta_correcta": "C",
+            "sustento": "El artículo describe el acceso dial-up como “utilizaban la línea telefónica convencional para conectar a Internet a velocidades de 56 kbps”."
+          },
+          {
+            "id": "T3-P2",
+            "texto": "Considerando lo mencionado en el texto, ¿cuáles son los sectores que se indican como beneficiados por la expansión del Internet en Bolivia?",
+            "opciones": {
+              "A": "Minería, construcción y transporte",
+              "B": "Educación, comercio electrónico y salud ?",
+              "C": "Agricultura, ganadería y silvicultura",
+              "D": "Industria textil, turismo y energía"
+            },
+            "respuesta_correcta": "B",
+            "sustento": "El artículo señala explícitamente que el acceso generalizado a Internet ha transformado la educación (plataformas de aprendizaje virtual, clases a distancia), ha impulsado el comercio electrónico (tiendas virtuales como ‘Tiendas del Valle’ y Billetera Móvil) y ha mejorado la salud mediante la telemedicina y futuros servicios 5G."
+          },
+          {
+            "id": "T3-P3",
+            "texto": "A partir de lo expuesto en el artículo, ¿cuáles son las implicaciones económicas asociadas a la expansión de la banda ancha y la fibra óptica entre 2006 y 2015?",
+            "opciones": {
+              "A": "Aumento de la deuda externa y dependencia tecnológica.",
+              "B": "Reducción de costos de planes de internet y auge del comercio electrónico. ?",
+              "C": "Incremento de la brecha salarial y desempleo tecnológico.",
+              "D": "Mayor inversión en infraestructura vial y energética."
+            },
+            "respuesta_correcta": "B",
+            "sustento": "En “Expansión de la banda ancha y fibra óptica (2006-2015)” se indica que el proyecto ‘Red de Información Boliviana’ redujo los precios de los planes de 10 Mbps a aproximadamente 15 dólares mensuales y que la banda ancha favoreció el auge del comercio electrónico, con la aparición de tiendas virtuales locales."
+          },
+          {
+            "id": "T3-P4",
+            "texto": "Basándose en la información proporcionada, ¿cuál es la tercera etapa de la conectividad descrita en la evolución del Internet en Bolivia?",
+            "opciones": {
+              "A": "Era dial-up (1995-2005)",
+              "B": "Expansión de banda ancha y fibra óptica (2006-2015)",
+              "C": "Convergencia móvil, 4G y la llegada de 5G (2016-presente) ?",
+              "D": "Implementación de redes satelitales (1990-1994)"
+            },
+            "respuesta_correcta": "C",
+            "sustento": "El artículo enumera tres subetapas cronológicas: 2.1 era dial-up (1995-2005), 2.2 expansión de banda ancha y fibra óptica (2006-2015) y 2.3 convergencia móvil, 4G y la llegada de 5G (2016-presente)."
+          },
+          {
+            "id": "T3-P5",
+            "texto": "La lectura del texto permite identificar que el orden cronológico de los principales actores que lideraron cada fase de la conectividad en Bolivia es:",
+            "opciones": {
+              "A": "UMSA (1995) ? Gobierno boliviano (2006) ? Entel (2016) ? Viva Bolivia (2022) ?",
+              "B": "Gobierno boliviano (1995) ? UMSA (2006) ? Viva Bolivia (2016) ? Entel (2022)",
+              "C": "Entel (1995) ? Viva Bolivia (2006) ? Gobierno (2016) ? UMSA (2022)",
+              "D": "Viva Bolivia (1995) ? Entel (2006) ? UMSA (2016) ? Gobierno (2022)"
+            },
+            "respuesta_correcta": "A",
+            "sustento": "El artículo indica que primero, en 1995, la Universidad Mayor de San Andrés (UMSA) estableció la primera conexión satelital permanente. Luego, a partir de 2006, el gobierno boliviano lanzó el proyecto ‘Red de Información Boliviana’ (RIB) para instalar fibra óptica. En 2016, la empresa estatal Entel introdujo la red 4G LTE. Finalmente, en 2022, la empresa Viva Bolivia anunció la prueba piloto de 5G."
+          },
+          {
+            "id": "T3-P6",
+            "texto": "Según el artículo, ¿qué porcentaje de la población boliviana se espera que tenga acceso a redes 5G para finales de 2024?",
+            "opciones": {
+              "A": "15%",
+              "B": "20% ?",
+              "C": "25%",
+              "D": "30%"
+            },
+            "respuesta_correcta": "B",
+            "sustento": "Para finales de 2024, según el artículo, se espera que el 20% de la población tenga acceso a 5G. Ninguna de las demás cifras aparece en el artículo."
+          },
+          {
+            "id": "T3-P7",
+            "texto": "El artículo señala que la expansión de la fibra óptica y la llegada de 5G han mejorado la conectividad, pero persiste una brecha digital entre zonas urbanas y rurales; ¿qué principio general se puede extraer sobre el rol de la infraestructura tecnológica en la inclusión digital?",
+            "opciones": {
+              "A": "La infraestructura por sí sola garantiza la inclusión digital.",
+              "B": "La infraestructura es necesaria pero insuficiente sin políticas de apoyo y subsidios. ?",
+              "C": "La infraestructura móvil es más importante que la fibra óptica para cerrar la brecha.",
+              "D": "La inclusión digital depende exclusivamente de la capacitación de los usuarios."
+            },
+            "respuesta_correcta": "B",
+            "sustento": "El texto indica que la instalación de fibra óptica aumentó la cobertura urbana y redujo precios, y que la implementación de 5G está prevista para zonas estratégicas, pero aun así el artículo señala que en 2023 el 68% de los hogares rurales carecen de acceso fijo. Además, en la sección de desafíos se propone incentivar inversión privada y subsidios como políticas de apoyo para cerrar la brecha."
+          },
+          {
+            "id": "T3-P8",
+            "texto": "El artículo señala que la diferencia porcentual en la penetración de Internet entre hogares urbanos y rurales cambió entre 2003 y 2015; ¿cuál de las siguientes afirmaciones describe mejor esa evolución?",
+            "opciones": {
+              "A": "La brecha se redujo de 22 a 4 puntos porcentuales.",
+              "B": "La brecha aumentó de aproximadamente 4 a 26 puntos porcentuales. ?",
+              "C": "La brecha se mantuvo constante en 20 puntos porcentuales.",
+              "D": "La brecha disminuyó progresivamente hasta desaparecer en 2015."
+            },
+            "respuesta_correcta": "B",
+            "sustento": "En 2003, según el texto, el 5% de los hogares urbanos tenía acceso y menos del 1% de los rurales (aprox. 0,8%), lo que implica una diferencia de unos 4 puntos porcentuales. En 2015, la penetración era del 38% en zonas urbanas y del 12% en rurales, lo que genera una diferencia de 26 puntos. La variación entre ambas fechas es de aproximadamente 22 puntos porcentuales, mostrando un aumento de la brecha."
+          },
+          {
+            "id": "T3-P9",
+            "texto": "A partir de lo expuesto en el artículo, ¿qué efecto se puede deducir de la implementación del proyecto “Red de Información Boliviana” (2006-2015) sobre la penetración de Internet en los hogares urbanos?",
+            "opciones": {
+              "A": "Disminuyó la penetración por el alto costo de la fibra óptica.",
+              "B": "Aumentó la penetración urbana del 5% al 38%. ?",
+              "C": "No tuvo impacto significativo en la penetración urbana.",
+              "D": "Incrementó la penetración rural en mayor medida que la urbana."
+            },
+            "respuesta_correcta": "B",
+            "sustento": "Antes de la fase de expansión de banda ancha, en 2003 solo el 5% de los hogares urbanos tenían acceso a Internet. Tras el lanzamiento del proyecto “Red de Información Boliviana” en 2006, que instaló fibra óptica en los corredores urbanos, la penetración aumentó hasta el 38% en 2015."
+          },
+          {
+            "id": "T3-P10",
+            "texto": "Considerando lo mencionado en el texto, ¿cuál es el mensaje principal implícito del autor respecto a las soluciones para cerrar la brecha digital en Bolivia?",
+            "opciones": {
+              "A": "Solo el sector privado puede resolver la brecha digital.",
+              "B": "Se requiere una combinación de subsidios, capacitación y fondos nacionales con cooperación multisectorial. ?",
+              "C": "La solución es esperar que la tecnología 5G se expanda naturalmente.",
+              "D": "Basta con incrementar la cobertura de fibra óptica en ciudades."
+            },
+            "respuesta_correcta": "B",
+            "sustento": "La sección de “Desafíos futuros” y en la propuesta de cierre de la brecha digital, el autor señala explícitamente la necesidad de (i) incentivar la inversión privada mediante subsidios, (ii) promover la capacitación digital en escuelas y comunidades, y (iii) crear un fondo nacional para la expansión de la conectividad en zonas rurales, todo ello bajo una cooperación multisectorial entre gobierno, academia y sector privado."
+          },
+          {
+            "id": "T3-P11",
+            "texto": "Basándose en la información proporcionada, ¿qué principio general se desprende de las soluciones propuestas para cerrar la brecha digital en Bolivia?",
+            "opciones": {
+              "A": "La competencia entre empresas es la clave.",
+              "B": "La colaboración entre gobierno, academia y sector privado es esencial. ?",
+              "C": "La inversión extranjera debe ser la principal fuente de financiamiento.",
+              "D": "La tecnología satelital es la única solución viable para áreas rurales."
+            },
+            "respuesta_correcta": "B",
+            "sustento": "El artículo, en la sección de propuestas, sugiere combinar subsidios, incentivar la inversión privada y crear un fondo nacional, todo ello dentro de una estrategia de colaboración entre gobierno, academia y sector privado para expandir la conectividad en zonas rurales."
+          },
+          {
+            "id": "T3-P12",
+            "texto": "Considerando lo mencionado en el texto, ¿cuál es la idea principal implícita que el autor desea transmitir sobre la evolución del Internet en Bolivia?",
+            "opciones": {
+              "A": "Bolivia ha logrado una conectividad total y equitativa.",
+              "B": "Persiste una brecha digital significativa a pesar de los avances tecnológicos. ?",
+              "C": "La tecnología 5G eliminará automáticamente todas las desigualdades.",
+              "D": "El acceso a Internet en Bolivia es superior al de otros países de la región."
+            },
+            "respuesta_correcta": "B",
+            "sustento": "Aunque se ha pasado de un enlace satelital de 64 kbps en 1995 a pruebas piloto de 5G en 2022, la brecha digital sigue siendo marcada: el INE reporta que en 2023 el 68% de los hogares rurales carecen de acceso fijo y la penetración rural de Internet es mucho menor que la urbana. Además, en la sección de desafíos futuros se propone una combinación de subsidios, capacitación y fondos nacionales para cerrar esa brecha, evidenciando la necesidad de políticas integradas y mayor inversión."
+          },
+          {
+            "id": "T3-P13",
+            "texto": "A partir de lo expuesto en el artículo, ¿cuál es la propuesta central del autor para reducir la brecha digital entre zonas urbanas y rurales en Bolivia?",
+            "opciones": {
+              "A": "Prohibir el uso de internet en zonas urbanas hasta equiparar el acceso.",
+              "B": "Subsidios a la inversión privada, capacitación digital y un fondo nacional para zonas rurales. ?",
+              "C": "Esperar a que la tecnología 6G reemplace a la 5G.",
+              "D": "Concentrar toda la inversión en la expansión de fibra óptica urbana."
+            },
+            "respuesta_correcta": "B",
+            "sustento": "“Para cerrar la brecha” el autor propone específicamente una combinación de políticas: subsidios a la inversión privada, capacitación digital y un fondo nacional dirigido a zonas rurales. Estas medidas aparecen como la estrategia integral para disminuir la desigualdad de acceso."
+          },
+          {
+            "id": "T3-P14",
+            "texto": "Basándose en la información proporcionada, ¿qué es probable que ocurra en los próximos cinco años respecto a la cobertura de internet en áreas rurales de Bolivia?",
+            "opciones": {
+              "A": "Se espera una reducción de la brecha mediante subsidios e inversión en fibra óptica. ?",
+              "B": "La brecha aumentará debido a la concentración de 5G en zonas urbanas.",
+              "C": "La cobertura rural alcanzará el 100% gracias a la tecnología satelital.",
+              "D": "No habrá cambios significativos en la cobertura rural."
+            },
+            "respuesta_correcta": "A",
+            "sustento": "El artículo indica que, al cierre de 2024, se espera que el 20% de la población nacional tenga acceso a 5G, prioritariamente en zonas estratégicas de desarrollo económico, y que en 2023 el 68% de los hogares rurales carecían de acceso fijo a Internet. Además, se proponen políticas de subsidios e inversión en fibra óptica para reducir la brecha digital."
+          },
+          {
+            "id": "T3-P15",
+            "texto": "De acuerdo con el texto, ¿cuál de las siguientes consecuencias es la más probable como resultado de la instalación de fibra óptica en los principales corredores urbanos entre 2006 y 2015?",
+            "opciones": {
+              "A": "Disminución de la penetración de internet en hogares urbanos.",
+              "B": "Aumento de la penetración de internet en hogares urbanos del 5% al 38%. ?",
+              "C": "Eliminación completa de la brecha digital urbano-rural.",
+              "D": "Incremento del costo de los planes de internet."
+            },
+            "respuesta_correcta": "B",
+            "sustento": "El texto indica que, antes de la expansión de la fibra, en 2003 solo el 5% de los hogares urbanos tenía acceso a Internet (fase dial-up). Con el proyecto “Red de Información Boliviana” iniciado en 2006, para 2012 la cobertura de fibra óptica alcanzó el 60% de la población urbana y los precios de los planes de 10 Mbps se redujeron a aproximadamente 15 dólares mensuales. Como consecuencia directa de esta mejora de infraestructura y costo, la penetración en hogares urbanos subió al 38% en 2015."
+          },
+          {
+            "id": "T3-P16",
+            "texto": "¿Qué puede deducirse del texto respecto a la estrategia de expansión implementada por la empresa estatal Entel a través de la red 4G LTE?",
+            "opciones": {
+              "A": "Fracasó por falta de inversión.",
+              "B": "Sentó las bases para la futura implementación de 5G. ?",
+              "C": "Solo benefició a zonas rurales.",
+              "D": "Fue reemplazada inmediatamente por tecnología satelital."
+            },
+            "respuesta_correcta": "B",
+            "sustento": "Entel lanzó la red 4G LTE en 2016, proporcionando velocidades comparables a la banda ancha fija y mejorando la infraestructura móvil en áreas urbanas. Más adelante, menciona que en 2022 Bolivia licitó el espectro 3.5 GHz y que Viva Bolivia anunció una prueba piloto de 5G en Puerto Suárez, aprovechando la infraestructura móvil existente. Aunque no se afirma explícitamente, se puede inferir que la presencia previa de una red 4G robusta facilitó la implementación de la tecnología 5G, pues la evolución de 4G a 5G depende de la infraestructura ya desplegada."
+          },
+          {
+            "id": "T3-P17",
+            "texto": "El artículo señala que, considerando los datos estadísticos presentados, ¿cuál es el mensaje implícito principal respecto al desarrollo de la conectividad en Bolivia?",
+            "opciones": {
+              "A": "Bolivia ha superado todos los retos de conectividad.",
+              "B": "Se necesita mayor política dirigida a la inclusión universal. ?",
+              "C": "La tecnología 5G resolverá automáticamente la brecha rural.",
+              "D": "La inversión privada no es necesaria."
+            },
+            "respuesta_correcta": "B",
+            "sustento": "Pese a avances como la instalación de fibra óptica (cobertura del 60% urbano en 2012) y la prueba piloto de 5G en Puerto Suárez, aún persisten desigualdades: el INE reporta que en 2023 el 68% de los hogares rurales carecen de acceso fijo a Internet y la penetración rural es mucho menor que la urbana. Además, en la sección de desafíos futuros se propone incentivar inversión y crear fondos para cerrar la brecha, lo que evidencia el mensaje implícito de que se necesita política dirigida a la inclusión universal."
+          },
+          {
+            "id": "T3-P18",
+            "texto": "El artículo señala que, a raíz de la expansión de la fibra óptica y la implementación de redes 4G/5G, se puede concluir que:",
+            "opciones": {
+              "A": "La brecha digital entre zonas urbanas y rurales ha desaparecido.",
+              "B": "La brecha digital persiste a pesar de los avances tecnológicos. ?",
+              "C": "Las áreas rurales tienen mayor penetración que las urbanas.",
+              "D": "La fibra óptica es irrelevante para la inclusión digital."
+            },
+            "respuesta_correcta": "B",
+            "sustento": "Tras la expansión de la fibra óptica (cobertura del 60% en áreas urbanas para 2012) y la llegada del 4G en 2016, la penetración urbana llegó al 38% en 2015, mientras que en zonas rurales solo alcanzó el 12%. Además, en 2023 el 68% de los hogares rurales carecían de acceso fijo a Internet (sección 3). Estas cifras muestran que, pese a los avances tecnológicos, la brecha digital persiste."
+          },
+          {
+            "id": "T3-P19",
+            "texto": "Considerando lo mencionado en el texto, ¿cuál es la idea principal implícita respecto a los resultados de la evolución del Internet en Bolivia?",
+            "opciones": {
+              "A": "Los avances tecnológicos han eliminado todos los problemas de acceso.",
+              "B": "Persisten brechas que requieren políticas públicas y colaboración multisectorial. ?",
+              "C": "La conectividad es responsabilidad exclusiva de las empresas privadas.",
+              "D": "Bolivia está a la vanguardia mundial en conectividad 5G."
+            },
+            "respuesta_correcta": "B",
+            "sustento": "El artículo describe avances tecnológicos (4G, fibra óptica, pruebas de 5G) y sus efectos positivos en educación y salud, pero también señala cifras que revelan una brecha digital persistente (por ejemplo, 68% de hogares rurales sin acceso fijo en 2023) y concluye con propuestas de políticas públicas, subsidios y colaboración entre sector público, privado y académico para cerrar esa brecha."
+          },
+          {
+            "id": "T3-P20",
+            "texto": "¿Qué puede deducirse de la expansión de la red 5G en zonas estratégicas como Puerto Suárez?",
+            "opciones": {
+              "A": "Solo servirá para entretenimiento y redes sociales.",
+              "B": "Favorecerá la adopción de servicios de telemedicina avanzados. ?",
+              "C": "Aumentará la brecha digital al excluir a las zonas rurales.",
+              "D": "Será irrelevante para el desarrollo económico regional."
+            },
+            "respuesta_correcta": "B",
+            "sustento": "El artículo indica que la prueba piloto de 5G en Puerto Suárez conecta hospitales y universidades y menciona que la implementación de 5G “abrirá la puerta a la cirugía a distancia y al uso de dispositivos de monitoreo en tiempo real”. De ahí se deduce que la expansión de 5G favorecerá la adopción de servicios de telemedicina avanzados en zonas que antes estaban aisladas."
+          },
+          {
+            "id": "T3-P21",
+            "texto": "A partir de lo expuesto en el artículo, ¿qué principio general se puede inferir sobre el papel de los diferentes actores en la expansión de la conectividad en Bolivia?",
+            "opciones": {
+              "A": "Solo el gobierno debe liderar el proceso.",
+              "B": "La cooperación entre academia, gobierno y sector privado es clave. ?",
+              "C": "Las universidades deben asumir toda la responsabilidad.",
+              "D": "Las empresas privadas son las únicas capaces de garantizar el acceso."
+            },
+            "respuesta_correcta": "B",
+            "sustento": "La primera conexión en 1995 fue gestionada por la Universidad Mayor de San Andrés con apoyo de la OEA; el proyecto RIB (2006-2015) fue impulsado por el gobierno con financiamiento del BID; la red 4G fue lanzada por la empresa estatal Entel; la prueba piloto de 5G fue anunciada por Viva Bolivia; y en la sección de conclusiones se enfatiza la necesidad de cooperación entre instituciones académicas, gobierno y sector privado para cerrar la brecha digital."
+          },
+          {
+            "id": "T3-P22",
+            "texto": "Según el artículo, la estimación de que el 20% de la población boliviana tendrá acceso a 5G para finales de 2024 debe evaluarse críticamente frente a la tendencia global de buscar una cobertura mayor del 50% en el mismo período; ¿cuál de las siguientes afirmaciones representa la valoración más adecuada de esta meta dentro del contexto boliviano?",
+            "opciones": {
+              "A": "Es una meta conservadora que refleja falta de ambición.",
+              "B": "Es un paso progresivo, dada la brecha digital existente. ?",
+              "C": "Es imposible de alcanzar por falta de infraestructura.",
+              "D": "Debería ser del 100% para igualar a los países desarrollados."
+            },
+            "respuesta_correcta": "B",
+            "sustento": "Para finales de 2024, se espera que el 20% de la población tenga acceso a 5G, concentrándose inicialmente en zonas estratégicas como Puerto Suárez donde se realizó la prueba piloto. Además, el texto menciona que la expansión de fibra óptica ya cubre gran parte de las áreas urbanas, lo que permite un despliegue complementario. Sin embargo, también se señala que en 2023 el 68% de los hogares rurales carecen de acceso fijo a Internet, evidenciando una brecha digital que sigue siendo un desafío; por ello la meta del 20% es un paso progresivo, no una cobertura total."
+          },
+          {
+            "id": "T3-P23",
+            "texto": "El artículo señala que, según el INE, en 2023 el 68% de los hogares rurales carecen de acceso fijo a Internet. ¿Cuál de los siguientes posibles sesgos podría afectar la interpretación de este dato en el análisis del autor?",
+            "opciones": {
+              "A": "Ignora que muchos hogares rurales usan internet móvil (3G/4G). ?",
+              "B": "Sobrestima la cobertura de fibra óptica en zonas urbanas.",
+              "C": "No considera la brecha generacional en el uso de internet.",
+              "D": "Omite la influencia del clima en la conectividad."
+            },
+            "respuesta_correcta": "A",
+            "sustento": "El artículo menciona el porcentaje del 68% de hogares rurales sin acceso fijo a Internet, pero no discute que muchos de esos hogares podrían estar usando Internet a través de conexiones móviles (3G/4G) que no requieren infraestructura fija. Esta ausencia constituye un sesgo de interpretación: equiparar la ausencia de acceso fijo con la ausencia total de conectividad."
+          },
+          {
+            "id": "T3-P24",
+            "texto": "El artículo señala que la prueba piloto de 5G en Puerto Suárez conectó hospitales y universidades con aplicaciones de telemedicina y realidad aumentada. ¿Por qué es relevante esta información para la planificación de políticas públicas orientadas a reducir la brecha digital en zonas rurales?",
+            "opciones": {
+              "A": "Porque demuestra que la tecnología 5G puede ofrecer servicios críticos en zonas de difícil acceso. ?",
+              "B": "Porque prueba que la 5G solo es útil en entornos urbanos.",
+              "C": "Porque sugiere que la telemedicina no requiere internet de alta velocidad.",
+              "D": "Porque justifica la concentración de inversiones en ciudades grandes."
+            },
+            "respuesta_correcta": "A",
+            "sustento": "El texto describe la prueba piloto de 5G en Puerto Suárez que conectó hospitales y universidades con aplicaciones de telemedicina y realidad aumentada, y en la sección de desafíos se menciona la persistente brecha digital entre zonas urbanas y rurales. Evidenciar que 5G puede ofrecer servicios críticos (salud, educación) en zonas de difícil acceso justifica que las políticas públicas consideren la expansión de esta tecnología como una herramienta clave para reducir esa brecha."
+          },
+          {
+            "id": "T3-P25",
+            "texto": "Del análisis presentado se desprende que la afirmación del autor de que la implementación del 5G eliminará la brecha digital entre áreas urbanas y rurales es válida.",
+            "opciones": {
+              "A": "Verdadero",
+              "B": "Falso ?"
+            },
+            "respuesta_correcta": "B",
+            "sustento": "El texto señala que se espera que sólo el 20% de la población tenga acceso a 5G para finales de 2024, concentrado en zonas estratégicas de desarrollo económico, mientras que el INE reporta que el 68% de los hogares rurales carecen de acceso fijo a Internet en 2023. Además, se mencionan retos estructurales como la brecha digital y la necesidad de políticas de subsidios, lo que muestra que el argumento de que el 5G eliminará plenamente la brecha es insuficiente."
+          },
+          {
+            "id": "T3-P26",
+            "texto": "A partir del análisis presentado respecto a las diferencias de acceso o uso del Internet entre distintos grupos de la población, ¿qué otro aspecto importante ha obviado el autor?",
+            "opciones": {
+              "A": "Diferencias de acceso o uso entre hombres y mujeres (sesgo de género). ?",
+              "B": "La influencia de la edad en la adopción tecnológica.",
+              "C": "El impacto de la educación formal en el uso de internet.",
+              "D": "La disponibilidad de contenido en lenguas indígenas."
+            },
+            "respuesta_correcta": "A",
+            "sustento": "El artículo describe la evolución tecnológica, la expansión urbana-rural y los impactos en educación y salud, nunca menciona diferencias de acceso o uso entre hombres y mujeres. No se hace referencia a estudios de género ni a datos desagregados por sexo, lo que indica una omisión del sesgo de género."
+          },
+          {
+            "id": "T3-P27",
+            "texto": "Basándose en la información proporcionada, ¿cuál de las siguientes afirmaciones describe mejor la viabilidad de la meta boliviana de que el 20% de la población tenga acceso a 5G para finales de 2024, considerando la actual brecha digital entre áreas urbanas y rurales?",
+            "opciones": {
+              "A": "Es una meta imposible de alcanzar.",
+              "B": "Es plausible porque se enfoca en áreas urbanas y estratégicas donde ya existe infraestructura. ?",
+              "C": "Debería ser del 50% para ser realista.",
+              "D": "Es demasiado ambiciosa y requerirá décadas."
+            },
+            "respuesta_correcta": "B",
+            "sustento": "El artículo indica que para finales de 2024 se espera que el 20% de la población tenga acceso a 5G, “especialmente en zonas estratégicas de desarrollo económico”. Asimismo, señala que el 68% de los hogares rurales carecen de acceso fijo a Internet. Dado que la proyección del 5G está enfocada en áreas urbanas y estratégicas donde ya existen redes y la infraestructura es más robusta, la meta del 20% resulta plausible pese a la significativa brecha rural."
+          },
+          {
+            "id": "T3-P28",
+            "texto": "Basándose en la información proporcionada, ¿cuál de las siguientes perspectivas futuras no es considerada por el autor al proponer políticas para cerrar la brecha digital en Bolivia?",
+            "opciones": {
+              "A": "La inclusión de la visión y necesidades de los pueblos indígenas. ?",
+              "B": "La capacitación digital en escuelas y comunidades.",
+              "C": "La creación de un fondo nacional para expansión rural.",
+              "D": "Los incentivos a la inversión privada mediante subsidios."
+            },
+            "respuesta_correcta": "A",
+            "sustento": "Aunque el autor propone varias medidas para reducir la brecha digital (subsidios a la inversión privada, capacitación digital en escuelas y comunidades, y un fondo nacional para expansión rural), en ningún apartado del artículo se menciona la inclusión explícita de la visión o necesidades de los pueblos indígenas. En la sección 3 se enlistan propuestas de política, pero todas giran en torno a incentivos económicos, capacitación y financiación, sin abordar aspectos culturales ni la participación de comunidades indígenas."
+          },
+          {
+            "id": "T3-P29",
+            "texto": "Basándose en la información proporcionada, ¿qué combinación de medidas sería la más adecuada para reducir la brecha digital entre zonas rurales y urbanas en Bolivia en los próximos cinco años?",
+            "opciones": {
+              "A": "Solo expandir la fibra óptica.",
+              "B": "Combinar subsidios, capacitación digital y un fondo nacional para conectividad rural. ?",
+              "C": "Esperar a que el mercado solucione el problema.",
+              "D": "Concentrarse únicamente en la tecnología 5G."
+            },
+            "respuesta_correcta": "B",
+            "sustento": "La sección de ‘Desafíos futuros’ el artículo propone una combinación de políticas: incentivar la inversión privada mediante subsidios, promover la capacitación digital y crear un fondo nacional para la expansión de conectividad en zonas rurales. Estas medidas responden a los datos que indican que, según el INE (2023), el 68% de los hogares rurales carecían de acceso fijo a Internet, y que la brecha permanece significativa pese a la expansión de fibra óptica y 5G en áreas urbanas."
+          },
+          {
+            "id": "T3-P30",
+            "texto": "Según el artículo, la estimación de que el 20% de la población boliviana tendrá acceso a 5G para finales de 2024 debe evaluarse críticamente frente a la tendencia global de buscar una cobertura mayor del 50% en el mismo período; ¿cuál de las siguientes afirmaciones representa la valoración más adecuada de esta meta dentro del contexto boliviano?",
+            "opciones": {
+              "A": "Es una meta conservadora que refleja falta de ambición.",
+              "B": "Es un paso progresivo, dada la brecha digital existente. ?",
+              "C": "Es imposible de alcanzar por falta de infraestructura.",
+              "D": "Debería ser del 100% para igualar a los países desarrollados."
+            },
+            "respuesta_correcta": "B",
+            "sustento": "Para finales de 2024, se espera que el 20% de la población tenga acceso a 5G, concentrándose inicialmente en zonas estratégicas como Puerto Suárez donde se realizó la prueba piloto. Además, el texto menciona que la expansión de fibra óptica ya cubre gran parte de las áreas urbanas, lo que permite un despliegue complementario. Sin embargo, también se señala que en 2023 el 68% de los hogares rurales carecen de acceso fijo a Internet, evidenciando una brecha digital que sigue siendo un desafío; por ello la meta del 20% es un paso progresivo, no una cobertura total."
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "titulo": "Impacto de la digitalización y las redes sociales en la participación política de los jóvenes bolivianos",
+        "contenido_completo": "NOTA: El contenido completo del Texto 4 no fue proporcionado en el mensaje original, solo se incluyeron las preguntas. Para completar el JSON, se mantiene el objeto con las preguntas proporcionadas.",
+        "preguntas": [
+          {
+            "id": "T4-P1",
+            "texto": "Basándose en la información proporcionada, ¿cuál es la consecuencia social inmediata que tuvo la campaña del hashtag #ReformaEducativa2022 descrita en el artículo?",
+            "opciones": {
+              "A": "Aumento de la polarización política en redes sociales.",
+              "B": "Creación de un partido político juvenil.",
+              "C": "Organización de una marcha con más de 5000 personas. ?",
+              "D": "Sanción de una ley de reforma educativa."
+            },
+            "respuesta_correcta": "C",
+            "sustento": "En la sección “Movilización a través de plataformas digitales” del artículo se indica que el hashtag #ReformaEducativa2022 alcanzó más de 250000 interacciones y que la convocatoria resultó en una marcha en la Plaza Murillo con más de 5000 participantes."
+          },
+          {
+            "id": "T4-P2",
+            "texto": "De acuerdo con el texto, ¿cuál es la diferencia porcentual entre el porcentaje de jóvenes que se sienten capaces de distinguir noticias reales en el Departamento de La Paz y el porcentaje de los jóvenes que lo hacen en Potosí?",
+            "opciones": {
+              "A": "22 puntos porcentuales ?",
+              "B": "32 puntos porcentuales",
+              "C": "12 puntos porcentuales",
+              "D": "45 puntos porcentuales"
+            },
+            "respuesta_correcta": "A",
+            "sustento": "El 76% de los jóvenes de La Paz declara sentirse capaz de distinguir noticias reales, mientras que en Potosí esa cifra es del 54% (párrafo de ‘Acceso a la información política y alfabetización digital’). La diferencia es 76% – 54% = 22 puntos porcentuales."
+          },
+          {
+            "id": "T4-P3",
+            "texto": "La lectura del texto permite identificar que, según la teoría del “Efecto de Red” citada en el apartado de movilización digital, ¿cuál es el segundo mecanismo que se menciona para explicar cómo las redes sociales favorecen la organización de protestas?",
+            "opciones": {
+              "A": "La creación de una identidad colectiva.",
+              "B": "La retroalimentación instantánea (likes, retweets) que refuerza la percepción de apoyo social. ?",
+              "C": "El bajo costo de participación que reduce las barreras logísticas.",
+              "D": "La fragmentación de grupos rivales."
+            },
+            "respuesta_correcta": "B",
+            "sustento": "El segundo mecanismo es la retroalimentación instantánea (likes, retweets) que refuerza la percepción de apoyo social."
+          },
+          {
+            "id": "T4-P4",
+            "texto": "El artículo señala que, comparando el porcentaje nacional de jóvenes que poseen un smartphone con el porcentaje de jóvenes en Potosí que se declaran capaces de distinguir noticias reales de falsas, ¿cuál es la diferencia porcentual entre ambos valores?",
+            "opciones": {
+              "A": "35% ?",
+              "B": "33%",
+              "C": "41%",
+              "D": "30%"
+            },
+            "respuesta_correcta": "A",
+            "sustento": "Según el texto, el 89% de los jóvenes bolivianos posee un smartphone (párrafo de Acceso a la información) y que en Potosí solo el 54% se siente capaz de distinguir noticias reales de falsas. La diferencia entre ambos porcentajes es 89% - 54% = 35%."
+          },
+          {
+            "id": "T4-P5",
+            "texto": "A consecuencia del análisis presentado, ¿cómo define el artículo el concepto de participación simbólica?",
+            "opciones": {
+              "A": "La participación en protestas físicas organizadas mediante redes sociales.",
+              "B": "La expresión de opiniones y valores sin necesariamente traducirse en acción concreta. ?",
+              "C": "La firma de peticiones electrónicas y difusión de mensajes de campaña.",
+              "D": "La afiliación a partidos políticos a través de plataformas digitales."
+            },
+            "respuesta_correcta": "B",
+            "sustento": "El artículo define la participación simbólica como “la expresión de opiniones y valores sin necesariamente traducirse en acción concreta” (sección ‘Nuevas formas de expresión y participación simbólica’)."
+          },
+          {
+            "id": "T4-P6",
+            "texto": "Del análisis presentado se desprende que, según el artículo, ¿cómo se define el concepto de alfabetización digital?",
+            "opciones": {
+              "A": "La capacidad de usar redes sociales para organizar protestas.",
+              "B": "La capacidad de buscar, evaluar y utilizar la información digital de forma responsable. ?",
+              "C": "La habilidad para producir contenido multimedia en plataformas digitales.",
+              "D": "El acceso a dispositivos electrónicos y conectividad a internet."
+            },
+            "respuesta_correcta": "B",
+            "sustento": "El artículo define la alfabetización digital como “la capacidad de buscar, evaluar y utilizar la información digital de forma responsable” (UNESCO, 2022). Esta definición aparece explícitamente en la sección 1 del Desarrollo."
+          },
+          {
+            "id": "T4-P7",
+            "texto": "Del análisis presentado se desprende que la efectividad de la participación política de los jóvenes bolivianos depende principalmente de:",
+            "opciones": {
+              "A": "La posesión de un smartphone.",
+              "B": "La alfabetización digital y la capacidad crítica para evaluar información. ?",
+              "C": "La disponibilidad de redes sociales gratuitas.",
+              "D": "La afiliación a partidos políticos tradicionales."
+            },
+            "respuesta_correcta": "B",
+            "sustento": "El artículo indica que, aunque el 89% de los jóvenes posee un smartphone, la alfabetización digital sigue siendo desigual y es clave para evitar la apatía política (sección 1). Además, las conclusiones recomiendan implementar programas de alfabetización digital en todos los niveles escolares para que los jóvenes puedan evaluar críticamente la información y participar de forma efectiva."
+          },
+          {
+            "id": "T4-P8",
+            "texto": "La lectura del texto permite identificar que, al comparar el proyecto “Voces del Chaco” con la campaña Reforma Educativa 2022, ¿cuál es la diferencia principal en el uso de los medios digitales para la participación política de los jóvenes en temas ambientales?",
+            "opciones": {
+              "A": "“Voces del Chaco” es un podcast que genera debates, mientras que #ReformaEducativa2022 fue una movilización digital que llevó a una marcha presencial. ?",
+              "B": "Ambas utilizaron hashtags en Twitter para viralizar sus mensajes.",
+              "C": "“Voces del Chaco” organizó protestas callejeras, mientras que #ReformaEducativa2022 se limitó a debates en línea.",
+              "D": "No hay diferencia, ambas son formas de participación simbólica."
+            },
+            "respuesta_correcta": "A",
+            "sustento": "El artículo describe que “Voces del Chaco” consiste en una serie de podcasts compartidos en Instagram que generan debates sobre conservación ambiental y justicia social, es decir, una forma de participación simbólica centrada en temas ambientales. En contraste, la campaña #ReformaEducativa2022 se menciona como un caso de movilización digital donde un hashtag en Twitter y TikTok organizó una marcha presencial de más de 5000 personas."
+          },
+          {
+            "id": "T4-P9",
+            "texto": "Del análisis presentado se desprende que, en comparación con la movilización física derivada del hashtag #ReformaEducativa2022, la iniciativa “Voces del Chaco” se caracteriza principalmente por:",
+            "opciones": {
+              "A": "Traducirse en acciones de protesta callejera.",
+              "B": "Ser una forma de participación simbólica que no necesariamente lleva a acción concreta. ?",
+              "C": "Utilizar exclusivamente redes sociales pagadas.",
+              "D": "Estar dirigida solo a comunidades rurales."
+            },
+            "respuesta_correcta": "B",
+            "sustento": "El texto describe a “Voces del Chaco” como una serie de podcasts que generan debates y expresan opiniones de forma creativa, es decir, una forma de participación simbólica que no se traduce necesariamente en acciones presenciales, a diferencia del caso del hashtag #ReformaEducativa2022, cuya movilización digital resultó en una marcha con más de 5000 personas."
+          },
+          {
+            "id": "T4-P10",
+            "texto": "Del análisis presentado se desprende que, debido al bajo costo de la participación digital descrito en la movilización #ReformaEducativa2022, es probable que:",
+            "opciones": {
+              "A": "Los jóvenes ejerzan mayor presión para que el Estado invierta en infraestructura digital. ?",
+              "B": "Desaparezcan las formas tradicionales de participación política.",
+              "C": "Aumente la dependencia de líderes políticos tradicionales.",
+              "D": "Se reduzca el uso de redes sociales en Bolivia."
+            },
+            "respuesta_correcta": "A",
+            "sustento": "La digitalización permite una movilización rápida y de bajo costo (párrafo de movilización digital) y que, para que el impacto sea positivo, se requieren políticas que fomenten la transparencia y la infraestructura digital (conclusiones). De manera implícita, el bajo costo de participar genera mayor presión de los jóvenes para que el Estado invierta en infraestructura digital, lo cual puede traducirse en beneficios económicos al ampliar el acceso a información y herramientas digitales."
+          },
+          {
+            "id": "T4-P11",
+            "texto": "Considerando lo mencionado en el texto, ¿cómo se diferencian los efectos de la digitalización en la movilización política de los jóvenes en la Universidad Mayor de San Andrés (UMSA) y en la región del Beni?",
+            "opciones": {
+              "A": "En la UMSA generó movilización masiva; en el Beni, fragmentación y polarización. ?",
+              "B": "En la UMSA no hubo impacto; en el Beni se logró consenso.",
+              "C": "En ambas se logró una movilización exitosa y unificada.",
+              "D": "En la UMSA se usó solo radio; en el Beni, redes sociales."
+            },
+            "respuesta_correcta": "A",
+            "sustento": "En el texto, el caso de la UMSA mostró una movilización rápida y masiva con el hashtag #ReformaEducativa2022, alcanzando más de 250.000 interacciones y una marcha de 5,000 personas, lo que ejemplifica el “efecto de red” descrito. En la región del Beni, por otro lado, el artículo indica que grupos rivales usaron WhatsApp para difundir mensajes polarizadores que dificultan la construcción de consensos, generando fragmentación y limitando la movilización colectiva."
+          },
+          {
+            "id": "T4-P12",
+            "texto": "El artículo señala que, al comparar la movilización a través de plataformas digitales con la expresión simbólica en redes sociales, la consecuencia social más distintiva para la participación política juvenil es que:",
+            "opciones": {
+              "A": "La movilización digital puede traducirse en acción colectiva concreta, mientras la expresión simbólica tiene un impacto principalmente en el debate y la construcción de identidad. ?",
+              "B": "Ambas conducen inevitablemente a protestas físicas.",
+              "C": "La expresión simbólica tiene mayor impacto electoral que la movilización digital.",
+              "D": "La movilización digital solo funciona en contextos urbanos."
+            },
+            "respuesta_correcta": "A",
+            "sustento": "El texto describe que la movilización a través de plataformas digitales, como el caso del hashtag #ReformaEducativa2022, llevó a una protesta física con más de 5 000 personas, lo que demuestra una traducción de la actividad en línea a acción colectiva concreta. Por otro lado, en la sección de “Nuevas formas de expresión y participación simbólica” se indica que los memes, videos y podcasts fomentan el sentido de pertenencia y habilidades de comunicación, pero señala que “la medida en que estas actividades se traducen en cambios políticos concretos sigue siendo objeto de investigación”, lo que implica que su consecuencia principal es simbólica más que accionable."
+          },
+          {
+            "id": "T4-P13",
+            "texto": "Basándose en la información proporcionada, ¿cuál es la conclusión más probable sobre el efecto histórico de la expansión digital en la participación política de los jóvenes bolivianos entre 2013 y 2022?",
+            "opciones": {
+              "A": "La expansión digital por sí sola no asegura un aumento generalizado de la participación; depende de la alfabetización digital. ?",
+              "B": "La expansión digital eliminó todas las barreras para la participación política.",
+              "C": "La participación política disminuyó debido a la desinformación en redes sociales.",
+              "D": "Los jóvenes dejaron de usar redes sociales para fines políticos."
+            },
+            "respuesta_correcta": "A",
+            "sustento": "El texto indica que el acceso a Internet en hogares pasó del 34% en 2013 al 71% en 2022 y que el 89% de los jóvenes posee un smartphone, evidenciando una expansión tecnológica importante. Sin embargo, la calidad de la participación varía: en La Paz el 76% de los jóvenes se siente capaz de distinguir noticias reales de falsas, mientras que en Potosí esa cifra es solo 54%. Además, la exposición a “fake news” está asociada a una reducción del 12% en la probabilidad de votar. Estos datos demuestran que, aunque haya más dispositivos y mayor conectividad, la participación política mejora sustancialmente solo donde la alfabetización digital se ha reforzado, lo que lleva a la conclusión de que la expansión digital por sí sola no asegura un aumento generalizado de la participación."
+          },
+          {
+            "id": "T4-P14",
+            "texto": "A partir de lo expuesto en el artículo, ¿cuál es la perspectiva futura que el autor sugiere para potenciar la participación política de los jóvenes bolivianos?",
+            "opciones": {
+              "A": "Restringir el uso de redes sociales para evitar desinformación.",
+              "B": "Implementar programas de alfabetización digital, políticas de transparencia y apoyo a contenidos juveniles. ?",
+              "C": "Promover únicamente la participación a través de partidos políticos tradicionales.",
+              "D": "Eliminar la educación mediática de los currículos escolares."
+            },
+            "respuesta_correcta": "B",
+            "sustento": "En la sección de conclusiones el autor propone tres líneas de acción futuras: (1) programas de alfabetización digital en todos los niveles escolares, (2) políticas públicas que fomenten la transparencia y faciliten la participación online mediante plataformas seguras, y (3) apoyo a iniciativas de contenido juvenil que integren investigación académica con formatos digitales. Estas medidas buscan convertir la digitalización en una herramienta democratizadora."
+          },
+          {
+            "id": "T4-P15",
+            "texto": "De acuerdo con el texto, ¿qué es probable que ocurra si la producción y difusión de contenidos juveniles sobre temas ambientales, como el proyecto “Voces del Chaco” se intensifica en las redes sociales?",
+            "opciones": {
+              "A": "Disminuirá el interés de los jóvenes por la política.",
+              "B": "Se reforzará la inserción de la perspectiva juvenil en la agenda pública y ejercerá presión para políticas de conservación. ?",
+              "C": "Aumentará la polarización entre partidos políticos.",
+              "D": "Reducirá el uso de podcasts en Bolivia."
+            },
+            "respuesta_correcta": "B",
+            "sustento": "El artículo indica que el proyecto “Voces del Chaco” ha generado debates entre la comunidad académica y ONG, facilitando la inserción de la perspectiva juvenil en la agenda pública. Por lo tanto, ampliar la producción y difusión de contenidos similares plausiblemente reforzará esa inserción y ejercerá presión para que las instituciones consideren políticas de conservación."
+          },
+          {
+            "id": "T4-P16",
+            "texto": "La lectura del texto permite identificar que, al comparar la campaña ReformaEducativa2022 conducida por la UMSA con el uso de WhatsApp en el Beni, la diferencia esencial radica en:",
+            "opciones": {
+              "A": "La plataforma utilizada (Twitter vs WhatsApp).",
+              "B": "El efecto logrado: movilización colectiva vs fragmentación y polarización. ?",
+              "C": "El grupo etario de los participantes.",
+              "D": "El tema abordado (educación vs medio ambiente)."
+            },
+            "respuesta_correcta": "B",
+            "sustento": "El texto describe que la campaña #ReformaEducativa2022, difundida mediante el hashtag en Twitter y TikTok, logró más de 250 000 interacciones y movilizó a más de 5 000 personas en una marcha, evidenciando una identificación colectiva y acción física. En contraste, el párrafo sobre el Beni señala que grupos rivales usan WhatsApp para difundir mensajes polarizadores que dificultan la construcción de consensos, indicando un efecto de fragmentación y polarización."
+          },
+          {
+            "id": "T4-P17",
+            "texto": "De acuerdo con el texto, ¿qué principio general se puede extraer sobre la relación entre la digitalización y la participación política de los jóvenes bolivianos?",
+            "opciones": {
+              "A": "La posesión de dispositivos garantiza participación política crítica.",
+              "B": "La alfabetización digital es esencial para que la digitalización no se traduzca en apatía política. ?",
+              "C": "Las redes sociales sustituyen completamente las formas tradicionales de participación.",
+              "D": "La participación digital es exclusiva de las zonas urbanas."
+            },
+            "respuesta_correcta": "B",
+            "sustento": "El artículo indica que, aunque el 89% de los jóvenes posee un smartphone y el 68% usa internet cotidianamente, la mera posesión no garantiza participación crítica; la alfabetización digital, definida como la capacidad de buscar, evaluar y usar información digital responsablemente, sigue siendo desigual y se señala como factor clave para que la digitalización no se traduzca en apatía política (sección 'Acceso a la información política y alfabetización digital')."
+          },
+          {
+            "id": "T4-P18",
+            "texto": "La lectura del texto permite identificar que, si se implementan a nivel nacional programas de alfabetización digital dirigidos a jóvenes de entre 17 y 19 años, es probable que…",
+            "opciones": {
+              "A": "Disminuya la intención de voto por sobresaturación de información.",
+              "B": "Aumente la capacidad de distinguir información falsa y se mitigue la caída del 12% en la intención de voto. ?",
+              "C": "Desaparezcan las redes sociales como espacio de participación.",
+              "D": "Se incremente la brecha digital entre zonas urbanas y rurales."
+            },
+            "respuesta_correcta": "B",
+            "sustento": "El artículo señala que el 89% de los jóvenes poseía un smartphone, pero la alfabetización digital es desigual (76% en La Paz versus 54% en Potosí) y que la exposición a “fake news” está vinculada a una reducción del 12% en la probabilidad de votar (Rodríguez y Salazar, 2023). Asimismo, se recomienda implementar programas de alfabetización digital para mejorar la capacidad crítica. Por lo tanto, si dichos programas se extienden a nivel nacional, es razonable inferir que la habilidad de distinguir información falsa aumentará, lo que mitigará la caída del 12% en la intención de voto."
+          },
+          {
+            "id": "T4-P19",
+            "texto": "Según el artículo, ¿qué es probable que ocurra si se implementan programas de alfabetización digital extensivos en todas las escuelas de Bolivia?",
+            "opciones": {
+              "A": "Aumentará la exposición a noticias falsas.",
+              "B": "Disminuirá la participación electoral.",
+              "C": "Mejorará la capacidad de evaluar información y aumentará la participación electoral. ?",
+              "D": "Reducirá el uso de internet entre los jóvenes."
+            },
+            "respuesta_correcta": "C",
+            "sustento": "El artículo subraya que la alfabetización digital es clave para que la digitalización no conduzca a apatía política; menciona que la exposición a “fake news” reduce la intención de voto en un 12% y que mejorar la capacidad de evaluar la veracidad de la información debería revertir esa tendencia, incrementando la participación electoral."
+          },
+          {
+            "id": "T4-P20",
+            "texto": "Basándose en la información proporcionada, ¿qué principio general puede inferirse sobre el papel de los jóvenes bolivianos como actores en la participación política digital?",
+            "opciones": {
+              "A": "Son consumidores pasivos de información política.",
+              "B": "Actúan como catalizadores que coordinan acciones colectivas y crean discursos digitales. ?",
+              "C": "Dependen exclusivamente de líderes políticos tradicionales.",
+              "D": "Su participación se limita al voto electoral."
+            },
+            "respuesta_correcta": "B",
+            "sustento": "El artículo muestra dos casos específicos: la movilización de estudiantes de la UMSA mediante el hashtag #ReformaEducativa2022, que evidencia la capacidad de los jóvenes para organizar protestas masivas, y el proyecto “Voces del Chaco”, que ilustra la generación de contenido simbólico (podcasts) que inserta sus perspectivas en la agenda pública. Ambos ejemplos confirman que los jóvenes actúan como catalizadores que coordinan acciones colectivas y crean discursos digitales."
+          },
+          {
+            "id": "T4-P21",
+            "texto": "Basándose en la información proporcionada, ¿qué diferencia económica se puede inferir entre la movilización digital de los jóvenes mediante hashtags y la exposición a noticias falsas en relación con su potencial efecto sobre la participación electoral?",
+            "opciones": {
+              "A": "Ambas aumentan la inversión publicitaria en redes sociales.",
+              "B": "La movilización digital puede aumentar la influencia económica de los jóvenes; la exposición a noticias falsas la reduce. ?",
+              "C": "La exposición a noticias falsas incrementa el gasto en dispositivos tecnológicos.",
+              "D": "No hay diferencia económica significativa entre ambas."
+            },
+            "respuesta_correcta": "B",
+            "sustento": "El texto describe que el hashtag #ReformaEducativa2022 movilizó a más de 5000 personas y alcanzó 250000 interacciones, lo que evidencia una capacidad de generar participación política concreta; esa participación puede traducirse en una mayor influencia económica de los jóvenes al impactar decisiones de políticas públicas. En contraste, el artículo indica que la exposición a noticias falsas está vinculada a una reducción del 12% en la probabilidad de voto (Rodríguez y Salazar, 2023), lo que implica una menor capacidad de influir económicamente en los procesos electorales."
+          },
+          {
+            "id": "T4-P22",
+            "texto": "Del análisis presentado se desprende que la principal fortaleza del enfoque metodológico del artículo radica en:",
+            "opciones": {
+              "A": "Basarse únicamente en datos cuantitativos del INE.",
+              "B": "Combinar estadísticas nacionales con casos de estudio concretos. ?",
+              "C": "Ignorar el contexto rural boliviano.",
+              "D": "Utilizar solo fuentes internacionales."
+            },
+            "respuesta_correcta": "B",
+            "sustento": "El artículo utiliza estadísticas de la Encuesta Nacional de Jóvenes 2022 y del INE (por ejemplo, el 89% de jóvenes con smartphone) junto con casos de estudio concretos como la campaña #ReformaEducativa2022 de la UMSA y el proyecto “Voces del Chaco”. Esta mezcla de fuentes cuantitativas y cualitativas brinda triangulación y contextualiza los resultados."
+          },
+          {
+            "id": "T4-P23",
+            "texto": "El artículo señala que la digitalización puede revitalizar la democracia boliviana siempre que se acompañe de políticas de alfabetización digital; ¿qué tan válido es este argumento según la información presentada?",
+            "opciones": {
+              "A": "Totalmente válido, porque el artículo demuestra una relación causal directa.",
+              "B": "Parcialmente válido, porque aunque hay correlación, no se prueba causalidad absoluta. ?",
+              "C": "No válido, porque la digitalización solo genera apatía política.",
+              "D": "No se puede evaluar por falta de datos."
+            },
+            "respuesta_correcta": "B",
+            "sustento": "En la sección de conclusiones el autor afirma que la digitalización ofrece una oportunidad histórica para revitalizar la democracia, siempre que se acompañe de políticas que promuevan el pensamiento crítico y la alfabetización digital. Además, en el apartado sobre alfabetización digital se muestra que la capacidad de distinguir noticias reales de falsas está vinculada a una mayor intención de participar, lo que respalda la relación entre alfabetización y participación política. Sin embargo, la evidencia presentada es mayormente correlacional, no experimental."
+          },
+          {
+            "id": "T4-P24",
+            "texto": "De acuerdo con el texto, ¿cuál de las siguientes limitaciones o sesgos no está contemplado en las soluciones propuestas por los autores?",
+            "opciones": {
+              "A": "La brecha de conectividad entre zonas urbanas y rurales.",
+              "B": "La necesidad de alfabetización digital en jóvenes.",
+              "C": "La falta de medidas concretas para ampliar infraestructura de conectividad en zonas rurales. ?",
+              "D": "La importancia de la transparencia institucional."
+            },
+            "respuesta_correcta": "C",
+            "sustento": "El artículo reconoce desigualdades en acceso a internet según la ubicación geográfica (párrafos de la introducción y desarrollo, sección 1), las tres líneas de acción propuestas en la conclusión se centran en alfabetización digital, transparencia institucional y apoyo a contenidos juveniles, sin mencionar medidas concretas para ampliar la infraestructura de conectividad en zonas rurales."
+          },
+          {
+            "id": "T4-P25",
+            "texto": "De acuerdo con el texto, ¿qué tipo de evidencia sería más pertinente para reforzar la afirmación de que los programas de alfabetización digital aumentan la intención de voto entre los jóvenes bolivianos?",
+            "opciones": {
+              "A": "Estadísticas de acceso a internet por departamento.",
+              "B": "Estudios experimentales que midan cambios en la intención de voto antes y después de la intervención. ?",
+              "C": "Encuestas de popularidad de políticos en redes sociales.",
+              "D": "Datos históricos de participación electoral."
+            },
+            "respuesta_correcta": "B",
+            "sustento": "El texto señala que la alfabetización digital es clave para que la digitalización no genere apatía política, pero la evidencia presentada es mayormente correlacional (por ejemplo, diferencias entre La Paz y Potosí). Para demostrar que los programas de alfabetización incrementan la intención de voto, se requeriría evidencia experimental que controle variables y mida cambios en la intención de voto antes y después de la intervención."
+          },
+          {
+            "id": "T4-P26",
+            "texto": "De acuerdo con el texto, ¿por qué es relevante implementar programas de alfabetización digital en las escuelas bolivianas para mejorar la participación política de los jóvenes?",
+            "opciones": {
+              "A": "Porque aumentará el consumo de redes sociales.",
+              "B": "Porque desarrollará la capacidad de buscar, evaluar y usar información digital, mitigando la desinformación y favoreciendo una participación más informada. ?",
+              "C": "Porque reducirá el uso de internet en los jóvenes.",
+              "D": "Porque fomentará el uso exclusivo de fuentes oficiales."
+            },
+            "respuesta_correcta": "B",
+            "sustento": "El artículo señala que, aunque el 89% de los jóvenes posee smartphone, la alfabetización digital sigue siendo desigual (76% en La Paz vs 54% en Potosí) y que la exposición a noticias falsas reduce en un 12% la probabilidad de voto (Rodríguez y Salazar, 2023). Por lo tanto, programas educativos que desarrollen la capacidad de buscar, evaluar y usar información digital son esenciales para mitigar la desinformación y favorecer una participación política más informada y activa."
+          },
+          {
+            "id": "T4-P27",
+            "texto": "Considerando lo mencionado en el texto, ¿qué sesgo económico está presente en el enfoque del autor al analizar la digitalización y la participación política de los jóvenes bolivianos?",
+            "opciones": {
+              "A": "Ignora cómo la situación socioeconómica afecta el acceso y calidad de la participación digital. ?",
+              "B": "Sobrestima el costo de los dispositivos móviles.",
+              "C": "Asume que todos los jóvenes tienen igual acceso a planes de datos.",
+              "D": "No considera el impacto de la publicidad en redes sociales."
+            },
+            "respuesta_correcta": "A",
+            "sustento": "El artículo indica que el 89% de los jóvenes posee un smartphone y menciona diferencias geográficas y educativas, no aborda explícitamente cómo la situación socioeconómica (ingresos familiares, capacidad de pago de planes de datos, etc.) afecta el acceso y la calidad de la participación digital. Esta omisión constituye un sesgo económico, ya que la capacidad de participar críticamente en entornos digitales depende también de recursos financieros que el texto no considera."
+          },
+          {
+            "id": "T4-P28",
+            "texto": "Del análisis presentado se desprende que, en contraste con la concepción tradicional de que la defensa ambiental depende principalmente de acciones de campo, ¿qué afirma el artículo sobre el papel de iniciativas digitales como los podcasts ‘Voces del Chaco’ en la influencia de políticas medioambientales?",
+            "opciones": {
+              "A": "Que son irrelevantes para la política ambiental.",
+              "B": "Que pueden generar debates y facilitar la inserción de la perspectiva juvenil en la agenda pública, aunque su traducción en cambios políticos concretos requiere más investigación. ?",
+              "C": "Que sustituyen completamente las acciones de campo.",
+              "D": "Que solo tienen impacto a nivel local."
+            },
+            "respuesta_correcta": "B",
+            "sustento": "En la sección ‘Nuevas formas de expresión y participación simbólica’ se describe que el proyecto ‘Voces del Chaco’ ha generado debates y ha facilitado la inserción de la perspectiva juvenil en la agenda pública, pero el artículo también señala que la medida en que estas actividades se traduzcan en cambios políticos concretos sigue siendo objeto de investigación."
+          },
+          {
+            "id": "T4-P29",
+            "texto": "A partir de lo expuesto en el artículo, ¿cuáles son las principales implicaciones éticas y sociales que deben considerarse al diseñar programas de alfabetización digital dirigidos a los jóvenes bolivianos para fortalecer su participación política?",
+            "opciones": {
+              "A": "Deben priorizar el uso de redes sociales comerciales.",
+              "B": "Deben incluir pensamiento crítico, inclusión digital y medidas contra la desinformación, reduciendo brechas regionales y protegiendo a los jóvenes de la manipulación. ?",
+              "C": "Deben limitarse a zonas urbanas por mayor acceso a internet.",
+              "D": "Deben promover el uso exclusivo de fuentes gubernamentales."
+            },
+            "respuesta_correcta": "B",
+            "sustento": "El artículo subraya que la digitalización solo favorece la participación política si se acompañan políticas de alfabetización digital que incluyan pensamiento crítico, inclusión digital y medidas contra la desinformación (párrafos sobre alfabetización digital y conclusiones). Además, señala la necesidad de reducir la brecha de acceso entre regiones como La Paz y Potosí y de proteger a los jóvenes de la manipulación de información."
+          },
+          {
+            "id": "T4-P30",
+            "texto": "De acuerdo con el texto, ¿cuáles son las implicaciones éticas más relevantes de la desigualdad en alfabetización digital entre los jóvenes de La Paz y Potosí para la calidad de la participación política?",
+            "opciones": {
+              "A": "No hay implicaciones éticas significativas.",
+              "B": "La falta de alfabetización digital expone a ciertos jóvenes a desinformación, afectando su intención de participar y vulnerando el principio de igualdad democrática. ?",
+              "C": "Favorece la diversidad de opiniones en el debate público.",
+              "D": "Incentiva el uso de fuentes alternativas de información."
+            },
+            "respuesta_correcta": "B",
+            "sustento": "El texto señala que en La Paz el 76% de los jóvenes se siente capaz de distinguir noticias reales de falsas, mientras que en Potosí esa cifra cae al 54%. Además, se menciona que la exposición a “fake news” está vinculada a una reducción del 12% en la probabilidad de votar (Rodríguez y Salazar, 2023). Esta combinación indica una vulnerabilidad ética: la falta de alfabetización digital expone a ciertos jóvenes a desinformación, lo que afecta su intención de participar y vulnera el principio de igualdad democrática."
+          }
+        ]
+      }
+    ],
+    "total_preguntas": 120,
+    "seleccion_aleatoria": 30
+  }
+}
